@@ -1,0 +1,32 @@
+name: Purge CDN Cache
+
+on:
+  push:
+    branches:
+      - master
+    paths:
+      - '**/*.md'
+      - '**/*.png'
+      - '**/*.jpg'
+      - '**/*.jpeg'
+      - '**/*.gif'
+
+jobs:
+  purge:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Get changed files
+        id: changed-files
+        uses: tj-actions/changed-files@v44
+
+      - name: Purge jsDelivr cache
+        run: |
+          for file in ${{ steps.changed-files.outputs.all_changed_files }}; do
+            echo "Purging cache for $file"
+            curl -s "https://purge.jsdelivr.net/gh/yymin1022/Blog_LR_Data@master/$file"
+          done
