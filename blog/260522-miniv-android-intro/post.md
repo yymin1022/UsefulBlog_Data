@@ -1,7 +1,7 @@
 MINI-V Android 프로젝트는 LLama 기반의 AI 서비스를 탑재한
 Custom Android 프로젝트입니다.
 
-이번 포스팅에서는 MINI-V Android 프로젝트의 첫 내용으로서
+이번 포스팅에서는 MINI-V Android 프로젝트의 첫 이야기로서
 Android 내 설계 구조에 대해 이야기해보려고 합니다.
 
 <br/>
@@ -12,7 +12,7 @@ Android 내 설계 구조에 대해 이야기해보려고 합니다.
 LineageOS를 기반으로 개발합니다.
 
 MINI-V Android에서는 아래 오픈소스 레포지토리를 기반으로 Qualcomm Hexagon NPU에 최적화된 LLama 모델을
-기본 탑재하고, 이를 통해 On-device AI 채팅 기능과 편의 기능을 제공할 예정입니다.
+기본 탑재하고, 이를 통해 On-device AI 채팅 기능과 각종 편의 기능을 제공할 예정입니다.
 
 [htp-ops-lib](https://github.com/haozixu/htp-ops-lib)
 
@@ -41,7 +41,6 @@ MINI-V Android에서는 아래 오픈소스 레포지토리를 기반으로 Qual
 
 ## Progress
 
-앞으로 MINI-V Android의 개발을 진행하며, 각 Layer 구현 과정을 포스팅으로 정리해
-아래에 모아두고자 합니다.
+앞으로 MINI-V Android의 개발을 진행하며, 각 Layer 구현 과정을 포스팅으로 정리해 이곳에 모아둘 예정입니다.
 
-[MINI-V Android GitHub](https://github.com/MINI-V_Android)
+[MINI-V Android GitHub](https://github.com/MINI-V-Android)
