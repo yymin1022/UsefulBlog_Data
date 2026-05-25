@@ -10,6 +10,12 @@ on:
       - '**/*.jpg'
       - '**/*.jpeg'
       - '**/*.gif'
+  workflow_dispatch:
+    inputs:
+      file_path:
+        description: 'Specific file path to purge (e.g. blog/post-url/post.md). Leave empty to purge recently changed files.'
+        required: false
+        default: ''
 
 jobs:
   purge:
@@ -21,12 +27,20 @@ jobs:
           fetch-depth: 0
 
       - name: Get changed files
+        if: "${{ github.event.inputs.file_path == '' }}"
         id: changed-files
         uses: tj-actions/changed-files@v44
 
       - name: Purge jsDelivr cache
         run: |
-          for file in ${{ steps.changed-files.outputs.all_changed_files }}; do
-            echo "Purging cache for $file"
-            curl -s "https://purge.jsdelivr.net/gh/yymin1022/Blog_LR_Data@master/$file"
-          done
+          if [ "${{ github.event.inputs.file_path }}" != "" ]; then
+            # Manually purge specified file
+            echo "Manually purging cache for ${{ github.event.inputs.file_path }}"
+            curl -s "https://purge.jsdelivr.net/gh/yymin1022/Blog_LR_Data@master/${{ github.event.inputs.file_path }}"
+          else
+            # Purge auto-detected changed files
+            for file in ${{ steps.changed-files.outputs.all_changed_files }}; do
+              echo "Purging cache for $file"
+              curl -s "https://purge.jsdelivr.net/gh/yymin1022/Blog_LR_Data@master/$file"
+            done
+          fi
