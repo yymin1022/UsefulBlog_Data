@@ -1,3 +1,11 @@
+---
+title: "2393. Rook"
+date: "BOJ 2393"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-2393"
+---
+
 [문제 바로가기](https://boj.kr/2393)
 
 ```cobol

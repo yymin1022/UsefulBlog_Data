@@ -1,3 +1,11 @@
+---
+title: "15720. 카우버거"
+date: "BOJ 15720"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-15720"
+---
+
 [문제 바로가기](https://boj.kr/15720)
 
 ```c++

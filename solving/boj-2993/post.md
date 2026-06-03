@@ -1,3 +1,11 @@
+---
+title: "2993. 세 부분"
+date: "BOJ 2993"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-2993"
+---
+
 [문제 바로가기](https://boj.kr/2993)
 
 ```c++

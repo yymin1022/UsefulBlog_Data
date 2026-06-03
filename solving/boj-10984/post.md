@@ -1,3 +1,11 @@
+---
+title: "10984. 내 학점을 구해줘"
+date: "BOJ 10984"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-10984"
+---
+
 [문제 바로가기](https://boj.kr/10984)
 
 ```c++

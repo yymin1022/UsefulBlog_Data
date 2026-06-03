@@ -1,3 +1,11 @@
+---
+title: "1012.  유기농 배추"
+date: "BOJ 1012"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-1012"
+---
+
 [문제 바로가기](https://boj.kr/1012)
 
 ```c++

@@ -1,3 +1,11 @@
+---
+title: "11059. 크리 문자열"
+date: "BOJ 11059"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-11059"
+---
+
 [문제 바로가기](https://boj.kr/11059)
 
 ```c++

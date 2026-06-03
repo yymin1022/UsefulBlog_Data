@@ -1,3 +1,11 @@
+---
+title: "11004. K번째 수"
+date: ""
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-11004"
+---
+
 [문제 바로가기](https://boj.kr/11004)
 
 ```c++

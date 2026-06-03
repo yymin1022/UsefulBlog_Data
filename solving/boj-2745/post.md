@@ -1,3 +1,11 @@
+---
+title: "2745.  진법 변환"
+date: "BOJ 2745"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-2745"
+---
+
 [문제 바로가기](https://boj.kr/2745)
 
 ```c++

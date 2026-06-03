@@ -1,3 +1,11 @@
+---
+title: "2118. 두 개의 탑"
+date: "BOJ 2118"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-2118"
+---
+
 [문제 바로가기](https://boj.kr/2118)
 
 ```c++

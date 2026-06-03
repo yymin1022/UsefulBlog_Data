@@ -1,3 +1,11 @@
+---
+title: "9019.  DSLR"
+date: "BOJ 9019"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-9019"
+---
+
 [문제 바로가기](https://boj.kr/9019)
 
 ```c++

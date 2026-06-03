@@ -1,3 +1,11 @@
+---
+title: "23029. 시식 코너는 나의 것"
+date: "BOJ 23029"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-23029"
+---
+
 [문제 바로가기](https://boj.kr/23029)
 
 ```c++

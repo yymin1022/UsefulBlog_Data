@@ -1,3 +1,11 @@
+---
+title: "2302. 극장 좌석"
+date: "BOJ 2302"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-2302"
+---
+
 [문제 바로가기](https://boj.kr/2302)
 
 ```c++

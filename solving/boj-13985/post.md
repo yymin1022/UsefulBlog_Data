@@ -1,3 +1,11 @@
+---
+title: "13985. Equality"
+date: "BOJ 13985"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-13985"
+---
+
 [문제 바로가기](https://boj.kr/13985)
 
 ```c++

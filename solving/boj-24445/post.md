@@ -1,3 +1,11 @@
+---
+title: "24445. 알고리즘 수업 - 너비 우선 탐색 2"
+date: "BOJ 24445"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-24445"
+---
+
 [문제 바로가기](https://boj.kr/24445)
 
 ```c++

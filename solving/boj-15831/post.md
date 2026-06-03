@@ -1,3 +1,11 @@
+---
+title: "15831. 준표의 조약돌"
+date: "BOJ 15831"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-15831"
+---
+
 [문제 바로가기](https://boj.kr/15831)
 
 ```c++

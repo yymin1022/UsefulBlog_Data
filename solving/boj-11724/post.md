@@ -1,3 +1,11 @@
+---
+title: "11724.  연결 요소의 개수"
+date: "BOJ 11724"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-11724"
+---
+
 [문제 바로가기](https://boj.kr/11724)
 
 ```c++

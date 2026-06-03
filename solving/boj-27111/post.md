@@ -1,3 +1,11 @@
+---
+title: "27111. 출입 기록"
+date: "BOJ 27111"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-27111"
+---
+
 [문제 바로가기](https://boj.kr/27111)
 
 ```c++

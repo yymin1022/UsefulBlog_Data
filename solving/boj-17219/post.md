@@ -1,3 +1,11 @@
+---
+title: "17219.  비밀번호 찾기"
+date: "BOJ 17219"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-17219"
+---
+
 [문제 바로가기](https://boj.kr/17219)
 
 ```c++

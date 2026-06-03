@@ -1,3 +1,11 @@
+---
+title: "24900.  한별 찍기"
+date: "BOJ 24900"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-24900"
+---
+
 [문제 바로가기](https://boj.kr/24900)
 
 ```c++

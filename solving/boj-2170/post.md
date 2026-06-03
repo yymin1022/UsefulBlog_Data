@@ -1,3 +1,11 @@
+---
+title: "2170. 선 긋기"
+date: "BOJ 2170"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-2170"
+---
+
 [문제 바로가기](https://boj.kr/2170)
 
 ```c++

@@ -1,3 +1,11 @@
+---
+title: "3733. Share"
+date: "BOJ 3733"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-3733"
+---
+
 [문제 바로가기](https://boj.kr/3733)
 
 ```c++

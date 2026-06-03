@@ -1,3 +1,11 @@
+---
+title: "1145. 적어도 대부분의 배수"
+date: "BOJ 1145"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-1145"
+---
+
 [문제 바로가기](https://boj.kr/1145)
 
 ```c++

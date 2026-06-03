@@ -1,3 +1,11 @@
+---
+title: "22971. 증가하는 부분 수열의 개수"
+date: "BOJ 22971"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-22971"
+---
+
 [문제 바로가기](https://boj.kr/22971)
 
 ```c++

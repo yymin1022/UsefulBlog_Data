@@ -1,3 +1,11 @@
+---
+title: "23827. 수열 (Easy)"
+date: "BOJ 23827"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-23827"
+---
+
 [문제 바로가기](https://boj.kr/23827)
 
 ```c++

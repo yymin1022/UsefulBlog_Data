@@ -1,3 +1,11 @@
+---
+title: "7453. 합이 0인 네 정수"
+date: "BOJ 7453"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-7453"
+---
+
 [문제 바로가기](https://boj.kr/7453)
 
 ```c++

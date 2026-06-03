@@ -1,3 +1,11 @@
+---
+title: "2720. 세탁소 사장 동혁"
+date: "BOJ 2720"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-2720"
+---
+
 [문제 바로가기](https://boj.kr/2720)
 
 ```c++

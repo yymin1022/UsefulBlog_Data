@@ -1,3 +1,11 @@
+---
+title: "10818.  최소, 최대"
+date: "BOJ 10818"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-10818"
+---
+
 [문제 바로가기](https://boj.kr/10818)
 
 ```c

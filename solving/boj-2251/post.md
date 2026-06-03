@@ -1,3 +1,11 @@
+---
+title: "2251. 물통"
+date: "BOJ 2251"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-2251"
+---
+
 [문제 바로가기](https://boj.kr/2251)
 
 ```c++

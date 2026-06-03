@@ -1,3 +1,11 @@
+---
+title: "2163. 초콜릿 자르기"
+date: "BOJ 2163"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-2163"
+---
+
 [문제 바로가기](https://boj.kr/2163)
 
 ```c++

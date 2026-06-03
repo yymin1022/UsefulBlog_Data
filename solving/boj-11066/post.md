@@ -1,3 +1,11 @@
+---
+title: "11066. 파일 합치기"
+date: "BOJ 11066"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-11066"
+---
+
 [문제 바로가기](https://boj.kr/11066)
 
 ```c++

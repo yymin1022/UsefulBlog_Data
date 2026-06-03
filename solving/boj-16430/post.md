@@ -1,3 +1,11 @@
+---
+title: "16430.  제리와 톰"
+date: "BOJ 16430"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-16430"
+---
+
 [문제 바로가기](https://boj.kr/16430)
 
 ```c++

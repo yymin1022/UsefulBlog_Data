@@ -1,3 +1,11 @@
+---
+title: "1929.  소수 구하기"
+date: "BOJ 1929"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-1929"
+---
+
 [문제 바로가기](https://boj.kr/1929)
 
 ```c++

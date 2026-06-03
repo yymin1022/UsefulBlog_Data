@@ -1,3 +1,11 @@
+---
+title: "2609.  최대공약수와 최소공배수"
+date: "BOJ 2609"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-2609"
+---
+
 [문제 바로가기](https://boj.kr/2609)
 
 ```c++

@@ -1,3 +1,11 @@
+---
+title: "11052. 카드 구매하기"
+date: "BOJ 11052"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-11052"
+---
+
 [문제 바로가기](https://boj.kr/11052)
 
 ```c++

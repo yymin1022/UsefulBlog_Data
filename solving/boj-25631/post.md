@@ -1,3 +1,11 @@
+---
+title: "25631. 마트료시카 합치기"
+date: "BOJ 25631"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-25631"
+---
+
 [문제 바로가기](https://boj.kr/25631)
 
 ```c++

@@ -1,3 +1,11 @@
+---
+title: "15080. Every Second Counts"
+date: "BOJ 15080"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-15080"
+---
+
 [문제 바로가기](https://boj.kr/15080)
 
 ```c++

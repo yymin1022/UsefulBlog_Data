@@ -1,3 +1,11 @@
+---
+title: "1141.  접두사"
+date: "BOJ 1141"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-1141"
+---
+
 [문제 바로가기](https://boj.kr/1141)
 
 ```c++

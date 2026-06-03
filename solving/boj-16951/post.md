@@ -1,3 +1,11 @@
+---
+title: "16951. 블록 놀이"
+date: "BOJ 16951"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-16951"
+---
+
 [문제 바로가기](https://boj.kr/16951)
 
 ```c++

@@ -1,3 +1,11 @@
+---
+title: "1475. 방 번호"
+date: "BOJ 1475"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-1475"
+---
+
 [문제 바로가기](https://boj.kr/1475)
 
 ```c++

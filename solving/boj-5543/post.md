@@ -1,3 +1,11 @@
+---
+title: "5543.  상근날드"
+date: "BOJ 5543"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-5543"
+---
+
 [문제 바로가기](https://boj.kr/5543)
 
 ```c++

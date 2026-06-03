@@ -1,3 +1,11 @@
+---
+title: "9086.  문자열"
+date: "BOJ 9086"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-9086"
+---
+
 [문제 바로가기](https://boj.kr/9086)
 
 ```c++

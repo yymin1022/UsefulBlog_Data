@@ -1,3 +1,11 @@
+---
+title: "25195. Yes or yes"
+date: "BOJ 25195"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-25195"
+---
+
 [문제 바로가기](https://boj.kr/25195)
 
 ```c++

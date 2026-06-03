@@ -1,3 +1,11 @@
+---
+title: "11047.  동전 0"
+date: "BOJ 11047"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-11047"
+---
+
 [문제 바로가기](https://boj.kr/11047)
 
 ```c++

@@ -1,3 +1,11 @@
+---
+title: "20937. 떡국"
+date: "BOJ 20937"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-20937"
+---
+
 [문제 바로가기](https://boj.kr/20937)
 
 ```c++

@@ -1,3 +1,11 @@
+---
+title: "31408. 당직 근무표"
+date: "BOJ 31408"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-31408"
+---
+
 [문제 바로가기](https://boj.kr/31408)
 
 ```c++

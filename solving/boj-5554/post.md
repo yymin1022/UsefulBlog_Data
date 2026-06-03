@@ -1,3 +1,11 @@
+---
+title: "5554.  심부름 가는 길"
+date: "BOJ 5554"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-5554"
+---
+
 [문제 바로가기](https://boj.kr/5554)
 
 ```c++

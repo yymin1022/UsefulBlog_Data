@@ -1,3 +1,11 @@
+---
+title: "17608. 막대기"
+date: "BOJ 17608"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-17608"
+---
+
 [문제 바로가기](https://boj.kr/17608)
 
 ```c++

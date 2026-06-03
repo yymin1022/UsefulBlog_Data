@@ -1,3 +1,11 @@
+---
+title: "2740. 행렬 곱셈"
+date: "BOJ 2740"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-2740"
+---
+
 [문제 바로가기](https://boj.kr/2740)
 
 ```c++

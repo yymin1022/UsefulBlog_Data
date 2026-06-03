@@ -1,3 +1,11 @@
+---
+title: "13458. 시험 감독"
+date: "BOJ 13458"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-13458"
+---
+
 [문제 바로가기](https://boj.kr/13458)
 
 ```c++

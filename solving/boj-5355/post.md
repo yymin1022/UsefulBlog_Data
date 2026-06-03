@@ -1,3 +1,11 @@
+---
+title: "5355. 화성 수학"
+date: "BOJ 5355"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-5355"
+---
+
 [문제 바로가기](https://boj.kr/5355)
 
 ```c++

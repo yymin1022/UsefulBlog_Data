@@ -1,3 +1,11 @@
+---
+title: "2675.  문자열 반복"
+date: "BOJ 2675"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-2675"
+---
+
 [문제 바로가기](https://boj.kr/2675)
 
 ```c

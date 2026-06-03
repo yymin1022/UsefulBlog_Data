@@ -1,3 +1,11 @@
+---
+title: "1916.  최소비용 구하기"
+date: "BOJ 1916"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-1916"
+---
+
 [문제 바로가기](https://boj.kr/1916)
 
 ```c++

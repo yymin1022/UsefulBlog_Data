@@ -1,3 +1,11 @@
+---
+title: "6146. 신아를 만나러"
+date: "BOJ 6146"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-6146"
+---
+
 [문제 바로가기](https://boj.kr/6146)
 
 ```c++

@@ -1,3 +1,11 @@
+---
+title: "15886. 내 선물을 받아줘 2"
+date: "BOJ 15886"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-15886"
+---
+
 [문제 바로가기](https://boj.kr/15886)
 
 ```c++

@@ -1,3 +1,11 @@
+---
+title: "1417. 국회의원 선거"
+date: "BOJ 1417"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-1417"
+---
+
 [문제 바로가기](https://boj.kr/1417)
 
 ```c++

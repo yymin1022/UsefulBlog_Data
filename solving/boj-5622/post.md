@@ -1,3 +1,11 @@
+---
+title: "5622.  다이얼"
+date: "BOJ 5622"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-5622"
+---
+
 [문제 바로가기](https://boj.kr/5622)
 
 ```c

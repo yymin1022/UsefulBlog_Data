@@ -1,3 +1,11 @@
+---
+title: "31796. 한빛미디어 (Easy)"
+date: "BOJ 31796"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-31796"
+---
+
 [문제 바로가기](https://boj.kr/31796)
 
 ```c++

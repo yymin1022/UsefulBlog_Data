@@ -1,3 +1,11 @@
+---
+title: "10867. 중복 빼고 정렬하기"
+date: "BOJ 10867"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-10867"
+---
+
 [문제 바로가기](https://boj.kr/10867)
 
 ```c++

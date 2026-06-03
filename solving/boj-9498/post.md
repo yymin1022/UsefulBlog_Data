@@ -1,3 +1,11 @@
+---
+title: "9498.  시험 성적"
+date: "BOJ 9498"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-9498"
+---
+
 [문제 바로가기](https://boj.kr/9498)
 
 ```c

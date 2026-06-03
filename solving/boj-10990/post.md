@@ -1,3 +1,11 @@
+---
+title: "10990. 별 찍기 - 15"
+date: "BOJ 10990"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-10990"
+---
+
 [문제 바로가기](https://boj.kr/10990)
 
 ```c++

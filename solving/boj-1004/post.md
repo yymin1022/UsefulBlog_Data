@@ -1,3 +1,11 @@
+---
+title: "1004.  어린 왕자"
+date: "BOJ 1004"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-1004"
+---
+
 [문제 바로가기](https://boj.kr/1004)
 
 ```c++

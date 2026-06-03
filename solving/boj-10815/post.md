@@ -1,3 +1,11 @@
+---
+title: "10815.  숫자 카드"
+date: "BOJ 10815"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-10815"
+---
+
 [문제 바로가기](https://boj.kr/10815)
 
 ```c++

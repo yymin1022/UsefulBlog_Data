@@ -1,3 +1,11 @@
+---
+title: "28224. Final Price"
+date: "BOJ 28224"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-28224"
+---
+
 [문제 바로가기](https://boj.kr/28224)
 
 ```c++

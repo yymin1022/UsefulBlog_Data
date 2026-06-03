@@ -1,3 +1,11 @@
+---
+title: "1261. 알고스팟"
+date: "BOJ 1261"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-1261"
+---
+
 [문제 바로가기](https://boj.kr/1261)
 
 ```c++

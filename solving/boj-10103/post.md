@@ -1,3 +1,11 @@
+---
+title: "10103. 주사위 게임"
+date: "BOJ 10103"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-10103"
+---
+
 [문제 바로가기](https://boj.kr/10103)
 
 ```c++

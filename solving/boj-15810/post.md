@@ -1,3 +1,11 @@
+---
+title: "15810. 풍선 공장"
+date: "BOJ 15810"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-15810"
+---
+
 [문제 바로가기](https://boj.kr/15810)
 
 ```c++

@@ -1,3 +1,11 @@
+---
+title: "25784. Easy-to-Solve Expressions"
+date: "BOJ 25784"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-25784"
+---
+
 [문제 바로가기](https://boj.kr/25784)
 
 ```c++

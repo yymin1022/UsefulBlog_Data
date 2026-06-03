@@ -1,3 +1,11 @@
+---
+title: "19944. 뉴비의 기준은 뭘까?"
+date: "BOJ 19944"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-19944"
+---
+
 [문제 바로가기](https://boj.kr/19944)
 
 ```c++

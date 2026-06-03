@@ -1,3 +1,11 @@
+---
+title: "1015. 수열 정렬"
+date: "BOJ 1015"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-1015"
+---
+
 [문제 바로가기](https://boj.kr/1015)
 
 ```c++

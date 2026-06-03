@@ -1,3 +1,11 @@
+---
+title: "30454. 얼룩말을 찾아라!"
+date: "BOJ 30454"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-30454"
+---
+
 [문제 바로가기](https://boj.kr/30454)
 
 ```c++

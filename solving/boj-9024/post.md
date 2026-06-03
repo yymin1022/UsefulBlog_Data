@@ -1,3 +1,11 @@
+---
+title: "9024. 두 수의 합"
+date: "BOJ 9024"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-9024"
+---
+
 [문제 바로가기](https://boj.kr/9024)
 
 ```c++

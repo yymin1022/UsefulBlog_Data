@@ -1,3 +1,11 @@
+---
+title: "24860.  Counting Antibodies"
+date: "BOJ 24860"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-24860"
+---
+
 [문제 바로가기](https://boj.kr/24860)
 
 ```c++

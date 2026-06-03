@@ -1,3 +1,11 @@
+---
+title: "7861. Longest Ordered Subsequence"
+date: "BOJ 7861"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-7861"
+---
+
 [문제 바로가기](https://boj.kr/7861)
 
 ```c++

@@ -1,3 +1,11 @@
+---
+title: "25325. 학생 인기도 측정"
+date: "BOJ 25325"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-25325"
+---
+
 [문제 바로가기](https://boj.kr/25325)
 
 ```c++

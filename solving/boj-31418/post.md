@@ -1,3 +1,11 @@
+---
+title: "31418. 스펀지"
+date: "BOJ 31418"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-31418"
+---
+
 [문제 바로가기](https://boj.kr/31418)
 
 ```c++

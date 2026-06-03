@@ -1,3 +1,11 @@
+---
+title: "23235. The Fastest Sorting Algorithm In The World"
+date: "BOJ 23235"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-23235"
+---
+
 [문제 바로가기](https://boj.kr/23235)
 
 ```c++

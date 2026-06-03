@@ -1,3 +1,11 @@
+---
+title: "4766. 일반 화학 실험"
+date: "BOJ 4766"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-4766"
+---
+
 [문제 바로가기](https://boj.kr/4766)
 
 ```c++

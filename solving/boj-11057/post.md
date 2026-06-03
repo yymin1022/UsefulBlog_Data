@@ -1,3 +1,11 @@
+---
+title: "11057. 오르막 수"
+date: "BOJ 11057"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-11057"
+---
+
 [문제 바로가기](https://boj.kr/11057)
 
 ```c++

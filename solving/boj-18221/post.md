@@ -1,3 +1,11 @@
+---
+title: "18221. 교수님 저는 취업할래요"
+date: "BOJ 18221"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-18221"
+---
+
 [문제 바로가기](https://boj.kr/18221)
 
 ```c++

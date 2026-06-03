@@ -1,3 +1,11 @@
+---
+title: "9295. 주사위"
+date: "BOJ 9295"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-9295"
+---
+
 [문제 바로가기](https://boj.kr/9295)
 
 ```c++

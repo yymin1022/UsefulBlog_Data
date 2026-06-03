@@ -1,3 +1,11 @@
+---
+title: "7568.  덩치"
+date: "BOJ 7568"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-7568"
+---
+
 [문제 바로가기](https://boj.kr/7568)
 
 ```c++

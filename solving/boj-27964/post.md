@@ -1,3 +1,11 @@
+---
+title: "27964. 콰트로치즈피자"
+date: "BOJ 27964"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-27964"
+---
+
 [문제 바로가기](https://boj.kr/27964)
 
 ```c++

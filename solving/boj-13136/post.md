@@ -1,3 +1,11 @@
+---
+title: "13136. Do Not Touch Anything"
+date: "BOJ 13136"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-13136"
+---
+
 [문제 바로가기](https://boj.kr/13136)
 
 ```c++

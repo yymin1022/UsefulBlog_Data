@@ -1,3 +1,11 @@
+---
+title: "14929. 귀찮아 (SIB)"
+date: "BOJ 14929"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-14929"
+---
+
 [문제 바로가기](https://boj.kr/14929)
 
 ```c++

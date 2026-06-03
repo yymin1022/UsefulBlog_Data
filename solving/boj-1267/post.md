@@ -1,3 +1,11 @@
+---
+title: "1267. 핸드폰 요금"
+date: "BOJ 1267"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-1267"
+---
+
 [문제 바로가기](https://boj.kr/1267)
 
 ```c++

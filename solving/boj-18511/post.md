@@ -1,3 +1,11 @@
+---
+title: "18511. 큰 수 구성하기"
+date: "BOJ 18511"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-18511"
+---
+
 [문제 바로가기](https://boj.kr/18511)
 
 ```c++

@@ -1,3 +1,11 @@
+---
+title: "20116. 상자의 균형"
+date: "BOJ 20116"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-20116"
+---
+
 [문제 바로가기](https://boj.kr/20116)
 
 ```c++

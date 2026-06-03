@@ -1,3 +1,11 @@
+---
+title: "11058. 크리보드"
+date: "BOJ 11058"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-11058"
+---
+
 [문제 바로가기](https://boj.kr/11058)
 
 ```c++

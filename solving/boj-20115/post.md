@@ -1,3 +1,11 @@
+---
+title: "20115. 에너지 드링크"
+date: "BOJ 20115"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-20115"
+---
+
 [문제 바로가기](https://boj.kr/20115)
 
 ```c++

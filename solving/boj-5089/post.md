@@ -1,3 +1,11 @@
+---
+title: "5089. Travelling Salesman"
+date: "BOJ 5089"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-5089"
+---
+
 [문제 바로가기](https://boj.kr/5089)
 
 ```c++

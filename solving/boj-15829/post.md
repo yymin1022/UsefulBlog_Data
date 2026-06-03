@@ -1,3 +1,11 @@
+---
+title: "15829.  Hashing"
+date: "BOJ 15829"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-15829"
+---
+
 [문제 바로가기](https://boj.kr/15829)
 
 ```c++

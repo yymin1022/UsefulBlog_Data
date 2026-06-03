@@ -1,3 +1,11 @@
+---
+title: "2891. 카약과 강풍"
+date: "BOJ 2891"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-2891"
+---
+
 [문제 바로가기](https://boj.kr/2891)
 
 ```c++

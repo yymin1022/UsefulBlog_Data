@@ -1,3 +1,11 @@
+---
+title: "1009.  분산처리"
+date: "BOJ 1009"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-1009"
+---
+
 [문제 바로가기](https://boj.kr/1009)
 
 ```c++

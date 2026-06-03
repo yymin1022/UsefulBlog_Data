@@ -1,3 +1,11 @@
+---
+title: "2346.  풍선 터뜨리기"
+date: "BOJ 2346"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-2346"
+---
+
 [문제 바로가기](https://boj.kr/2346)
 
 ```c++

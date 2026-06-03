@@ -1,3 +1,11 @@
+---
+title: "2622. 삼각형만들기"
+date: "BOJ 2622"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-2622"
+---
+
 [문제 바로가기](https://boj.kr/2622)
 
 ```c++

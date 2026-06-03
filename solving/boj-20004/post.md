@@ -1,3 +1,11 @@
+---
+title: "20004. 베스킨라빈스 31"
+date: "BOJ 20004"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-20004"
+---
+
 [문제 바로가기](https://boj.kr/20004)
 
 ```c++

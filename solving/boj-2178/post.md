@@ -1,3 +1,11 @@
+---
+title: "2178.  미로 탐색"
+date: "BOJ 2178"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-2178"
+---
+
 [문제 바로가기](https://boj.kr/2178)
 
 ```c++

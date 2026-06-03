@@ -1,3 +1,11 @@
+---
+title: "14938. 서강그라운드"
+date: "BOJ 14938"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-14938"
+---
+
 [문제 바로가기](https://boj.kr/14938)
 
 ```c++

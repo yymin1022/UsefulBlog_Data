@@ -1,3 +1,11 @@
+---
+title: "1316.  그룹 단어 체커"
+date: "BOJ 1316"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-1316"
+---
+
 [문제 바로가기](https://boj.kr/1316)
 
 ```c++

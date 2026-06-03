@@ -1,3 +1,11 @@
+---
+title: "2156.  포도주 시식"
+date: "BOJ 2156"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-2156"
+---
+
 [문제 바로가기](https://boj.kr/2156)
 
 ```c++

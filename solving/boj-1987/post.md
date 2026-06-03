@@ -1,3 +1,11 @@
+---
+title: "1987. 알파벳"
+date: "BOJ 1987"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-1987"
+---
+
 [문제 바로가기](https://boj.kr/1987)
 
 ```c++

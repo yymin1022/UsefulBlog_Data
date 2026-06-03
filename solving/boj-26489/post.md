@@ -1,3 +1,11 @@
+---
+title: "26489. Gum Gum for Jay Jay"
+date: "BOJ 26489"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-26489"
+---
+
 [문제 바로가기](https://boj.kr/26489)
 
 ```c++

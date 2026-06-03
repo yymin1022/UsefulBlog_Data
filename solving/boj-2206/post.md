@@ -1,3 +1,11 @@
+---
+title: "2206. 벽 부수고 이동하기"
+date: "BOJ 2206"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-2206"
+---
+
 [문제 바로가기](https://boj.kr/2206)
 
 ```c++

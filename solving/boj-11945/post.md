@@ -1,3 +1,11 @@
+---
+title: "11945. 뜨거운 붕어빵"
+date: "BOJ 11945"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-11945"
+---
+
 [문제 바로가기](https://boj.kr/11945)
 
 ```c++

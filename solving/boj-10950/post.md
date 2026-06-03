@@ -1,3 +1,11 @@
+---
+title: "10950.  A+B - 3"
+date: "BOJ 10950"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-10950"
+---
+
 [문제 바로가기](https://boj.kr/10950)
 
 ```c

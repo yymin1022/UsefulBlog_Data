@@ -1,3 +1,11 @@
+---
+title: "1063. 킹"
+date: "BOJ 1063"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-1063"
+---
+
 [문제 바로가기](https://boj.kr/1063)
 
 ```c++

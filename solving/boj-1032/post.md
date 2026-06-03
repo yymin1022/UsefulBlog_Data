@@ -1,3 +1,11 @@
+---
+title: "1032.  명령 프롬프트"
+date: "BOJ 1032"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-1032"
+---
+
 [문제 바로가기](https://boj.kr/1032)
 
 ```c++

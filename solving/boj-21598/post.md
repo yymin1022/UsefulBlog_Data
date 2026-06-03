@@ -1,3 +1,11 @@
+---
+title: "21598. SciComLove"
+date: "BOJ 21598"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-21598"
+---
+
 [문제 바로가기](https://boj.kr/21598)
 
 ```c++

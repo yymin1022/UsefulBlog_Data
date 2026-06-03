@@ -1,3 +1,11 @@
+---
+title: "6763. Speed fines are not fine!"
+date: "BOJ 6763"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-6763"
+---
+
 [문제 바로가기](https://boj.kr/6763)
 
 ```c++

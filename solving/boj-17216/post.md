@@ -1,3 +1,11 @@
+---
+title: "17216. 가장 큰 감소 부분 수열"
+date: "BOJ 17216"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-17216"
+---
+
 [문제 바로가기](https://boj.kr/17216)
 
 ```c++

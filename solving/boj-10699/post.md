@@ -1,3 +1,11 @@
+---
+title: "10699.  오늘 날짜"
+date: "BOJ 10699"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-10699"
+---
+
 [문제 바로가기](https://boj.kr/10699)
 
 ```c++

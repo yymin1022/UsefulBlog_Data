@@ -1,3 +1,11 @@
+---
+title: "16212. 정열적인 정렬"
+date: "BOJ 16212"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-16212"
+---
+
 [문제 바로가기](https://boj.kr/16212)
 
 ```c++

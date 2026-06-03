@@ -1,3 +1,11 @@
+---
+title: "11399.  ATM"
+date: "BOJ 11399"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-11399"
+---
+
 [문제 바로가기](https://boj.kr/11399)
 
 ```c++

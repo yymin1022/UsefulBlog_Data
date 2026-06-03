@@ -1,3 +1,11 @@
+---
+title: "15822. Ah-Choo!"
+date: "BOJ 15822"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-15822"
+---
+
 [문제 바로가기](https://boj.kr/15822)
 
 ```c++

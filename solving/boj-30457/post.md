@@ -1,3 +1,11 @@
+---
+title: "30457. 단체줄넘기"
+date: "BOJ 30457"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-30457"
+---
+
 [문제 바로가기](https://boj.kr/30457)
 
 ```c++

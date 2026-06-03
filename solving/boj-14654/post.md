@@ -1,3 +1,11 @@
+---
+title: "14654. 스테판 쿼리"
+date: "BOJ 14654"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-14654"
+---
+
 [문제 바로가기](https://boj.kr/14654)
 
 ```c++

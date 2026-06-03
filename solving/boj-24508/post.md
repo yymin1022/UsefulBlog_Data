@@ -1,3 +1,11 @@
+---
+title: "24508. 나도리팡"
+date: "BOJ 24508"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-24508"
+---
+
 [문제 바로가기](https://boj.kr/24508)
 
 ```c++

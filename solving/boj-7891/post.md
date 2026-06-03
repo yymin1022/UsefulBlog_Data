@@ -1,3 +1,11 @@
+---
+title: "7891. Can you add this?"
+date: "BOJ 7891"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-7891"
+---
+
 [문제 바로가기](https://boj.kr/7891)
 
 ```c++

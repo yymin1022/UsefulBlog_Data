@@ -1,3 +1,11 @@
+---
+title: "2870. 수학숙제"
+date: "BOJ 2870"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-2870"
+---
+
 [문제 바로가기](https://boj.kr/2870)
 
 ```c++

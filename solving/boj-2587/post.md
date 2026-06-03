@@ -1,3 +1,11 @@
+---
+title: "2587.  대표값2"
+date: "BOJ 2587"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-2587"
+---
+
 [문제 바로가기](https://boj.kr/2587)
 
 ```c++

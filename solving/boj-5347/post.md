@@ -1,3 +1,11 @@
+---
+title: "5347. LCM"
+date: "BOJ 5347"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-5347"
+---
+
 [문제 바로가기](https://boj.kr/5347)
 
 ```c++

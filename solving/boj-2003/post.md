@@ -1,3 +1,11 @@
+---
+title: "2003.  수들의 합 2"
+date: "BOJ 2003"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-2003"
+---
+
 [문제 바로가기](https://boj.kr/2003)
 
 ```c++

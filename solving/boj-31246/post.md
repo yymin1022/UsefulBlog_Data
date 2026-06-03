@@ -1,3 +1,11 @@
+---
+title: "31246. 모바일 광고 입찰"
+date: "BOJ 31246"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-31246"
+---
+
 [문제 바로가기](https://boj.kr/31246)
 
 ```c++

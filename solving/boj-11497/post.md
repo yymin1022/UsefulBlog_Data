@@ -1,3 +1,11 @@
+---
+title: "11497. 통나무 건너뛰기"
+date: "BOJ 11497"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-11497"
+---
+
 [문제 바로가기](https://boj.kr/11497)
 
 ```c++

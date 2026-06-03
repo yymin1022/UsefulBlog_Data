@@ -1,3 +1,11 @@
+---
+title: "6504. 킬로미터를 마일로"
+date: "BOJ 6504"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-6504"
+---
+
 [문제 바로가기](https://boj.kr/6504)
 
 ```c++

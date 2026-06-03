@@ -1,3 +1,11 @@
+---
+title: "3020.  개똥벌레"
+date: "BOJ 3020"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-3020"
+---
+
 [문제 바로가기](https://boj.kr/3020)
 
 ```c++

@@ -1,3 +1,11 @@
+---
+title: "1251. 단어 나누기"
+date: "BOJ 1251"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-1251"
+---
+
 [문제 바로가기](https://boj.kr/1251)
 
 ```c++

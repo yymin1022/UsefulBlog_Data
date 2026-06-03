@@ -1,3 +1,11 @@
+---
+title: "11506.  占쏙옙"
+date: "BOJ 11506"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-11506"
+---
+
 [문제 바로가기](https://boj.kr/11506)
 
 ```c++

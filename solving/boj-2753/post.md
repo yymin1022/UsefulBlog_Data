@@ -1,3 +1,11 @@
+---
+title: "2753.  윤년"
+date: "BOJ 2753"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-2753"
+---
+
 [문제 바로가기](https://boj.kr/2753)
 
 ```c

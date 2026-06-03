@@ -1,3 +1,11 @@
+---
+title: "14501. 퇴사"
+date: "BOJ 14501"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-14501"
+---
+
 [문제 바로가기](https://boj.kr/14501)
 
 ```c++

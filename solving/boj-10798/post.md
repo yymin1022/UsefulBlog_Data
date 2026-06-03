@@ -1,3 +1,11 @@
+---
+title: "10798.  세로읽기"
+date: "BOJ 10798"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-10798"
+---
+
 [문제 바로가기](https://boj.kr/10798)
 
 ```c++

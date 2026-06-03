@@ -1,3 +1,11 @@
+---
+title: "11507. 카드셋트"
+date: "BOJ 11507"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-11507"
+---
+
 [문제 바로가기](https://boj.kr/11507)
 
 ```c++

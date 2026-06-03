@@ -1,3 +1,11 @@
+---
+title: "14425.  문자열 집합"
+date: "BOJ 14425"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-14425"
+---
+
 [문제 바로가기](https://boj.kr/14425)
 
 ```c++

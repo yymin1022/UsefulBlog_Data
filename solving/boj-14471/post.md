@@ -1,3 +1,11 @@
+---
+title: "14471. 포인트 카드"
+date: "BOJ 14471"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-14471"
+---
+
 [문제 바로가기](https://boj.kr/14471)
 
 ```c++

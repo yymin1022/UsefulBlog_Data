@@ -1,3 +1,11 @@
+---
+title: "2902.  KMP는 왜 KMP일까?"
+date: "BOJ 2902"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-2902"
+---
+
 [문제 바로가기](https://boj.kr/2902)
 
 ```c++

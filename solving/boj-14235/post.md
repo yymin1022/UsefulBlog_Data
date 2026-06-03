@@ -1,3 +1,11 @@
+---
+title: "14235. 크리스마스 선물"
+date: "BOJ 14235"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-14235"
+---
+
 [문제 바로가기](https://boj.kr/14235)
 
 ```c++

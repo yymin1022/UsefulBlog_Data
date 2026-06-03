@@ -1,3 +1,11 @@
+---
+title: "14002. 가장 긴 증가하는 부분 수열 4"
+date: "BOJ 14002"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-14002"
+---
+
 [문제 바로가기](https://boj.kr/14002)
 
 ```c++

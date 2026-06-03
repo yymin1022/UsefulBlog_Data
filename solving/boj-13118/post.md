@@ -1,3 +1,11 @@
+---
+title: "13118. 뉴턴과 사과"
+date: "BOJ 13118"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-13118"
+---
+
 [문제 바로가기](https://boj.kr/13118)
 
 ```c++

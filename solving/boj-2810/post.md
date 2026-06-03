@@ -1,3 +1,11 @@
+---
+title: "2810. 컵홀더"
+date: "BOJ 2810"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-2810"
+---
+
 [문제 바로가기](https://boj.kr/2810)
 
 ```c++

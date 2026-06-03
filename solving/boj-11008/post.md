@@ -1,3 +1,11 @@
+---
+title: "11008. 복붙의 달인"
+date: "BOJ 11008"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-11008"
+---
+
 [문제 바로가기](https://boj.kr/11008)
 
 ```c++

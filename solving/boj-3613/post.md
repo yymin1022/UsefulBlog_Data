@@ -1,3 +1,11 @@
+---
+title: "3613. Java vs C++"
+date: "BOJ 3613"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-3613"
+---
+
 [문제 바로가기](https://boj.kr/3613)
 
 ```c++

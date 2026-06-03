@@ -1,3 +1,11 @@
+---
+title: "26069. 붙임성 좋은 총총이"
+date: "BOJ 26069"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-26069"
+---
+
 [문제 바로가기](https://boj.kr/26069)
 
 ```c++

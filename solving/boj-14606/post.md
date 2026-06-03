@@ -1,3 +1,11 @@
+---
+title: "14606. 피자 (Small)"
+date: "BOJ 14606"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-14606"
+---
+
 [문제 바로가기](https://boj.kr/14606)
 
 ```c++

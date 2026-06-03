@@ -1,3 +1,11 @@
+---
+title: "1010.  다리 놓기"
+date: "BOJ 1010"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-1010"
+---
+
 [문제 바로가기](https://boj.kr/1010)
 
 ```c++

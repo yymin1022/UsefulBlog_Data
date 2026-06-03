@@ -1,3 +1,11 @@
+---
+title: "1300.  K번째 수"
+date: "BOJ 1300"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-1300"
+---
+
 [문제 바로가기](https://boj.kr/1300)
 
 ```c++

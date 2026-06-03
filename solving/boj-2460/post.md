@@ -1,3 +1,11 @@
+---
+title: "2460.  지능형 기차 2"
+date: "BOJ 2460"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-2460"
+---
+
 [문제 바로가기](https://boj.kr/2460)
 
 ```c++

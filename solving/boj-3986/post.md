@@ -1,3 +1,11 @@
+---
+title: "3986.  좋은 단어"
+date: "BOJ 3986"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-3986"
+---
+
 [문제 바로가기](https://boj.kr/3986)
 
 ```c++

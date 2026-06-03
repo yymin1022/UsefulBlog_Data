@@ -1,3 +1,11 @@
+---
+title: "17247. 택시 거리"
+date: "BOJ 17247"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-17247"
+---
+
 [문제 바로가기](https://boj.kr/17247)
 
 ```c++

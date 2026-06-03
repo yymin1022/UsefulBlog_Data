@@ -1,3 +1,11 @@
+---
+title: "2941.  크로아티아 알파벳"
+date: "BOJ 2941"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-2941"
+---
+
 [문제 바로가기](https://boj.kr/2941)
 
 ```c++

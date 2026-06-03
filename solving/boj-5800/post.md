@@ -1,3 +1,11 @@
+---
+title: "5800. 성적 통계"
+date: "BOJ 5800"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-5800"
+---
+
 [문제 바로가기](https://boj.kr/5800)
 
 ```c++

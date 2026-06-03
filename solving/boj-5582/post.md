@@ -1,3 +1,11 @@
+---
+title: "5582. 공통 부분 문자열"
+date: "BOJ 5582"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-5582"
+---
+
 [문제 바로가기](https://boj.kr/5582)
 
 ```c++

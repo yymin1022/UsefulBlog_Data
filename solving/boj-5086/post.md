@@ -1,3 +1,11 @@
+---
+title: "5086.  배수와 약수"
+date: "BOJ 5086"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-5086"
+---
+
 [문제 바로가기](https://boj.kr/5086)
 
 ```c++

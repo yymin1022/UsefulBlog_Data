@@ -1,3 +1,11 @@
+---
+title: "1865. 웜홀"
+date: "BOJ 1865"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-1865"
+---
+
 [문제 바로가기](https://boj.kr/1865)
 
 ```c++

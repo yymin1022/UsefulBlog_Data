@@ -1,3 +1,11 @@
+---
+title: "1598. 꼬리를 무는 숫자 나열"
+date: "BOJ 1598"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-1598"
+---
+
 [문제 바로가기](https://boj.kr/1598)
 
 ```c++

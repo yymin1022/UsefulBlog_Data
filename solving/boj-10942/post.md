@@ -1,3 +1,11 @@
+---
+title: "10942. 팰린드롬?"
+date: "BOJ 10942"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-10942"
+---
+
 [문제 바로가기](https://boj.kr/10942)
 
 ```c++

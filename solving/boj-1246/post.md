@@ -1,3 +1,11 @@
+---
+title: "1246. 온라인 판매"
+date: "BOJ 1246"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-1246"
+---
+
 [문제 바로가기](https://boj.kr/1246)
 
 ```c++

@@ -1,3 +1,11 @@
+---
+title: "2485. 가로수"
+date: "BOJ 2485"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-2485"
+---
+
 [문제 바로가기](https://boj.kr/2485)
 
 ```c++

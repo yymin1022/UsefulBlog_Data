@@ -1,3 +1,11 @@
+---
+title: "23305. 수강변경"
+date: "BOJ 23305"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-23305"
+---
+
 [문제 바로가기](https://boj.kr/23305)
 
 ```c++

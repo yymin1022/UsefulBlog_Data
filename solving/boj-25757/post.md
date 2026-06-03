@@ -1,3 +1,11 @@
+---
+title: "25757. 임스와 함께하는 미니게임"
+date: "BOJ 25757"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-25757"
+---
+
 [문제 바로가기](https://boj.kr/25757)
 
 ```c++

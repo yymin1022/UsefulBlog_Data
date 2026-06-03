@@ -1,3 +1,11 @@
+---
+title: "3230. 금메달, 은메달, 동메달은 누가?"
+date: "BOJ 3230"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-3230"
+---
+
 [문제 바로가기](https://boj.kr/3230)
 
 ```c++

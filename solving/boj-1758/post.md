@@ -1,3 +1,11 @@
+---
+title: "1758. 알바생 강호"
+date: "BOJ 1758"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-1758"
+---
+
 [문제 바로가기](https://boj.kr/1758)
 
 ```c++

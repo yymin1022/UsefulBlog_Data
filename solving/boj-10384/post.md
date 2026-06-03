@@ -1,3 +1,11 @@
+---
+title: "10384. 팬그램 "
+date: "BOJ 10384"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-10384"
+---
+
 [문제 바로가기](https://boj.kr/10384)
 
 ```c++

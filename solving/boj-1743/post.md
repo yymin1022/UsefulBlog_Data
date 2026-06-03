@@ -1,3 +1,11 @@
+---
+title: "1743. 음식물 피하기"
+date: "BOJ 1743"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-1743"
+---
+
 [문제 바로가기](https://boj.kr/1743)
 
 ```c++

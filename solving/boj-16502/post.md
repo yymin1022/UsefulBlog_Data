@@ -1,3 +1,11 @@
+---
+title: "16502. 그녀를 찾아서"
+date: "BOJ 16502"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-16502"
+---
+
 [문제 바로가기](https://boj.kr/16502)
 
 ```c++

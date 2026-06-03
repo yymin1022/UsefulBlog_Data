@@ -1,3 +1,11 @@
+---
+title: "14646. 욱제는 결정장애야!!"
+date: "BOJ 14646"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-14646"
+---
+
 [문제 바로가기](https://boj.kr/14646)
 
 ```c++

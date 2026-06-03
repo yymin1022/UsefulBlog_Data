@@ -1,3 +1,11 @@
+---
+title: "16394.  홍익대학교"
+date: "BOJ 16394"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-16394"
+---
+
 [문제 바로가기](https://boj.kr/16394)
 
 ```c++

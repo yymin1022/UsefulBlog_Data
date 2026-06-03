@@ -1,3 +1,11 @@
+---
+title: "21736. 헌내기는 친구가 필요해"
+date: "BOJ 21736"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-21736"
+---
+
 [문제 바로가기](https://boj.kr/21736)
 
 ```c++

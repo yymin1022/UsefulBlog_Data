@@ -1,3 +1,11 @@
+---
+title: "12034. 김��천씨의 식료품가게 (Large)"
+date: "BOJ 12034"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-12034"
+---
+
 [문제 바로가기](https://boj.kr/12034)
 
 ```c++

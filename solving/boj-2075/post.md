@@ -1,3 +1,11 @@
+---
+title: "2075.  N번째 큰 수"
+date: "BOJ 2075"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-2075"
+---
+
 [문제 바로가기](https://boj.kr/2075)
 
 ```c++

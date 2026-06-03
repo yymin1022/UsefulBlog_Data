@@ -1,3 +1,11 @@
+---
+title: "11943. 파일 옮기기"
+date: "BOJ 11943"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-11943"
+---
+
 [문제 바로가기](https://boj.kr/11943)
 
 ```c++

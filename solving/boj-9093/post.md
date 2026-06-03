@@ -1,3 +1,11 @@
+---
+title: "9093. 단어 뒤집기"
+date: "BOJ 9093"
+tag: ["BOJ","9093"]
+isPinned: true
+url: "boj-9093"
+---
+
 [문제 바로가기](https://boj.kr/9093)
 
 ```c++

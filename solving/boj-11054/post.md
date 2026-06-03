@@ -1,3 +1,11 @@
+---
+title: "11054.  가장 긴 바이토닉 부분 수열"
+date: "BOJ 11054"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-11054"
+---
+
 [문제 바로가기](https://boj.kr/11054)
 
 ```c++

@@ -1,3 +1,11 @@
+---
+title: "1817. 짐 챙기는 숌"
+date: "BOJ 1817"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-1817"
+---
+
 [문제 바로가기](https://boj.kr/1817)
 
 ```c++

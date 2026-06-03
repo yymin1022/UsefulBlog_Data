@@ -1,3 +1,11 @@
+---
+title: "10866.  덱"
+date: "BOJ 10866"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-10866"
+---
+
 [문제 바로가기](https://boj.kr/10866)
 
 ```c++

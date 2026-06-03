@@ -1,3 +1,11 @@
+---
+title: "17176. 암호해���기"
+date: "BOJ 17176"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-17176"
+---
+
 [문제 바로가기](https://boj.kr/17176)
 
 ```c++

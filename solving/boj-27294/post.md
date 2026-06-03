@@ -1,3 +1,11 @@
+---
+title: "27294. 몇개고?"
+date: "BOJ 27294"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-27294"
+---
+
 [문제 바로가기](https://boj.kr/27294)
 
 ```c++

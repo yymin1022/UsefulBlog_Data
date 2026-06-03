@@ -1,3 +1,11 @@
+---
+title: "15727.  조별과제를 하려는데 조장이 사라졌다"
+date: "BOJ 15727"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-15727"
+---
+
 [문제 바로가기](https://boj.kr/15727)
 
 ```c++

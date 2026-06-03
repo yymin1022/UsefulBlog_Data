@@ -1,3 +1,11 @@
+---
+title: "7348. 테이블 옮기기"
+date: "BOJ 7348"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-7348"
+---
+
 [문제 바로가기](https://boj.kr/7348)
 
 ```c++

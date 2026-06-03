@@ -1,3 +1,11 @@
+---
+title: "14658. 하늘에서 별똥별이 빗발친다"
+date: "BOJ 14658"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-14658"
+---
+
 [문제 바로가기](https://boj.kr/14658)
 
 ```c++

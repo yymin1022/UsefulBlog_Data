@@ -1,3 +1,11 @@
+---
+title: "1065.  한수"
+date: "BOJ 1065"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-1065"
+---
+
 [문제 바로가기](https://boj.kr/1065)
 
 ```c++

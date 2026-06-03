@@ -1,3 +1,11 @@
+---
+title: "11000.  강의실 배정"
+date: "BOJ 11000"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-11000"
+---
+
 [문제 바로가기](https://boj.kr/11000)
 
 ```c++

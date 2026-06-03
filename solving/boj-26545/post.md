@@ -1,3 +1,11 @@
+---
+title: "26545. Mathematics"
+date: "BOJ 26545"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-26545"
+---
+
 [문제 바로가기](https://boj.kr/26545)
 
 ```c++

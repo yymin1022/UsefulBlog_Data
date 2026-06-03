@@ -1,3 +1,11 @@
+---
+title: "1965. 상자넣기"
+date: "BOJ 1965"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-1965"
+---
+
 [문제 바로가기](https://boj.kr/1965)
 
 ```c++

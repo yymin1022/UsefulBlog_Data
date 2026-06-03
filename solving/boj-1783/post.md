@@ -1,3 +1,11 @@
+---
+title: "1783. 병든 나이트"
+date: "BOJ 1783"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-1783"
+---
+
 [문제 바로가기](https://boj.kr/1783)
 
 ```c++

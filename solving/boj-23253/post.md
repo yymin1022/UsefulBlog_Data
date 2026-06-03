@@ -1,3 +1,11 @@
+---
+title: "23253. 자료구조는 정말 최고야"
+date: "BOJ 23253"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-23253"
+---
+
 [문제 바로가기](https://boj.kr/23253)
 
 ```c++

@@ -1,3 +1,11 @@
+---
+title: "26091. 현대모비스 소프트웨어 아카데미"
+date: "BOJ 26091"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-26091"
+---
+
 [문제 바로가기](https://boj.kr/26091)
 
 ```c++

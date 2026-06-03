@@ -1,3 +1,11 @@
+---
+title: "21300.  Bottle Return"
+date: "BOJ 21300"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-21300"
+---
+
 [문제 바로가기](https://boj.kr/21300)
 
 ```c++

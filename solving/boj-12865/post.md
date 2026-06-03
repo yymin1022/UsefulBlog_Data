@@ -1,3 +1,11 @@
+---
+title: "12865.  평범한 배낭"
+date: "BOJ 12865"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-12865"
+---
+
 [문제 바로가기](https://boj.kr/12865)
 
 ```c++

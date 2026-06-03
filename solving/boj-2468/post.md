@@ -1,3 +1,11 @@
+---
+title: "2468.  안전 영역"
+date: "BOJ 2468"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-2468"
+---
+
 [문제 바로가기](https://boj.kr/2468)
 
 ```c++

@@ -1,3 +1,11 @@
+---
+title: "11053.  가장 긴 증가하는 부분 수열"
+date: "BOJ 11053"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-11053"
+---
+
 [문제 바로가기](https://boj.kr/11053)
 
 ```c++

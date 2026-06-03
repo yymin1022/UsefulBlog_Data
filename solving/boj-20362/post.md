@@ -1,3 +1,11 @@
+---
+title: "20362. 유니대전 퀴즈쇼"
+date: "BOJ 20362"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-20362"
+---
+
 [문제 바로가기](https://boj.kr/20362)
 
 ```c++

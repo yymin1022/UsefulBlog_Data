@@ -1,3 +1,11 @@
+---
+title: "28432. 끝말잇기"
+date: "BOJ 28432"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-28432"
+---
+
 [문제 바로가기](https://boj.kr/28432)
 
 ```c++

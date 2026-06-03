@@ -1,3 +1,11 @@
+---
+title: "14655. 욱제는 도박쟁이야!!"
+date: "BOJ 14655"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-14655"
+---
+
 [문제 바로가기](https://boj.kr/14655)
 
 ```c++

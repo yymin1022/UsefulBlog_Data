@@ -1,3 +1,11 @@
+---
+title: "22114. 창영이와 점프"
+date: "BOJ 22114"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-22114"
+---
+
 [문제 바로가기](https://boj.kr/22114)
 
 ```c++

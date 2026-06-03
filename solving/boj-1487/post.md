@@ -1,3 +1,11 @@
+---
+title: "1487. 물건 팔기"
+date: "BOJ 1487"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-1487"
+---
+
 [문제 바로가기](https://boj.kr/1487)
 
 ```c++

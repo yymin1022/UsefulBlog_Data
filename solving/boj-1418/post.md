@@ -1,3 +1,11 @@
+---
+title: "1418. K-세준수"
+date: "BOJ 1418"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-1418"
+---
+
 [문제 바로가기](https://boj.kr/1418)
 
 ```c++

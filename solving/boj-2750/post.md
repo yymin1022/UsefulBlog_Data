@@ -1,3 +1,11 @@
+---
+title: "2750.  수 정렬하기"
+date: "BOJ 2750"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-2750"
+---
+
 [문제 바로가기](https://boj.kr/2750)
 
 ```c++

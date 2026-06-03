@@ -1,3 +1,11 @@
+---
+title: "15962.  새로운 시작"
+date: "BOJ 15962"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-15962"
+---
+
 [문제 바로가기](https://boj.kr/15962)
 
 ```c++

@@ -1,3 +1,11 @@
+---
+title: "26517. 연속인가? ?"
+date: "BOJ 26517"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-26517"
+---
+
 [문제 바로가기](https://boj.kr/26517)
 
 ```c++

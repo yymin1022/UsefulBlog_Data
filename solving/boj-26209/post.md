@@ -1,3 +1,11 @@
+---
+title: "26209. Intercepting Information"
+date: "BOJ 26209"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-26209"
+---
+
 [문제 바로가기](https://boj.kr/26209)
 
 ```c++

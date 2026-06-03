@@ -1,3 +1,11 @@
+---
+title: "13565. 침투"
+date: "BOJ 13565"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-13565"
+---
+
 [문제 바로가기](https://boj.kr/13565)
 
 ```c++

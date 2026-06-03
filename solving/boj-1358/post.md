@@ -1,3 +1,11 @@
+---
+title: "1358.  하키"
+date: "BOJ 1358"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-1358"
+---
+
 [문제 바로가기](https://boj.kr/1358)
 
 ```c++

@@ -1,3 +1,11 @@
+---
+title: "7579. 앱 "
+date: "BOJ 7579"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-7579"
+---
+
 [문제 바로가기](https://boj.kr/7579)
 
 ```c++

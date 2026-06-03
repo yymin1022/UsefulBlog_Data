@@ -1,3 +1,11 @@
+---
+title: "5568. 카드 놓기"
+date: "BOJ 5568"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-5568"
+---
+
 [문제 바로가기](https://boj.kr/5568)
 
 ```c++

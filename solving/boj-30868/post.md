@@ -1,3 +1,11 @@
+---
+title: "30868. 개표"
+date: "BOJ 30868"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-30868"
+---
+
 [문제 바로가기](https://boj.kr/30868)
 
 ```c++

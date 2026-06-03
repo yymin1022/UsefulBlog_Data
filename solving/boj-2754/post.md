@@ -1,3 +1,11 @@
+---
+title: "2754.  학점계산"
+date: "BOJ 2754"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-2754"
+---
+
 [문제 바로가기](https://boj.kr/2754)
 
 ```c++

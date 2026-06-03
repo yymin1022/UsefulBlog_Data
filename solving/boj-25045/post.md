@@ -1,3 +1,11 @@
+---
+title: "25045. 비즈마켓"
+date: "BOJ 25045"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-25045"
+---
+
 [문제 바로가기](https://boj.kr/25045)
 
 ```c++

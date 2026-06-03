@@ -1,3 +1,11 @@
+---
+title: "2548.  대표 자연수"
+date: "BOJ 2548"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-2548"
+---
+
 [문제 바로가기](https://boj.kr/2548)
 
 ```c++

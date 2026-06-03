@@ -1,3 +1,11 @@
+---
+title: "11728.  배열 합치기"
+date: "BOJ 11728"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-11728"
+---
+
 [문제 바로가기](https://boj.kr/11728)
 
 ```c++

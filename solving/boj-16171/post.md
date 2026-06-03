@@ -1,3 +1,11 @@
+---
+title: "16171.  나는 친구가 적다 (Small)"
+date: "BOJ 16171"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-16171"
+---
+
 [문제 바로가기](https://boj.kr/16171)
 
 ```c++

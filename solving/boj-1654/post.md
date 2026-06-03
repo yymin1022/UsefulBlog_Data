@@ -1,3 +1,11 @@
+---
+title: "1654.  랜선 자르기"
+date: "BOJ 1654"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-1654"
+---
+
 [문제 바로가기](https://boj.kr/1654)
 
 ```c++

@@ -1,3 +1,11 @@
+---
+title: "28116. 선택 정렬의 이동 거리"
+date: "BOJ 28116"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-28116"
+---
+
 [문제 바로가기](https://boj.kr/28116)
 
 ```c++

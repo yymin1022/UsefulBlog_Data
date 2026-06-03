@@ -1,3 +1,11 @@
+---
+title: "25204. 문자열 정렬"
+date: "BOJ 25204"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-25204"
+---
+
 [문제 바로가기](https://boj.kr/25204)
 
 ```c++

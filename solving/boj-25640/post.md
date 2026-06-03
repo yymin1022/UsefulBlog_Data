@@ -1,3 +1,11 @@
+---
+title: "25640. MBTI"
+date: "BOJ 25640"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-25640"
+---
+
 [문제 바로가기](https://boj.kr/25640)
 
 ```c++

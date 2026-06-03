@@ -1,3 +1,11 @@
+---
+title: "3211. kino"
+date: "BOJ 3211"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-3211"
+---
+
 [문제 바로가기](https://boj.kr/3211)
 
 ```c++

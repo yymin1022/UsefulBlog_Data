@@ -1,3 +1,11 @@
+---
+title: "1543. 문서 검색"
+date: "BOJ 1543"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-1543"
+---
+
 [문제 바로가기](https://boj.kr/1543)
 
 ```c++

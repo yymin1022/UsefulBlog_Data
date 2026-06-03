@@ -1,3 +1,11 @@
+---
+title: "21760. 야구 시즌"
+date: "BOJ 21760"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-21760"
+---
+
 [문제 바로가기](https://boj.kr/21760)
 
 ```c++

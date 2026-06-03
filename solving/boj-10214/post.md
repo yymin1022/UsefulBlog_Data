@@ -1,3 +1,11 @@
+---
+title: "10214. Baseball"
+date: "BOJ 10214"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-10214"
+---
+
 [문제 바로가기](https://boj.kr/10214)
 
 ```c++

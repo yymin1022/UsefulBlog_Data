@@ -1,3 +1,11 @@
+---
+title: "2947. 나무 조각"
+date: "BOJ 2947"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-2947"
+---
+
 [문제 바로가기](https://boj.kr/2947)
 
 ```c++

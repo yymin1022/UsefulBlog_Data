@@ -1,3 +1,11 @@
+---
+title: "24183.  Affischutskicket"
+date: "BOJ 24183"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-24183"
+---
+
 [문제 바로가기](https://boj.kr/24183)
 
 ```c++

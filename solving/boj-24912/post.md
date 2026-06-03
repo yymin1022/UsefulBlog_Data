@@ -1,3 +1,11 @@
+---
+title: "24912. 카드 색칠"
+date: "BOJ 24912"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-24912"
+---
+
 [문제 바로가기](https://boj.kr/24912)
 
 ```c++

@@ -1,3 +1,11 @@
+---
+title: "1789.  수들의 합"
+date: "BOJ 1789"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-1789"
+---
+
 [문제 바로가기](https://boj.kr/1789)
 
 ```c++

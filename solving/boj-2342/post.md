@@ -1,3 +1,11 @@
+---
+title: "2342. Dance Dance Revolution"
+date: "BOJ 2342"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-2342"
+---
+
 [문제 바로가기](https://boj.kr/2342)
 
 ```c++

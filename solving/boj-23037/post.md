@@ -1,3 +1,11 @@
+---
+title: "23037.  5의 수난"
+date: "BOJ 23037"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-23037"
+---
+
 [문제 바로가기](https://boj.kr/23037)
 
 ```c++

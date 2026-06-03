@@ -1,3 +1,11 @@
+---
+title: "3066. 브리징 시그널"
+date: "BOJ 3066"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-3066"
+---
+
 [문제 바로가기](https://boj.kr/3066)
 
 ```c++

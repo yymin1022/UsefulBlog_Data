@@ -1,3 +1,11 @@
+---
+title: "29812. 아니 이게 왜 안 돼"
+date: "BOJ 29812"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-29812"
+---
+
 [문제 바로가기](https://boj.kr/29812)
 
 ```c++

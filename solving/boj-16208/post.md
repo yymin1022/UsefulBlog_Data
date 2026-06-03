@@ -1,3 +1,11 @@
+---
+title: "16208. 귀찮음"
+date: "BOJ 16208"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-16208"
+---
+
 [문제 바로가기](https://boj.kr/16208)
 
 ```c++

@@ -1,3 +1,11 @@
+---
+title: "14670. 병약한 영정"
+date: "BOJ 14670"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-14670"
+---
+
 [문제 바로가기](https://boj.kr/14670)
 
 ```c++

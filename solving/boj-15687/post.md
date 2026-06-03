@@ -1,3 +1,11 @@
+---
+title: "15687. 직사각형"
+date: "BOJ 15687"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-15687"
+---
+
 [문제 바로가기](https://boj.kr/15687)
 
 ```c++

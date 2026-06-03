@@ -1,3 +1,11 @@
+---
+title: "6032. Toy Shopping"
+date: "BOJ 6032"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-6032"
+---
+
 [문제 바로가기](https://boj.kr/6032)
 
 ```c++

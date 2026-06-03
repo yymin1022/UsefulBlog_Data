@@ -1,3 +1,11 @@
+---
+title: "26162. 인공 원소"
+date: "BOJ 26162"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-26162"
+---
+
 [문제 바로가기](https://boj.kr/26162)
 
 ```c++

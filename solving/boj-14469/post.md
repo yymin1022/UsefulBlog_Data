@@ -1,3 +1,11 @@
+---
+title: "14469. 소가 길을 건너간 이유 3"
+date: "BOJ 14469"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-14469"
+---
+
 [문제 바로가기](https://boj.kr/14469)
 
 ```c++

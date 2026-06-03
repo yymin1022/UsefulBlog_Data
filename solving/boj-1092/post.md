@@ -1,3 +1,11 @@
+---
+title: "1092. 배"
+date: "BOJ 1092"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-1092"
+---
+
 [문제 바로가기](https://boj.kr/1092)
 
 ```c++

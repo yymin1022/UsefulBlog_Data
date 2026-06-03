@@ -1,3 +1,11 @@
+---
+title: "1080. 행렬"
+date: "BOJ 1080"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-1080"
+---
+
 [문제 바로가기](https://boj.kr/1080)
 
 ```c++

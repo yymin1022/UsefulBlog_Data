@@ -1,3 +1,11 @@
+---
+title: "30917. A+B - 10 (제1편)"
+date: "BOJ 30917"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-30917"
+---
+
 [문제 바로가기](https://boj.kr/30917)
 
 ```c++

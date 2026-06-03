@@ -1,3 +1,11 @@
+---
+title: "21638. SMS from MCHS"
+date: "BOJ  21638"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-21638"
+---
+
 [문제 바로가기](https://boj.kr/21638)
 
 ```c++

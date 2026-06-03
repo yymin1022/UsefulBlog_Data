@@ -1,3 +1,11 @@
+---
+title: "2668. 숫자고르기"
+date: "BOJ 2668"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-2668"
+---
+
 [문제 바로가기](https://boj.kr/2668)
 
 ```c++

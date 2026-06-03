@@ -1,3 +1,11 @@
+---
+title: "23278. 영화 평가"
+date: "BOJ 23278"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-23278"
+---
+
 [문제 바로가기](https://boj.kr/23278)
 
 ```c++

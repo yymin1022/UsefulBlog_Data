@@ -1,3 +1,11 @@
+---
+title: "3036.  링"
+date: "BOJ 3036"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-3036"
+---
+
 [문제 바로가기](https://boj.kr/3036)
 
 ```c++

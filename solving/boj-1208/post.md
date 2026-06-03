@@ -1,3 +1,11 @@
+---
+title: "1208. 부분수열의 합 2"
+date: "BOJ 1208"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-1208"
+---
+
 [문제 바로가기](https://boj.kr/1208)
 
 ```c++

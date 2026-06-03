@@ -1,3 +1,11 @@
+---
+title: "10886. 0 = not cute / 1 = cute"
+date: "BOJ 10886"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-10886"
+---
+
 [문제 바로가기](https://boj.kr/10886)
 
 ```c++

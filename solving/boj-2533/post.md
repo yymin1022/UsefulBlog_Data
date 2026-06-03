@@ -1,3 +1,11 @@
+---
+title: "2533. 사회망 서비스(SNS)"
+date: "BOJ 2533"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-2533"
+---
+
 [문제 바로가기](https://boj.kr/2533)
 
 ```c++

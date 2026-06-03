@@ -1,3 +1,11 @@
+---
+title: "3053.  택시 기하학"
+date: "BOJ 3053"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-3053"
+---
+
 [문제 바로가기](https://boj.kr/3053)
 
 ```c++

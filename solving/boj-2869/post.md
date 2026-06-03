@@ -1,3 +1,11 @@
+---
+title: "2869.  달팽이는 올라가고 싶다"
+date: "BOJ 2869"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-2869"
+---
+
 [문제 바로가기](https://boj.kr/2869)
 
 ```c++

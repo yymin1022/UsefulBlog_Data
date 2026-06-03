@@ -1,3 +1,11 @@
+---
+title: "6147. Bookshelf"
+date: "BOJ 6147"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-6147"
+---
+
 [문제 바로가기](https://boj.kr/6147)
 
 ```c++

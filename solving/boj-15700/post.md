@@ -1,3 +1,11 @@
+---
+title: "15700. 타일 채우기 4"
+date: "BOJ 15700"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-15700"
+---
+
 [문제 바로가기](https://boj.kr/15700)
 
 ```c++

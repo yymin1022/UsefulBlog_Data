@@ -1,3 +1,11 @@
+---
+title: "2845.  파티가 끝나고 난 뒤"
+date: "BOJ 2845"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-2845"
+---
+
 [문제 바로가기](https://boj.kr/2845)
 
 ```c++

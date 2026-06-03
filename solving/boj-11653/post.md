@@ -1,3 +1,11 @@
+---
+title: "11653.  소인수분해"
+date: "BOJ 11653"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-11653"
+---
+
 [문제 바로가기](https://boj.kr/11653)
 
 ```c++

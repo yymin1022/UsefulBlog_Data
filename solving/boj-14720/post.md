@@ -1,3 +1,11 @@
+---
+title: "14720. 우유 축제"
+date: "BOJ 14720"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-14720"
+---
+
 [문제 바로가기](https://boj.kr/14720)
 
 ```c++

@@ -1,3 +1,11 @@
+---
+title: "2210. 숫자판 점프"
+date: "BOJ 2210"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-2210"
+---
+
 [문제 바로가기](https://boj.kr/2210)
 
 ```c++

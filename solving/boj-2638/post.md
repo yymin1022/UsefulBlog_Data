@@ -1,3 +1,11 @@
+---
+title: "2638.  치즈"
+date: "BOJ 2638"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-2638"
+---
+
 [문제 바로가기](https://boj.kr/2638)
 
 ```c++

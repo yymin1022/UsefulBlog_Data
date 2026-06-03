@@ -1,3 +1,11 @@
+---
+title: "2635. 수 이어가기"
+date: "BOJ 2635"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-2635"
+---
+
 [문제 바로가기](https://boj.kr/2635)
 
 ```c++

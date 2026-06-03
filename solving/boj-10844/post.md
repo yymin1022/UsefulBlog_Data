@@ -1,3 +1,11 @@
+---
+title: "10844.  쉬운 계단 수"
+date: "BOJ 10844"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-10844"
+---
+
 [문제 바로가기](https://boj.kr/10844)
 
 ```c++

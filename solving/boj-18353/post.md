@@ -1,3 +1,11 @@
+---
+title: "18353. 병사 배치하기"
+date: "BOJ 18353"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-18353"
+---
+
 [문제 바로가기](https://boj.kr/18353)
 
 ```c++

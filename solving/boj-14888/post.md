@@ -1,3 +1,11 @@
+---
+title: "14888.  연산자 끼워넣기"
+date: "BOJ 14888"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-14888"
+---
+
 [문제 바로가기](https://boj.kr/14888)
 
 ```c++

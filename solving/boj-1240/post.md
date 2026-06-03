@@ -1,3 +1,11 @@
+---
+title: "1240. 노드사이의 거리"
+date: "BOJ 1240"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-1240"
+---
+
 [문제 바로가기](https://boj.kr/1240)
 
 ```c++

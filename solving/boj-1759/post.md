@@ -1,3 +1,11 @@
+---
+title: "1759. 암호 만들기"
+date: "BOJ 1759"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-1759"
+---
+
 [문제 바로가기](https://boj.kr/1759)
 
 ```c++

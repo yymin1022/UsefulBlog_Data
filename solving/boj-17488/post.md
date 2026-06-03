@@ -1,3 +1,11 @@
+---
+title: "17488. 수강 바구니"
+date: "BOJ 17488"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-17488"
+---
+
 [문제 바로가기](https://boj.kr/17488)
 
 ```c++

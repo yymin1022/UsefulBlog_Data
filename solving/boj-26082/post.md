@@ -1,3 +1,11 @@
+---
+title: "26082. WARBOY"
+date: "BOJ 26082"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-26082"
+---
+
 [문제 바로가기](https://boj.kr/26082)
 
 ```c++

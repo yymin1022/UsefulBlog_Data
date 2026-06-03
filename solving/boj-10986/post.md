@@ -1,3 +1,11 @@
+---
+title: "10986.  나머지 합"
+date: "BOJ 10986"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-10986"
+---
+
 [문제 바로가기](https://boj.kr/10986)
 
 ```c++

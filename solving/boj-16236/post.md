@@ -1,3 +1,11 @@
+---
+title: "16236.  아기 상어"
+date: "BOJ 16236"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-16236"
+---
+
 [문제 바로가기](https://boj.kr/16236)
 
 ```c++

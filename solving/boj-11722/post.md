@@ -1,3 +1,11 @@
+---
+title: "11722. 가장 긴 감소하는 부분 수열"
+date: "BOJ 11722"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-11722"
+---
+
 [문제 바로가기](https://boj.kr/11722)
 
 ```c++

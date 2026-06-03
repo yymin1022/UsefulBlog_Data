@@ -1,3 +1,11 @@
+---
+title: "2670. 연속부분최대곱"
+date: "BOJ 2670"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-2670"
+---
+
 [문제 바로가기](https://boj.kr/2670)
 
 ```c++

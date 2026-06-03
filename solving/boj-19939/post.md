@@ -1,3 +1,11 @@
+---
+title: "19939. 박 터뜨리기"
+date: "BOJ 19939"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-19939"
+---
+
 [문제 바로가기](https://boj.kr/19939)
 
 ```c++

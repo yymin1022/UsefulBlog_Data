@@ -1,3 +1,11 @@
+---
+title: "1451.  직사각형으로 나누기"
+date: "BOJ 1451"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-1451"
+---
+
 [문제 바로가기](https://boj.kr/1451)
 
 ```c++

@@ -1,3 +1,11 @@
+---
+title: "17413.  단어 뒤집기 2"
+date: "BOJ 17413"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-17413"
+---
+
 [문제 바로가기](https://boj.kr/17413)
 
 ```c++

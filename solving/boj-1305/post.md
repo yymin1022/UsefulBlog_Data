@@ -1,3 +1,11 @@
+---
+title: "1305. 광고"
+date: "BOJ 1305"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-1305"
+---
+
 [문제 바로가기](https://boj.kr/1305)
 
 ```c++

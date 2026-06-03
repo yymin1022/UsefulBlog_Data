@@ -1,3 +1,11 @@
+---
+title: "16969. 차량 번호판 2"
+date: "BOJ 16969"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-16969"
+---
+
 [문제 바로가기](https://boj.kr/16969)
 
 ```c++

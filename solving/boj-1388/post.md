@@ -1,3 +1,11 @@
+---
+title: "1388. 바닥 장식"
+date: "BOJ 1388"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-1388"
+---
+
 [문제 바로가기](https://boj.kr/1388)
 
 ```c++

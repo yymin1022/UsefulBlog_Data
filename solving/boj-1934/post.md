@@ -1,3 +1,11 @@
+---
+title: "1934.  최소공배수"
+date: "BOJ 1934"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-1934"
+---
+
 [문제 바로가기](https://boj.kr/1934)
 
 ```c++

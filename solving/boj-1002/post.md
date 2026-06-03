@@ -1,3 +1,11 @@
+---
+title: "1002.  터렛"
+date: "BOJ 1002"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-1002"
+---
+
 [문제 바로가기](https://boj.kr/1002)
 
 ```c++

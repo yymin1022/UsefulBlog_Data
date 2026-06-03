@@ -1,3 +1,11 @@
+---
+title: "2167.  2차원 배열의 합"
+date: "BOJ 2167"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-2167"
+---
+
 [문제 바로가기](https://boj.kr/2167)
 
 ```c++

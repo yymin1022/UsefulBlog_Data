@@ -1,3 +1,11 @@
+---
+title: "2525.  오븐 시계"
+date: "BOJ 2525"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-2525"
+---
+
 [문제 바로가기](https://boj.kr/2525)
 
 ```c++

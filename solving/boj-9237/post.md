@@ -1,3 +1,11 @@
+---
+title: "9237. 이장님 초대"
+date: "BOJ 9237"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-9237"
+---
+
 [문제 바로가기](https://boj.kr/9237)
 
 ```c++

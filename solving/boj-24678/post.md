@@ -1,3 +1,11 @@
+---
+title: "24678. 돌무더기 게임 1"
+date: "BOJ 24678"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-24678"
+---
+
 [문제 바로가기](https://boj.kr/24678)
 
 ```c++

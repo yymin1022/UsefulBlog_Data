@@ -1,3 +1,11 @@
+---
+title: "1484. 다이어트"
+date: "BOJ 1484"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-1484"
+---
+
 [문제 바로가기](https://boj.kr/1484)
 
 ```c++

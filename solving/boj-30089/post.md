@@ -1,3 +1,11 @@
+---
+title: "30089. 새로운 문자열 만들기"
+date: "BOJ 30089"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-30089"
+---
+
 [문제 바로가기](https://boj.kr/30089)
 
 ```c++

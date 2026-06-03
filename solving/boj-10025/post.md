@@ -1,3 +1,11 @@
+---
+title: "10025. 게으른 백곰"
+date: "BOJ 10025"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-10025"
+---
+
 [문제 바로가기](https://boj.kr/10025)
 
 ```c++

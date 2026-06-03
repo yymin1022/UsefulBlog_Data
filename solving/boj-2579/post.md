@@ -1,3 +1,11 @@
+---
+title: "2579.  계단 오르기"
+date: "BOJ 2579"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-2579"
+---
+
 [문제 바로가기](https://boj.kr/2579)
 
 ```c++

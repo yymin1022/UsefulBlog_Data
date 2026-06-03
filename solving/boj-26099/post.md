@@ -1,3 +1,11 @@
+---
+title: "26099. 설탕 배달 2"
+date: "BOJ 26099"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-26099"
+---
+
 [문제 바로가기](https://boj.kr/26099)
 
 ```c++

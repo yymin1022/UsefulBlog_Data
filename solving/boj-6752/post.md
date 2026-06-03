@@ -1,3 +1,11 @@
+---
+title: "6752. Time on task"
+date: "BOJ 6752"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-6752"
+---
+
 [문제 바로가기](https://boj.kr/6752)
 
 ```c++

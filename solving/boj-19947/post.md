@@ -1,3 +1,11 @@
+---
+title: "19947. 투자의 귀재 배주형"
+date: "BOJ 19947"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-19947"
+---
+
 [문제 바로가기](https://boj.kr/19947)
 
 ```c++

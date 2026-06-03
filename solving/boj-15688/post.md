@@ -1,3 +1,11 @@
+---
+title: "15688. 수 정렬하기 5"
+date: "BOJ 15688"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-15688"
+---
+
 [문제 바로가기](https://boj.kr/15688)
 
 ```c++

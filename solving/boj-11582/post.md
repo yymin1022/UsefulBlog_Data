@@ -1,3 +1,11 @@
+---
+title: "11582. 치킨 TOP N"
+date: "BOJ 11582"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-11582"
+---
+
 [문제 바로가기](https://boj.kr/11582)
 
 ```c++

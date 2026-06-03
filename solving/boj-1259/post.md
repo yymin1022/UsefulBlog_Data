@@ -1,3 +1,11 @@
+---
+title: "1259.  팰린드롬수"
+date: "BOJ 1259"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-1259"
+---
+
 [문제 바로가기](https://boj.kr/1259)
 
 ```c++

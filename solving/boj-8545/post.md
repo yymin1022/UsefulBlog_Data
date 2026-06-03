@@ -1,3 +1,11 @@
+---
+title: "8545.  Zadanie próbne"
+date: "BOJ 8545"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-8545"
+---
+
 [문제 바로가기](https://boj.kr/8545)
 
 ```c++

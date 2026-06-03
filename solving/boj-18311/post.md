@@ -1,3 +1,11 @@
+---
+title: "18311. 왕복"
+date: "BOJ 18311"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-18311"
+---
+
 [문제 바로가기](https://boj.kr/18311)
 
 ```c++

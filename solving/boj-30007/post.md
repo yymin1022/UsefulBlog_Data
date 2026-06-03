@@ -1,3 +1,11 @@
+---
+title: "30007. 라면 공식"
+date: "BOJ 30007"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-30007"
+---
+
 [문제 바로가기](https://boj.kr/30007)
 
 ```c++

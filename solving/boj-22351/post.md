@@ -1,3 +1,11 @@
+---
+title: "22351. 수학은 체육과목 입니다 3"
+date: "BOJ 22351"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-22351"
+---
+
 [문제 바로가기](https://boj.kr/22351)
 
 ```c++

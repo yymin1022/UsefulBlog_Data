@@ -1,3 +1,11 @@
+---
+title: "1680. 쓰레기 수거"
+date: "BOJ 1680"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-1680"
+---
+
 [문제 바로가기](https://boj.kr/1680)
 
 ```c++

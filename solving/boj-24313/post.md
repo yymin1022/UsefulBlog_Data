@@ -1,3 +1,11 @@
+---
+title: "24313. 알고리즘 수업 - 점근적 표기 1"
+date: "BOJ 24313"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-24313"
+---
+
 [문제 바로가기](https://boj.kr/24313)
 
 ```c++

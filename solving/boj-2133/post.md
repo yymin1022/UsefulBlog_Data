@@ -1,3 +1,11 @@
+---
+title: "2133. 타��� 채우기"
+date: "BOJ 2133"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-2133"
+---
+
 [문제 바로가기](https://boj.kr/2133)
 
 ```c++

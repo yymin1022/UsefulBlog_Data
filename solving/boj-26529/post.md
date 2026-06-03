@@ -1,3 +1,11 @@
+---
+title: "26529. Bunnies"
+date: "BOJ 26529"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-26529"
+---
+
 [문제 바로가기](https://boj.kr/26529)
 
 ```c++

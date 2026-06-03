@@ -1,3 +1,11 @@
+---
+title: "20206.  푸앙이가 길을 건너간 이유"
+date: "BOJ 20206"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-20206"
+---
+
 [문제 바로가기](https://boj.kr/20206)
 
 ```c++

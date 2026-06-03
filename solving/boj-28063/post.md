@@ -1,3 +1,11 @@
+---
+title: "28063. 동전 복사"
+date: "BOJ 28063"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-28063"
+---
+
 [문제 바로가기](https://boj.kr/28063)
 
 ```c++

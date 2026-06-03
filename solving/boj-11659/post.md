@@ -1,3 +1,11 @@
+---
+title: "11659.  구간 합 구하기 4"
+date: "BOJ 11659"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-11659"
+---
+
 [문제 바로가기](https://boj.kr/11659)
 
 ```c++

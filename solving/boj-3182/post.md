@@ -1,3 +1,11 @@
+---
+title: "3182. 한동이는 공부가 하기 싫어!"
+date: "BOJ 3182"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-3182"
+---
+
 [문제 바로가기](https://boj.kr/3182)
 
 ```c++

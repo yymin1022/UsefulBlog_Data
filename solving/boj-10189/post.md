@@ -1,3 +1,11 @@
+---
+title: "10189. Hook"
+date: "BOJ 10189"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-10189"
+---
+
 [문제 바로가기](https://boj.kr/10189)
 
 ```c++

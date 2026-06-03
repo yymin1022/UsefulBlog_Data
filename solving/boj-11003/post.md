@@ -1,3 +1,11 @@
+---
+title: "11003. 최솟값 찾기"
+date: "BOJ 11003"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-11003"
+---
+
 [문제 바로가기](https://boj.kr/11003)
 
 ```c++

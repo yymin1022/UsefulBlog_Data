@@ -1,3 +1,11 @@
+---
+title: "23301. 스터디 시간 정하기 2"
+date: "BOJ 23301"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-23301"
+---
+
 [문제 바로가기](https://boj.kr/23301)
 
 ```c++

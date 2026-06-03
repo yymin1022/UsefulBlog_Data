@@ -1,3 +1,11 @@
+---
+title: "10974. 순열"
+date: "BOJ 10974"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-10974"
+---
+
 [문제 바로가기](https://boj.kr/10974)
 
 ```c++

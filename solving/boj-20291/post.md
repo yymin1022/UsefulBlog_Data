@@ -1,3 +1,11 @@
+---
+title: "20291. 파일 정리"
+date: "BOJ 20291"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-20291"
+---
+
 [문제 바로가기](https://boj.kr/20291)
 
 ```c++

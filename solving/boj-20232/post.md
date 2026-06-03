@@ -1,3 +1,11 @@
+---
+title: "20232. Archivist"
+date: "BOJ 20232"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-20232"
+---
+
 [문제 바로가기](https://boj.kr/20232)
 
 ```c++

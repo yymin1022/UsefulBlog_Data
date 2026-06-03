@@ -1,3 +1,11 @@
+---
+title: "11971. 속도 위반"
+date: "BOJ 11971"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-11971"
+---
+
 [문제 바로가기](https://boj.kr/11971)
 
 ```c++

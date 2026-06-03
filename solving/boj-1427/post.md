@@ -1,3 +1,11 @@
+---
+title: "1427.  소트인사이드"
+date: "BOJ 1427"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-1427"
+---
+
 [문제 바로가기](https://boj.kr/1427)
 
 ```c++

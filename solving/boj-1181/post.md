@@ -1,3 +1,11 @@
+---
+title: "1181.  단어 정렬"
+date: "BOJ 1181"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-1181"
+---
+
 [문제 바로가기](https://boj.kr/1181)
 
 ```c++

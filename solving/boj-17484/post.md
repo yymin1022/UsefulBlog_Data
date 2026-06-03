@@ -1,3 +1,11 @@
+---
+title: "17484.  진우의 달 여행 (Small)"
+date: "BOJ 17484"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-17484"
+---
+
 [문제 바로가기](https://boj.kr/17484)
 
 ```c++

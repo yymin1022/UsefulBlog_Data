@@ -1,3 +1,11 @@
+---
+title: "2839.  설탕 배달"
+date: "BOJ 2839"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-2839"
+---
+
 [문제 바로가기](https://boj.kr/2839)
 
 ```python

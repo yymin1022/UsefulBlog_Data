@@ -1,3 +1,11 @@
+---
+title: "25305.  커트라인"
+date: "BOJ 25305"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-25305"
+---
+
 [문제 바로가기](https://boj.kr/25305)
 
 ```c++

@@ -1,3 +1,11 @@
+---
+title: "18110. solved.ac"
+date: "BOJ 18110"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-18110"
+---
+
 [문제 바로가기](https://boj.kr/18110)
 
 ```c++

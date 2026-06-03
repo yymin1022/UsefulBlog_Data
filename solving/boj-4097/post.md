@@ -1,3 +1,11 @@
+---
+title: "4097. 수익"
+date: "BOJ 4097"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-4097"
+---
+
 [문제 바로가기](https://boj.kr/4097)
 
 ```c++

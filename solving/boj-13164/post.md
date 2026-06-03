@@ -1,3 +1,11 @@
+---
+title: "13164. 행복 유치원"
+date: "BOJ 13164"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-13164"
+---
+
 [문제 바로가기](https://boj.kr/13164)
 
 ```c++

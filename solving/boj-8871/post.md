@@ -1,3 +1,11 @@
+---
+title: "8871.  Zadanie próbne 2"
+date: "BOJ 8871"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-8871"
+---
+
 [문제 바로가기](https://boj.kr/8871)
 
 ```c++

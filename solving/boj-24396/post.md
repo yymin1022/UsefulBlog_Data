@@ -1,3 +1,11 @@
+---
+title: "24396. 푸앙이와 별"
+date: "BOJ 24396"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-24396"
+---
+
 [문제 바로가기](https://boj.kr/24396)
 
 ```c++

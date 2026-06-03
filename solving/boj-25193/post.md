@@ -1,3 +1,11 @@
+---
+title: "25193. 곰곰이의 식단 관리"
+date: "BOJ 25193"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-25193"
+---
+
 [문제 바로가기](https://boj.kr/25193)
 
 ```c++

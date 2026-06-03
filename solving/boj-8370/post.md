@@ -1,3 +1,11 @@
+---
+title: "8370.  Plane"
+date: "BOJ 8370"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-8370"
+---
+
 [문제 바로가기](https://boj.kr/8370)
 
 ```c++

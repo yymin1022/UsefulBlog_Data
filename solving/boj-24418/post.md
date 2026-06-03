@@ -1,3 +1,11 @@
+---
+title: "24418. 알고리즘 수업 - 행렬 경로 문제 1"
+date: "BOJ 24418"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-24418"
+---
+
 [문제 바로가기](https://boj.kr/24418)
 
 ```c++

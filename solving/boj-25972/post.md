@@ -1,3 +1,11 @@
+---
+title: "25972. 도미노 무너트리기"
+date: "BOLJ 25972"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-25972"
+---
+
 [문제 바로가기](https://boj.kr/25972)
 
 ```c++

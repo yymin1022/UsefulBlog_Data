@@ -1,3 +1,11 @@
+---
+title: "11365. !밀비 급일"
+date: "BOJ 11365"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-11365"
+---
+
 [문제 바로가기](https://boj.kr/11365)
 
 ```c++

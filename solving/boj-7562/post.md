@@ -1,3 +1,11 @@
+---
+title: "7562.  나이트의 이동"
+date: "BOJ 7562"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-7562"
+---
+
 [문제 바로가기](https://boj.kr/7562)
 
 ```c++

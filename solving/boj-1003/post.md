@@ -1,3 +1,11 @@
+---
+title: "1003.  피보나치 함수"
+date: "BOJ 1003"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-1003"
+---
+
 [문제 바로가기](https://boj.kr/1003)
 
 ```c++

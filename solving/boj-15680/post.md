@@ -1,3 +1,11 @@
+---
+title: "15680. 연세대학교"
+date: "BOJ 15680"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-15680"
+---
+
 [문제 바로가기](https://boj.kr/15680)
 
 ```c++

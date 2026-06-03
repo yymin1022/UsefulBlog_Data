@@ -1,3 +1,11 @@
+---
+title: "1389.  케빈 베이컨의 6단계 법칙"
+date: "BOJ 1389"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-1389"
+---
+
 [문제 바로가기](https://boj.kr/1389)
 
 ```c++

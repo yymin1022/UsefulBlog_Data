@@ -1,3 +1,11 @@
+---
+title: "17214. 다항 함수의 적분"
+date: "BOJ 17214"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-17214"
+---
+
 [문제 바로가기](https://boj.kr/17214)
 
 ```c++

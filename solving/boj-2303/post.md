@@ -1,3 +1,11 @@
+---
+title: "2303. 숫자 게임"
+date: "BOJ 2303"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-2303"
+---
+
 [문제 바로가기](https://boj.kr/2303)
 
 ```c++

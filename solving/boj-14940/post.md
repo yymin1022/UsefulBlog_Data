@@ -1,3 +1,11 @@
+---
+title: "14940. 쉬운 최단거리"
+date: "BOJ 14940"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-14940"
+---
+
 [문제 바로가기](https://boj.kr/14940)
 
 ```c++

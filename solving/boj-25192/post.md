@@ -1,3 +1,11 @@
+---
+title: "25192.  인사성 밝은 곰곰이"
+date: "BOJ 25192"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-25192"
+---
+
 [문제 바로가기](https://boj.kr/25192)
 
 ```c++

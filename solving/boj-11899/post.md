@@ -1,3 +1,11 @@
+---
+title: "11899. 괄호 끼워넣기"
+date: "BOJ 11899"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-11899"
+---
+
 [문제 바로가기](https://boj.kr/11899)
 
 ```c++

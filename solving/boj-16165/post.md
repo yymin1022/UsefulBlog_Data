@@ -1,3 +1,11 @@
+---
+title: "16165. 걸그룹 마스터 준석이"
+date: "BOJ 16165"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-16165"
+---
+
 [문제 바로가기](https://boj.kr/16165)
 
 ```c++

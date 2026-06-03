@@ -1,3 +1,11 @@
+---
+title: "12981. 공 포장하기"
+date: "BOJ 12981"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-12981"
+---
+
 [문제 바로가기](https://boj.kr/12981)
 
 ```c++

@@ -1,3 +1,11 @@
+---
+title: "13909. 창문 닫기"
+date: "BOJ 13909"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-13909"
+---
+
 [문제 바로가기](https://boj.kr/13909)
 
 ```c++

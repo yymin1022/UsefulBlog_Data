@@ -1,3 +1,11 @@
+---
+title: "1991.  트리 순회"
+date: "BOJ 1991"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-1991"
+---
+
 [문제 바로가기](https://boj.kr/1991)
 
 ```c++

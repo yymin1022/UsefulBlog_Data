@@ -1,3 +1,11 @@
+---
+title: "17204. 죽음의 게임"
+date: "BOJ 17204"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-17204"
+---
+
 [문제 바로가기](https://boj.kr/17204)
 
 ```c++

@@ -1,3 +1,11 @@
+---
+title: "9654.  나부 함대 데이터"
+date: "BOJ 9654"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-9654"
+---
+
 [문제 바로가기](https://boj.kr/9654)
 
 ```c++

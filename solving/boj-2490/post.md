@@ -1,3 +1,11 @@
+---
+title: "2490.  윷놀이"
+date: "BOJ 2490"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-2490"
+---
+
 [문제 바로가기](https://boj.kr/2490)
 
 ```c++

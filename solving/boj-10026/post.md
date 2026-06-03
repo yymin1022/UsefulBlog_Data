@@ -1,3 +1,11 @@
+---
+title: "10026.  적록색약"
+date: "BOJ 10026"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-10026"
+---
+
 [문제 바로가기](https://boj.kr/10026)
 
 ```c++

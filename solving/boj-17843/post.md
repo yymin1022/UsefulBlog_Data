@@ -1,3 +1,11 @@
+---
+title: "17843. 시계"
+date: "BOJ 17843"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-17843"
+---
+
 [문제 바로가기](https://boj.kr/17843)
 
 ```c++

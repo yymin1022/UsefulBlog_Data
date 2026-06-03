@@ -1,3 +1,11 @@
+---
+title: "9375.  패션왕 신해빈"
+date: "BOJ 9375"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-9375"
+---
+
 [문제 바로가기](https://boj.kr/9375)
 
 ```c++

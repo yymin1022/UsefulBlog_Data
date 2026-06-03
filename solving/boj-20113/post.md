@@ -1,3 +1,11 @@
+---
+title: "20113. 긴급 회의"
+date: "BOJ 20113"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-20113"
+---
+
 [문제 바로가기](https://boj.kr/20113)
 
 ```c++

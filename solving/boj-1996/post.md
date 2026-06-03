@@ -1,3 +1,11 @@
+---
+title: "1996. 지뢰 찾기"
+date: "BOJ 1996"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-1996"
+---
+
 [문제 바로가기](https://boj.kr/1996)
 
 ```c++

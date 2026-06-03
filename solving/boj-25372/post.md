@@ -1,3 +1,11 @@
+---
+title: "25372.  성택이의 은밀한 비밀번호"
+date: "BOJ 25372"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-25372"
+---
+
 [문제 바로가기](https://boj.kr/25372)
 
 ```c++

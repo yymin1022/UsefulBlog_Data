@@ -1,3 +1,11 @@
+---
+title: "1644.  소수의 연속합"
+date: "BOJ 1644"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-1644"
+---
+
 [문제 바로가기](https://boj.kr/1644)
 
 ```c++

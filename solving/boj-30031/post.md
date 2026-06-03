@@ -1,3 +1,11 @@
+---
+title: "30031. 지폐 세기"
+date: "BOJ 30031"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-30031"
+---
+
 [문제 바로가기](https://boj.kr/30031)
 
 ```c++

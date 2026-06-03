@@ -1,3 +1,11 @@
+---
+title: "31410. 제독 작전"
+date: "BOJ 31410"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-31410"
+---
+
 [문제 바로가기](https://boj.kr/31410)
 
 ```c++

@@ -1,3 +1,11 @@
+---
+title: "28061. 레몬 따기"
+date: "BOJ 28061"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-28061"
+---
+
 [문제 바로가기](https://boj.kr/28061)
 
 ```c++

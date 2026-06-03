@@ -1,3 +1,11 @@
+---
+title: "25625. 샤틀버스"
+date: "BOJ 25625"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-25625"
+---
+
 [문제 바로가기](https://boj.kr/25625)
 
 ```c++

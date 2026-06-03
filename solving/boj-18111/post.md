@@ -1,3 +1,11 @@
+---
+title: "18111.  마인크래프트"
+date: "BOJ 18111"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-18111"
+---
+
 [문제 바로가기](https://boj.kr/18111)
 
 ```c++

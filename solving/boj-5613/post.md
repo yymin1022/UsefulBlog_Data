@@ -1,3 +1,11 @@
+---
+title: "5613. 계산기 프로그램"
+date: "BOJ 5613"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-5613"
+---
+
 [문제 바로가기](https://boj.kr/5613)
 
 ```c++

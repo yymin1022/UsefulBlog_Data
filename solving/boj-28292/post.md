@@ -1,3 +1,11 @@
+---
+title: "28292. 개미 수열"
+date: "BOJ 28292"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-28292"
+---
+
 [문제 바로가기](https://boj.kr/28292)
 
 ```c++

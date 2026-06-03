@@ -1,3 +1,11 @@
+---
+title: "30804. 과일 탕후루"
+date: "BOJ 30804"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-30804"
+---
+
 [문제 바로가기](https://boj.kr/30804)
 
 ```c++

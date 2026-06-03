@@ -1,3 +1,11 @@
+---
+title: "2992. 크면서 작은 수"
+date: "BOJ 2992"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-2992"
+---
+
 [문제 바로가기](https://boj.kr/2992)
 
 ```c++

@@ -1,3 +1,11 @@
+---
+title: "16928.  뱀과 사다리 게임"
+date: "BOJ 16928"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-16928"
+---
+
 [문제 바로가기](https://boj.kr/16928)
 
 ```c++

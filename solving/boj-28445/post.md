@@ -1,3 +1,11 @@
+---
+title: "28445. 알록달록 앵무새"
+date: "BOJ 28445"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-28445"
+---
+
 [문제 바로가기](https://boj.kr/28445)
 
 ```c++

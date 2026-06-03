@@ -1,3 +1,11 @@
+---
+title: "23028. 5학년은 다니기 싫어요"
+date: "BOJ 23028"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-23028"
+---
+
 [문제 바로가기](https://boj.kr/23028)
 
 ```c++

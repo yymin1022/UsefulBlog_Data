@@ -1,3 +1,11 @@
+---
+title: "2752.  세수정렬"
+date: "BOJ 2752"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-2752"
+---
+
 [문제 바로가기](https://boj.kr/2752)
 
 ```c++

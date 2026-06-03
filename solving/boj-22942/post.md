@@ -1,3 +1,11 @@
+---
+title: "22942. 데이터 체커"
+date: "BOJ 22942"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-22942"
+---
+
 [문제 바로가기](https://boj.kr/22942)
 
 ```c++

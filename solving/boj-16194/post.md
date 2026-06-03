@@ -1,3 +1,11 @@
+---
+title: "16194. 카드 구매하기 2"
+date: "BOJ 16194"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-16194"
+---
+
 [문제 바로가기](https://boj.kr/16194)
 
 ```c++

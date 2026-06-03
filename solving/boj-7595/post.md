@@ -1,3 +1,11 @@
+---
+title: "7595. Triangles"
+date: "BOJ 7595"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-7595"
+---
+
 [문제 바로가기](https://boj.kr/7595)
 
 ```c++

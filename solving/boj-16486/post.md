@@ -1,3 +1,11 @@
+---
+title: "16486. 운동장 한 바퀴"
+date: "BOJ 16486"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-16486"
+---
+
 [문제 바로가기](https://boj.kr/16486)
 
 ```c++

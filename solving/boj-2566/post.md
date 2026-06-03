@@ -1,3 +1,11 @@
+---
+title: "2566. 최댓값"
+date: "BOJ 2566"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-2566"
+---
+
 [문제 바로가기](https://boj.kr/2566)
 
 ```c++

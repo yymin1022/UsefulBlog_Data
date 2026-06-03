@@ -1,3 +1,11 @@
+---
+title: "13900. 순서쌍의 곱의 합"
+date: "BOJ 13900"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-13900"
+---
+
 [문제 바로가기](https://boj.kr/13900)
 
 ```c++

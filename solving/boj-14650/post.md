@@ -1,3 +1,11 @@
+---
+title: "14650. 걷다보니 신천역 삼 (Small)"
+date: "BOJ 14650"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-14650"
+---
+
 [문제 바로가기](https://boj.kr/14650)
 
 ```c++

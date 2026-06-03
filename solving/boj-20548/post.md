@@ -1,3 +1,11 @@
+---
+title: "20548. 칠리소스"
+date: "BOJ 20548"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-20548"
+---
+
 [문제 바로가기](https://boj.kr/20548)
 
 ```c++

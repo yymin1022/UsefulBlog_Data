@@ -1,3 +1,11 @@
+---
+title: "1297.  TV 크기"
+date: "BOJ 1297"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-1297"
+---
+
 [문제 바로가기](https://boj.kr/1297)
 
 ```c++

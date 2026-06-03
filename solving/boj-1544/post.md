@@ -1,3 +1,11 @@
+---
+title: "1544. 사이클 단어"
+date: "BOJ 1544"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-1544"
+---
+
 [문제 바로가기](https://boj.kr/1543)
 
 ```c++

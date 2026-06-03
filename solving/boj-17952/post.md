@@ -1,3 +1,11 @@
+---
+title: "17952. 과제는 끝나지 않아!"
+date: "BOJ 17952"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-17952"
+---
+
 [문제 바로가기](https://boj.kr/17952)
 
 ```c++

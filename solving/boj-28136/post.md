@@ -1,3 +1,11 @@
+---
+title: "28136. 원, 탁!"
+date: "BOJ 28136"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-28136"
+---
+
 [문제 바로가기](https://boj.kr/28136)
 
 ```c++

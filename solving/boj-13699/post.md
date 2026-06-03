@@ -1,3 +1,11 @@
+---
+title: "13699. 점화식"
+date: "BOJ 13699"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-13699"
+---
+
 [문제 바로가기](https://boj.kr/13699)
 
 ```c++

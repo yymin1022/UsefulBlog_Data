@@ -1,3 +1,11 @@
+---
+title: "11568. 민균이의 계략"
+date: "BOJ 11568"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-11568"
+---
+
 [문제 바로가기](https://boj.kr/11568)
 
 ```c++

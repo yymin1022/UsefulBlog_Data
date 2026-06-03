@@ -1,3 +1,11 @@
+---
+title: "30010. 잘못된 버블정렬"
+date: "BOJ 30010"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-30010"
+---
+
 [문제 바로가기](https://boj.kr/30010)
 
 ```c++

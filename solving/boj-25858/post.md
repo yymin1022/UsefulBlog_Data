@@ -1,3 +1,11 @@
+---
+title: "25858. Divide the Cash"
+date: "BOJ 25858"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-25858"
+---
+
 [문제 바로가기](https://boj.kr/25858)
 
 ```c++

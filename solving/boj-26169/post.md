@@ -1,3 +1,11 @@
+---
+title: "26169. 세 번 이내에 사과를 먹자"
+date: "BOJ 26169"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-26169"
+---
+
 [문제 바로가기](https://boj.kr/26169)
 
 ```c++

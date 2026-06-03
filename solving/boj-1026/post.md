@@ -1,3 +1,11 @@
+---
+title: "1026.  보물"
+date: "BOJ 1026"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-1026"
+---
+
 [문제 바로가기](https://boj.kr/1026)
 
 ```c++

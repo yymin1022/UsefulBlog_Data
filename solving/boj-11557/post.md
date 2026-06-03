@@ -1,3 +1,11 @@
+---
+title: "11557. Yangjojang of The Year"
+date: "BOJ 11557"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-11557"
+---
+
 [문제 바로가기](https://boj.kr/11557)
 
 ```c++

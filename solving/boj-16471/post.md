@@ -1,3 +1,11 @@
+---
+title: "16471. 작은 수 내기"
+date: "BOJ 16471"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-16471"
+---
+
 [문제 바로가기](https://boj.kr/16471)
 
 ```c++

@@ -1,3 +1,11 @@
+---
+title: "17251. 힘 겨루기"
+date: "BOJ 17251"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-17251"
+---
+
 [문제 바로가기](https://boj.kr/17251)
 
 ```c++

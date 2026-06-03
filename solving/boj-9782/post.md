@@ -1,3 +1,11 @@
+---
+title: "9782. Median"
+date: "BOJ 9782"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-9782"
+---
+
 [문제 바로가기](https://boj.kr/9782)
 
 ```c++

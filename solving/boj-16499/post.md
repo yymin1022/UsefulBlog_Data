@@ -1,3 +1,11 @@
+---
+title: "16499. 동일한 단어 그룹화하기"
+date: "BOJ 16499"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-16499"
+---
+
 [문제 바로가기](https://boj.kr/16499)
 
 ```c++

@@ -1,3 +1,11 @@
+---
+title: "15963. CASIO"
+date: "BOJ 15963"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-15963"
+---
+
 [문제 바로가기](https://boj.kr/15963)
 
 ```c++

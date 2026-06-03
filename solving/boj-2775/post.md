@@ -1,3 +1,11 @@
+---
+title: "2775.  부녀회장이 될테야"
+date: "BOJ 2775"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-2775"
+---
+
 [문제 바로가기](https://boj.kr/2775)
 
 ```c++

@@ -1,3 +1,11 @@
+---
+title: "15991. 1, 2, 3 더하기 6"
+date: "BOJ 15991"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-15991"
+---
+
 [문제 바로가기](https://boj.kr/15991)
 
 ```c++

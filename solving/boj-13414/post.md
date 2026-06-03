@@ -1,3 +1,11 @@
+---
+title: "13414. 수강신청"
+date: "BOJ 13414"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-13414"
+---
+
 [문제 바로가기](https://boj.kr/13414)
 
 ```c++

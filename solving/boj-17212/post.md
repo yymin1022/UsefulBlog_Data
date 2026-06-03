@@ -1,3 +1,11 @@
+---
+title: "17212. 달나라 토끼를 위한 구매대금 지불 도우미"
+date: "BOJ 17212"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-17212"
+---
+
 [문제 바로가기](https://boj.kr/17212)
 
 ```c++

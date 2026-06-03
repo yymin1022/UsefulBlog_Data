@@ -1,3 +1,11 @@
+---
+title: "3474. 교수가 된 현우"
+date: "BOJ 3474"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-3474"
+---
+
 [문제 바로가기](https://boj.kr/3474)
 
 ```c++

@@ -1,3 +1,11 @@
+---
+title: "26530. Shipping"
+date: "BOJ 26530"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-26530"
+---
+
 [문제 바로가기](https://boj.kr/26530)
 
 ```c++

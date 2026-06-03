@@ -1,3 +1,11 @@
+---
+title: "14430. 자원 캐기"
+date: "BOJ 14430"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-14430"
+---
+
 [문제 바로가기](https://boj.kr/14430)
 
 ```c++

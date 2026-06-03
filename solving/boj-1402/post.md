@@ -1,3 +1,11 @@
+---
+title: "1402. 아무래도이문제는A번난이도인것같다"
+date: "BOJ 1402"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-1402"
+---
+
 [문제 바로가기](https://boj.kr/1402)
 
 ```c++

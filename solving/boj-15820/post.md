@@ -1,3 +1,11 @@
+---
+title: "15820.  맞았는데 왜 ���리죠?"
+date: "BOJ 15820"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-15820"
+---
+
 [문제 바로가기](https://boj.kr/15820)
 
 ```c++

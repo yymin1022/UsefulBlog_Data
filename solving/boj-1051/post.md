@@ -1,3 +1,11 @@
+---
+title: "1051. 숫자 정사각형"
+date: "BOJ 1051"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-1051"
+---
+
 [문제 바로가기](https://boj.kr/1051)
 
 ```c++

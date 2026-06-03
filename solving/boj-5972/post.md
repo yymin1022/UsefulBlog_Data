@@ -1,3 +1,11 @@
+---
+title: "5972. 택배 배송"
+date: "BOJ 5972"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-5972"
+---
+
 [문제 바로가기](https://boj.kr/5972)
 
 ```c++

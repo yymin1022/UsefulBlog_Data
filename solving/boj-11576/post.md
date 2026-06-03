@@ -1,3 +1,11 @@
+---
+title: "11576. Base Conversion"
+date: "BOJ 11576"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-11576"
+---
+
 [문제 바로가기](https://boj.kr/11576)
 
 ```c++

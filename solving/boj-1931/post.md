@@ -1,3 +1,11 @@
+---
+title: "1931.  회의실 배정"
+date: "BOJ 1931"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-1931"
+---
+
 [문제 바로가기](https://boj.kr/1931)
 
 ```c++

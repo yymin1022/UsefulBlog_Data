@@ -1,3 +1,11 @@
+---
+title: "25497. 기술 연계마스터 임스"
+date: "BOJ 25497"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-25497"
+---
+
 [문제 바로가기](https://boj.kr/25497)
 
 ```c++

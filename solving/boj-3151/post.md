@@ -1,3 +1,11 @@
+---
+title: "3151.  합이 0"
+date: "BOJ 3151"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-3151"
+---
+
 [문제 바로가기](https://boj.kr/3151)
 
 ```c++

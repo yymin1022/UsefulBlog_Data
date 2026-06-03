@@ -1,3 +1,11 @@
+---
+title: "1717. 집합의 표현"
+date: "BOJ 1717"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-1717"
+---
+
 [문제 바로가기](https://boj.kr/1717)
 
 ```c++

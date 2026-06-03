@@ -1,3 +1,11 @@
+---
+title: "11656. 접미사 배열"
+date: "BOJ 11656"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-11656"
+---
+
 [문제 바로가기](https://boj.kr/11656)
 
 ```c++

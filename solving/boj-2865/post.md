@@ -1,3 +1,11 @@
+---
+title: "2865. 나는 위대한 슈퍼스타K "
+date: "BOJ 2865"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-2865"
+---
+
 [문제 바로가기](https://boj.kr/2865)
 
 ```c++

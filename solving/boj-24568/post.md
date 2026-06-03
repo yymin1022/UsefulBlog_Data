@@ -1,3 +1,11 @@
+---
+title: "24568.  Cupcake Party"
+date: "BOJ 24568"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-24568"
+---
+
 [문제 바로가기](https://boj.kr/24568)
 
 ```c++

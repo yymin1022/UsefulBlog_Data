@@ -1,3 +1,11 @@
+---
+title: "2435.  기상청 인턴 신현수"
+date: "BOJ 2435"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-2435"
+---
+
 [문제 바로가기](https://boj.kr/2435)
 
 ```c++

@@ -1,3 +1,11 @@
+---
+title: "15733.  나는 누구인가"
+date: "BOJ 15733"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-15733"
+---
+
 [문제 바로가기](https://boj.kr/15733)
 
 ```c++

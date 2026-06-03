@@ -1,3 +1,11 @@
+---
+title: "1202. 보석 도둑"
+date: "BOJ 1202"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-1202"
+---
+
 [문제 바로가기](https://boj.kr/1202)
 
 ```c++

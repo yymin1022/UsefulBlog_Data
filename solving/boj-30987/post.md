@@ -1,3 +1,11 @@
+---
+title: "30987. 하루 피부과"
+date: "BOJ 30987"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-30987"
+---
+
 [문제 바로가기](https://boj.kr/30987)
 
 ```c++

@@ -1,3 +1,11 @@
+---
+title: "20114. 미아 노트"
+date: "BOJ 20114"
+tag: ["BOJ","C++"]
+isPinned: false
+url: "boj-20114"
+---
+
 [문제 바로가기](https://boj.kr/20114)
 
 ```c++

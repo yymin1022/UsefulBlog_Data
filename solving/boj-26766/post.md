@@ -1,3 +1,11 @@
+---
+title: "26766. Serca"
+date: "BOJ 26766"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-26766"
+---
+
 [문제 바로가기](https://boj.kr/26766)
 
 ```c++

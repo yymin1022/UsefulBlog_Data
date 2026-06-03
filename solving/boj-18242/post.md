@@ -1,3 +1,11 @@
+---
+title: "18242. 네모네모 시력검사"
+date: "BOJ 18242"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-18242"
+---
+
 [문제 바로가기](https://boj.kr/18242)
 
 ```c++

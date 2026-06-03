@@ -1,3 +1,11 @@
+---
+title: "24479. 알고리즘 수업 - 깊이 우선 탐색 1"
+date: "BOJ 24479"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-24479"
+---
+
 [문제 바로가기](https://boj.kr/24479)
 
 ```c++

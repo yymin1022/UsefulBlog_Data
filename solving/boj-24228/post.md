@@ -1,3 +1,11 @@
+---
+title: "24228. 젓가락"
+date: "BOJ 24228"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-24228"
+---
+
 [문제 바로가기](https://boj.kr/24228)
 
 ```c++

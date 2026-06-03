@@ -1,3 +1,11 @@
+---
+title: "20833. Kuber"
+date: "BOJ 20833"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-20833"
+---
+
 [문제 바로가기](https://boj.kr/20833)
 
 ```c++

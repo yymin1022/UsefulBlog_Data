@@ -1,3 +1,11 @@
+---
+title: "17070.  파이프 옮기기 1"
+date: "BOJ 17070"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-17070"
+---
+
 [문제 바로가기](https://boj.kr/17070)
 
 ```c++

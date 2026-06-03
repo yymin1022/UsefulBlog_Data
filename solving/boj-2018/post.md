@@ -1,3 +1,11 @@
+---
+title: "2018.  수들의 합 5"
+date: "BOJ 2018"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-2018"
+---
+
 [문제 바로가기](https://boj.kr/2018)
 
 ```c++

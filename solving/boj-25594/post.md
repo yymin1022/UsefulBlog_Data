@@ -1,3 +1,11 @@
+---
+title: "25594. HG 음성기호"
+date: "BOJ 25594"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-25594"
+---
+
 [문제 바로가기](https://boj.kr/25594)
 
 ```c++

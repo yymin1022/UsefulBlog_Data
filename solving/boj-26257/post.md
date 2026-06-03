@@ -1,3 +1,11 @@
+---
+title: "26257. std::shared_ptr"
+date: "BOJ 26257"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-26257"
+---
+
 [문제 바로가기](https://boj.kr/26257)
 
 ```c++

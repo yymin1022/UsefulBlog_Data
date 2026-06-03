@@ -1,3 +1,11 @@
+---
+title: "14470. 전자레인지"
+date: "BOJ 14470"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-14470"
+---
+
 [문제 바로가기](https://boj.kr/14470)
 
 ```c++

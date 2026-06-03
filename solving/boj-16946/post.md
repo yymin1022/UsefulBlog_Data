@@ -1,3 +1,11 @@
+---
+title: "16946. 벽 부수고 이동하기 4"
+date: "BOJ 16946"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-16946"
+---
+
 [문제 바로가기](https://boj.kr/16946)
 
 ```c++

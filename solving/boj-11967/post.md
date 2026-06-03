@@ -1,3 +1,11 @@
+---
+title: "11967. 불켜기"
+date: "BOJ 11967"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-11967"
+---
+
 [문제 바로가기](https://boj.kr/11967)
 
 ```c++

@@ -1,3 +1,11 @@
+---
+title: "1504.  특정한 최단 경로"
+date: "BOJ 1504"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-1504"
+---
+
 [문제 바로가기](https://boj.kr/1504)
 
 ```c++

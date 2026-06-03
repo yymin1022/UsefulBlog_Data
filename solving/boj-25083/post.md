@@ -1,3 +1,11 @@
+---
+title: "25083.  새싹"
+date: "BOJ 25083"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-25083"
+---
+
 [문제 바로가기](https://boj.kr/25083)
 
 ```c++

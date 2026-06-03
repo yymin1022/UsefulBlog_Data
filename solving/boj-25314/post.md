@@ -1,3 +1,11 @@
+---
+title: "25314.  코딩은 체육과목 입니다"
+date: "BOJ 25314"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-25314"
+---
+
 [문제 바로가기](https://boj.kr/25314)
 
 ```c++

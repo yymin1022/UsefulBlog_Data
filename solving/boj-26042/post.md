@@ -1,3 +1,11 @@
+---
+title: "26042. 식당 입구 대기 줄"
+date: "BOJ 26042"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-26042"
+---
+
 [문제 바로가기](https://boj.kr/26042)
 
 ```c++

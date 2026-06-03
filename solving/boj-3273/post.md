@@ -1,3 +1,11 @@
+---
+title: "3273.  두 수의 합"
+date: "BOJ 3273"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-3273"
+---
+
 [문제 바로가기](https://boj.kr/3273)
 
 ```c++

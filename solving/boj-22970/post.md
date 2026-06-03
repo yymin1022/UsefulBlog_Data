@@ -1,3 +1,11 @@
+---
+title: "22970. 문제 재탕"
+date: "BOJ 22970"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-22970"
+---
+
 [문제 바로가기](https://boj.kr/22970)
 
 ```c++

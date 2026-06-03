@@ -1,3 +1,11 @@
+---
+title: "14442. 벽 부수고 이동하기 2"
+date: "BOJ 14442"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-14442"
+---
+
 [문제 바로가기](https://boj.kr/14442)
 
 ```c++

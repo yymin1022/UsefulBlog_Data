@@ -1,3 +1,11 @@
+---
+title: "29733. 3차원 지뢰찾기"
+date: "BOJ 29733"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-29733"
+---
+
 [문제 바로가기](https://boj.kr/29733)
 
 ```c++

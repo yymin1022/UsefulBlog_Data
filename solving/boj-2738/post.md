@@ -1,3 +1,11 @@
+---
+title: "2738.  행렬 덧셈"
+date: "BOJ 2738"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-2738"
+---
+
 [문제 바로가기](https://boj.kr/2738)
 
 ```c++

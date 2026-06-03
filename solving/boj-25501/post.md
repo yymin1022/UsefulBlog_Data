@@ -1,3 +1,11 @@
+---
+title: "25501. 재귀의 귀재"
+date: "BOJ 25501"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-25501"
+---
+
 [문제 바로가기](https://boj.kr/25501)
 
 ```c++

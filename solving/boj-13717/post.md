@@ -1,3 +1,11 @@
+---
+title: "13717. 포켓몬 GO"
+date: "BOJ 13717"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-13717"
+---
+
 [문제 바로가기](https://boj.kr/13717)
 
 ```c++

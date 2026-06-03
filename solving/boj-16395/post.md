@@ -1,3 +1,11 @@
+---
+title: "16395. 파스칼의 삼각형"
+date: "BOJ 16395"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-16395"
+---
+
 [문제 바로가기](https://boj.kr/16395)
 
 ```c++

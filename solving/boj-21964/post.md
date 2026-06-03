@@ -1,3 +1,11 @@
+---
+title: "21964. 선린인터넷고등학교 교가"
+date: "BOJ 21964"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-21964"
+---
+
 [문제 바로가기](https://boj.kr/21964)
 
 ```c++

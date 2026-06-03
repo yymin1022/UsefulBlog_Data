@@ -1,3 +1,11 @@
+---
+title: "4134. 다음 소수"
+date: "BOJ 4134"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-4134"
+---
+
 [문제 바로가기](https://boj.kr/4134)
 
 ```c++

@@ -1,3 +1,11 @@
+---
+title: "6591. 이항 쇼다운"
+date: "BOJ 6591"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-6591"
+---
+
 [문제 바로가기](https://boj.kr/6591)
 
 ```c++

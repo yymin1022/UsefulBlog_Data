@@ -1,3 +1,11 @@
+---
+title: "1969. DNA"
+date: "BOJ 1969"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-1969"
+---
+
 [문제 바로가기](https://boj.kr/1969)
 
 ```c++

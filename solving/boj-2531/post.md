@@ -1,3 +1,11 @@
+---
+title: "2531. 회전 초밥"
+date: "BOJ 2531"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-2531"
+---
+
 [문제 바로가기](https://boj.kr/2531)
 
 ```c++

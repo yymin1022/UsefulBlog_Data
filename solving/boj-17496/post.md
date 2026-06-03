@@ -1,3 +1,11 @@
+---
+title: "17496.  스타후르츠"
+date: "BOJ 17496"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-17496"
+---
+
 [문제 바로가기](https://boj.kr/17496)
 
 ```c++

@@ -1,3 +1,11 @@
+---
+title: "10813. 공 바꾸기"
+date: "BOJ 10813"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-10813"
+---
+
 [문제 바로가기](https://boj.kr/10813)
 
 ```c++

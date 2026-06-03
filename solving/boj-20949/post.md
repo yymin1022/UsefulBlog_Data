@@ -1,3 +1,11 @@
+---
+title: "20949. 효정과 새 모니터"
+date: "BOJ 20949"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-20949"
+---
+
 [문제 바로가기](https://boj.kr/20949)
 
 ```c++

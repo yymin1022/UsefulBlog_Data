@@ -1,3 +1,11 @@
+---
+title: "6593. 상범 빌딩"
+date: "BOJ 6593"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-6593"
+---
+
 [문제 바로가기](https://boj.kr/6593)
 
 ```c++

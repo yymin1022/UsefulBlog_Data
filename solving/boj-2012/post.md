@@ -1,3 +1,11 @@
+---
+title: "2012. 등수 매기기"
+date: "BOJ 2012"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-2012"
+---
+
 [문제 바로가기](https://boj.kr/2012)
 
 ```c++

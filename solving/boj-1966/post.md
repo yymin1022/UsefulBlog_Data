@@ -1,3 +1,11 @@
+---
+title: "1966.  프린터 큐"
+date: "BOJ 1966"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-1966"
+---
+
 [문제 바로가기](https://boj.kr/1966)
 
 ```c++

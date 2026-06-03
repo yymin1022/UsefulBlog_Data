@@ -1,3 +1,11 @@
+---
+title: "24416.  알고리즘 수업 - 피보나치 수 1"
+date: "BOJ 24416"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-24416"
+---
+
 [문제 바로가기](https://boj.kr/24416)
 
 ```c++

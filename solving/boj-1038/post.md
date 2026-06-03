@@ -1,3 +1,11 @@
+---
+title: "1038. 감소하는 수"
+date: "BOJ 1038"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-1038"
+---
+
 [문제 바로가기](https://boj.kr/1038)
 
 ```c++

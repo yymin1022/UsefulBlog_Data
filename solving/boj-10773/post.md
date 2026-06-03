@@ -1,3 +1,11 @@
+---
+title: "10773.  제로"
+date: "BOJ 10773"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-10773"
+---
+
 [문제 바로가기](https://boj.kr/10773)
 
 ```c++

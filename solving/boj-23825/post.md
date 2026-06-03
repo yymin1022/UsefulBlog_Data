@@ -1,3 +1,11 @@
+---
+title: "23825. SASA 모형을 만들어보자"
+date: "BOJ 23825"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-23825"
+---
+
 [문제 바로가기](https://boj.kr/23825)
 
 ```c++

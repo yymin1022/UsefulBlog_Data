@@ -1,3 +1,11 @@
+---
+title: "31845. 카드 교환"
+date: "BOJ 31845"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-31845"
+---
+
 [문제 바로가기](https://boj.kr/31845)
 
 ```c++

@@ -1,3 +1,11 @@
+---
+title: "2744.  대소문자 바꾸기"
+date: "BOJ 2744"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-2744"
+---
+
 [문제 바로가기](https://boj.kr/2744)
 
 ```c++

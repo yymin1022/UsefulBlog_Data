@@ -1,3 +1,11 @@
+---
+title: "11116. 교통량"
+date: "BOJ 11116"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-11116"
+---
+
 [문제 바로가기](https://boj.kr/11116)
 
 ```c++

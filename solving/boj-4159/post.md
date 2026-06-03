@@ -1,3 +1,11 @@
+---
+title: "4159. 알래스카"
+date: "BOJ 4159"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-4159"
+---
+
 [문제 바로가기](https://boj.kr/4159)
 
 ```c++

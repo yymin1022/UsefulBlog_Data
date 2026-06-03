@@ -1,3 +1,11 @@
+---
+title: "1057. 토너먼트"
+date: "BOJ 1057"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-1057"
+---
+
 [문제 바로가기](https://boj.kr/1057)
 
 ```c++

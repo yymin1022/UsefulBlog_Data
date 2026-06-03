@@ -1,3 +1,11 @@
+---
+title: "1806.  부분합"
+date: "BOJ 1806"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-1806"
+---
+
 [문제 바로가기](https://boj.kr/1806)
 
 ```c++

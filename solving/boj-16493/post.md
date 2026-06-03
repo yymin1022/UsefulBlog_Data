@@ -1,3 +1,11 @@
+---
+title: "16493. 최대 페이지 수"
+date: "BOJ 16493"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-16493"
+---
+
 [문제 바로가기](https://boj.kr/16493)
 
 ```c++

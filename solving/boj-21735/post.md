@@ -1,3 +1,11 @@
+---
+title: "21735. 눈덩이 굴리기"
+date: "BOJ 21735"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-21735"
+---
+
 [문제 바로가기](https://boj.kr/21735)
 
 ```c++

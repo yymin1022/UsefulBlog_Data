@@ -1,3 +1,11 @@
+---
+title: "5648. 역원소 정렬"
+date: "BOJ 5648"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-5648"
+---
+
 [문제 바로가기](https://boj.kr/5648)
 
 ```c++

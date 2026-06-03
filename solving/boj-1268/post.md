@@ -1,3 +1,11 @@
+---
+title: "1268. 임시 반장 정하기"
+date: "BOJ 1268"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-1268"
+---
+
 [문제 바로가기](https://boj.kr/1268)
 
 ```c++

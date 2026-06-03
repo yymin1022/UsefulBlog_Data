@@ -1,3 +1,11 @@
+---
+title: "26500. Absolutely"
+date: "BOJ 26500"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-26500"
+---
+
 [문제 바로가기](https://boj.kr/26500)
 
 ```c++

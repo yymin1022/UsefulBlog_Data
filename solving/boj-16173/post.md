@@ -1,3 +1,11 @@
+---
+title: "16173. 점프왕 쩰리 (Small)"
+date: "BOJ 16173"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-16173"
+---
+
 [문제 바로가기](https://boj.kr/16173)
 
 ```c++

@@ -1,3 +1,11 @@
+---
+title: "25584, 근무 지옥에 빠진 푸앙이 (Large)"
+date: "BOJ 25584"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-25584"
+---
+
 [문제 바로가기](https://boj.kr/25584)
 
 ```c++

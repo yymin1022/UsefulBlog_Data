@@ -1,3 +1,11 @@
+---
+title: "12037. Polynesiaglot (Small1)"
+date: "BOJ 12037"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-12037"
+---
+
 [문제 바로가기](https://boj.kr/12037)
 
 ```c++

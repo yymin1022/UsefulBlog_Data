@@ -1,3 +1,11 @@
+---
+title: "18310. 안테나"
+date: "BOJ 18310"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-18310"
+---
+
 [문제 바로가기](https://boj.kr/18310)
 
 ```c++

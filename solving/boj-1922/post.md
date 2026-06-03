@@ -1,3 +1,11 @@
+---
+title: "1922. 네트워크 연결"
+date: "BOJ 1922"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-1922"
+---
+
 [문제 바로가기](https://boj.kr/1922)
 
 ```c++

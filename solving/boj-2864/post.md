@@ -1,3 +1,11 @@
+---
+title: "2864. 5와 6의 차이"
+date: "BOJ 2864"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-2864"
+---
+
 [문제 바로가기](https://boj.kr/2864)
 
 ```c++

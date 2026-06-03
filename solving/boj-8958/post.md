@@ -1,3 +1,11 @@
+---
+title: "8958.  OX퀴즈"
+date: "BOJ 8958"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-8958"
+---
+
 [문제 바로가기](https://boj.kr/8958)
 
 ```c

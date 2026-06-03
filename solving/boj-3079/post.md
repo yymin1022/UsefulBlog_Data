@@ -1,3 +1,11 @@
+---
+title: "3079. 입국심사"
+date: "BOJ 3079"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-3079"
+---
+
 [문제 바로가기](https://boj.kr/3079)
 
 ```c++

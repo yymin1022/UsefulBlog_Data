@@ -1,3 +1,11 @@
+---
+title: "3067. Coins"
+date: "BOJ 3067"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-3067"
+---
+
 [문제 바로가기](https://boj.kr/3067)
 
 ```c++

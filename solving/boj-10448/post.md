@@ -1,3 +1,11 @@
+---
+title: "10448. 유레카 이론"
+date: "BOJ 10448"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-10448"
+---
+
 [문제 바로가기](https://boj.kr/10448)
 
 ```c++

@@ -1,3 +1,11 @@
+---
+title: "18405. 경쟁적 전염"
+date: "BOJ 18405"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-18405"
+---
+
 [문제 바로가기](https://boj.kr/18405)
 
 ```c++

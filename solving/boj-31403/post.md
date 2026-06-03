@@ -1,3 +1,11 @@
+---
+title: "31403. $A + B - C$"
+date: "BOJ 31403"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-31403"
+---
+
 [문제 바로가기](https://boj.kr/31403)
 
 ```c++

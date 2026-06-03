@@ -1,3 +1,11 @@
+---
+title: "11279.  최대 힙"
+date: "BOJ 11279"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-11279"
+---
+
 [문제 바로가기](https://boj.kr/11279)
 
 ```c++

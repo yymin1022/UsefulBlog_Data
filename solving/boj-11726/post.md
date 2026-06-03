@@ -1,3 +1,11 @@
+---
+title: "11726.  2×n ���일링"
+date: "BOJ 11726"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-11726"
+---
+
 [문제 바로가기](https://boj.kr/11726)
 
 ```c++

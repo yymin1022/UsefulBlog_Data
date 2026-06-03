@@ -1,3 +1,11 @@
+---
+title: "1546.  평균"
+date: "BOJ 1546"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-1546"
+---
+
 [문제 바로가기](https://boj.kr/1546)
 
 ```c

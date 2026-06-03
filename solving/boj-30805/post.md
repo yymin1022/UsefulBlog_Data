@@ -1,3 +1,11 @@
+---
+title: "30805. 사전 순 최대 공통 부분 수열"
+date: "BOJ 30805"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-30805"
+---
+
 [문제 바로가기](https://boj.kr/30805)
 
 ```c++

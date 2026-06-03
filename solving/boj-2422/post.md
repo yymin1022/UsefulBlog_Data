@@ -1,3 +1,11 @@
+---
+title: "2422. 한윤정이 이탈리아에 가서 아이스크림을 사먹는데"
+date: "BOJ 2422"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-2422"
+---
+
 [문제 바로가기](https://boj.kr/2422)
 
 ```c++

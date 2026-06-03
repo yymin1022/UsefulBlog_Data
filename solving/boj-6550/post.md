@@ -1,3 +1,11 @@
+---
+title: "6550. 부분 문자열"
+date: "BOJ 6550"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-6550"
+---
+
 [문제 바로가기](https://boj.kr/6550)
 
 ```c++

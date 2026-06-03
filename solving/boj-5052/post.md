@@ -1,3 +1,11 @@
+---
+title: "5052. ��화번호 목록"
+date: "BOJ 5052"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-5052"
+---
+
 [문제 바로가기](https://boj.kr/5052)
 
 ```c++

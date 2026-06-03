@@ -1,3 +1,11 @@
+---
+title: "6810. ISBN"
+date: "BOJ 6810"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-6810"
+---
+
 [문제 바로가기](https://boj.kr/6810)
 
 ```c++

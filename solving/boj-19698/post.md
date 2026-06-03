@@ -1,3 +1,11 @@
+---
+title: "19698. 헛간 청약"
+date: "BOJ 19698"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-19698"
+---
+
 [문제 바로가기](https://boj.kr/19698)
 
 ```c++

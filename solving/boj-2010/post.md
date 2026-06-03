@@ -1,3 +1,11 @@
+---
+title: "2010. 플러그"
+date: "BOJ 2010"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-2010"
+---
+
 [문제 바로가기](https://boj.kr/2010)
 
 ```c++

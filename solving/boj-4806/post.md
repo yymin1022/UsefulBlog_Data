@@ -1,3 +1,11 @@
+---
+title: "4806. 줄 세기"
+date: "BOJ 4806"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-4806"
+---
+
 [문제 바로가기](https://boj.kr/4806)
 
 ```c++

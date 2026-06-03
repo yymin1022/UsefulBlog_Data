@@ -1,3 +1,11 @@
+---
+title: "13913. 숨바꼭질 4"
+date: "BOJ 13913"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-13913"
+---
+
 [문제 바로가기](https://boj.kr/13913)
 
 ```c++

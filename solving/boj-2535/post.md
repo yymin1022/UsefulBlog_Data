@@ -1,3 +1,11 @@
+---
+title: "2535. 아시아 정보올림피아드"
+date: "BOJ 2535"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-2535"
+---
+
 [문제 바로가기](https://boj.kr/2535)
 
 ```c++

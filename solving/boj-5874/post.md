@@ -1,3 +1,11 @@
+---
+title: "5874. 소를 찾아라"
+date: "BOJ 5874"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-5874"
+---
+
 [문제 바로가기](https://boj.kr/5874)
 
 ```c++

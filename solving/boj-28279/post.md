@@ -1,3 +1,11 @@
+---
+title: "28279. 덱 2"
+date: "BOJ 28279"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-28279"
+---
+
 [문제 바로가기](https://boj.kr/28279)
 
 ```c++

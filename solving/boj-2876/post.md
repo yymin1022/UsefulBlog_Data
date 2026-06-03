@@ -1,3 +1,11 @@
+---
+title: "2876. 그래픽스 퀴즈"
+date: "BOJ 2876"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-2876"
+---
+
 [문제 바로가기](https://boj.kr/2876)
 
 ```c++

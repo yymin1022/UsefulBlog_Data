@@ -1,3 +1,11 @@
+---
+title: "26332. Buying in Bulk"
+date: "BOJ 26332"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-26332"
+---
+
 [문제 바로가기](https://boj.kr/26332)
 
 ```c++

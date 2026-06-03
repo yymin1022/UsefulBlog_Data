@@ -1,3 +1,11 @@
+---
+title: "10808.  알파벳 개수"
+date: "BOJ 10808"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-10808"
+---
+
 [문제 바로가기](https://boj.kr/10808)
 
 ```c++

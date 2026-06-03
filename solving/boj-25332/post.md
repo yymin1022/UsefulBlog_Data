@@ -1,3 +1,11 @@
+---
+title: "25332. 수들의 합 8"
+date: "BOJ 25332"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-25332"
+---
+
 [문제 바로가기](https://boj.kr/25332)
 
 ```c++

@@ -1,3 +1,11 @@
+---
+title: "1205. 등수 구하기"
+date: "BOJ 1205"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-1205"
+---
+
 [문제 바로가기](https://boj.kr/1205)
 
 ```c++

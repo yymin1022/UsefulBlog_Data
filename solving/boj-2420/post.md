@@ -1,3 +1,11 @@
+---
+title: "2420.  사파리월드"
+date: "BOJ 2420"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-2420"
+---
+
 [문제 바로가기](https://boj.kr/2420)
 
 ```c++

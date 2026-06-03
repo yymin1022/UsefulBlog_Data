@@ -1,3 +1,11 @@
+---
+title: "14908. 구두 수선공"
+date: "BOJ 14908"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-14908"
+---
+
 [문제 바로가기](https://boj.kr/14908)
 
 ```c++

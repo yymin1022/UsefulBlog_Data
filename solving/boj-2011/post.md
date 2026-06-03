@@ -1,3 +1,11 @@
+---
+title: "2011. 암호코드"
+date: "BOJ 2011"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-2011"
+---
+
 [문제 바로가기](https://boj.kr/2011)
 
 ```c++

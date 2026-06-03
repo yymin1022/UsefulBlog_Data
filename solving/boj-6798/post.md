@@ -1,3 +1,11 @@
+---
+title: "6798. Knight Hop"
+date: "BOJ 6798"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-6798"
+---
+
 [문제 바로가기](https://boj.kr/6798)
 
 ```c++

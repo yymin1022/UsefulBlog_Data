@@ -1,3 +1,11 @@
+---
+title: "31668. 특별한 가지"
+date: "BOJ 31668"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-31668"
+---
+
 [문제 바로가기](https://boj.kr/31668)
 
 ```c++

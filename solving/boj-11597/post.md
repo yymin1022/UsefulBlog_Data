@@ -1,3 +1,11 @@
+---
+title: "11597. Excellence"
+date: "BOJ 11597"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-11597"
+---
+
 [문제 바로가기](https://boj.kr/11597)
 
 ```c++

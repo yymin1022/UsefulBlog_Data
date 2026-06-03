@@ -1,3 +1,11 @@
+---
+title: "17609.  회문"
+date: "BOJ 17609"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-17609"
+---
+
 [문제 바로가기](https://boj.kr/17609)
 
 ```c++

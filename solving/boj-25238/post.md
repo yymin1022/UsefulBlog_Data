@@ -1,3 +1,11 @@
+---
+title: "25238.  가희와 방어율 무시"
+date: "BOJ 25238"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-25238"
+---
+
 [문제 바로가기](https://boj.kr/25238)
 
 ```c++

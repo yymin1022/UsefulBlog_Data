@@ -1,3 +1,11 @@
+---
+title: "2231.  분해합"
+date: "BOJ 2231"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-2231"
+---
+
 [문제 바로가기](https://boj.kr/2231)
 
 ```c++

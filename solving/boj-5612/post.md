@@ -1,3 +1,11 @@
+---
+title: "5612. 터널의 입구와 출구"
+date: "BOJ 5612"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-5612"
+---
+
 [문제 바로가기](https://boj.kr/5612)
 
 ```c++

@@ -1,3 +1,11 @@
+---
+title: "1793. 타일링"
+date: "BOJ 1793"
+tag: ["BOJ","Python"]
+isPinned: true
+url: "boj-1793"
+---
+
 [문제 바로가기](https://boj.kr/1793)
 
 ```python

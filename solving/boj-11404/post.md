@@ -1,3 +1,11 @@
+---
+title: "11404. 플로이드"
+date: "BOJ 11404"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-11404"
+---
+
 [문제 바로가기](https://boj.kr/11404)
 
 ```c++

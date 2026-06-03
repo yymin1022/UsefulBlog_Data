@@ -1,3 +1,11 @@
+---
+title: "32281. 유리구슬 (Glass Bead)"
+date: "BOJ 32281"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-32281"
+---
+
 [문제 바로가기](https://boj.kr/32281)
 
 ```c++

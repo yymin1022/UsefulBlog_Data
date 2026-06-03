@@ -1,3 +1,11 @@
+---
+title: "10451. 순열 사이클"
+date: "BOJ 10451"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-10451"
+---
+
 [문제 바로가기](https://boj.kr/10451)
 
 ```c++

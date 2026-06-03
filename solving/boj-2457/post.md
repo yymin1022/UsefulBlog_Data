@@ -1,3 +1,11 @@
+---
+title: "2457. 공주님의 정원"
+date: "BOJ 2457"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-2457"
+---
+
 [문제 바로가기](https://boj.kr/2457)
 
 ```c++

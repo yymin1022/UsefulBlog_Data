@@ -1,3 +1,11 @@
+---
+title: "17451. 평행 우주"
+date: "BOJ 17451"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-17451"
+---
+
 [문제 바로가기](https://boj.kr/17451)
 
 ```c++

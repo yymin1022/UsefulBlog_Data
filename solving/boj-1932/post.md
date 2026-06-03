@@ -1,3 +1,11 @@
+---
+title: "1932.  정수 삼각형"
+date: "BOJ 1932"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-1932"
+---
+
 [문제 바로가기](https://boj.kr/1932)
 
 ```c++

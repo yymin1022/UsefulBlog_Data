@@ -1,3 +1,11 @@
+---
+title: "2461. 대표 선수"
+date: "BOJ 2461"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-2461"
+---
+
 [문제 바로가기](https://boj.kr/2461)
 
 ```c++

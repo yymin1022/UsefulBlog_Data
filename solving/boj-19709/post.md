@@ -1,3 +1,11 @@
+---
+title: "19709. LunchBox"
+date: "BOJ 19709"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-19709"
+---
+
 [문제 바로가기](https://boj.kr/19709)
 
 ```c++

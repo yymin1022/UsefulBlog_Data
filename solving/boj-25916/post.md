@@ -1,3 +1,11 @@
+---
+title: "25916. 싫은데요"
+date: "BOJ 25916"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-25916"
+---
+
 [문제 바로가기](https://boj.kr/25916)
 
 ```c++

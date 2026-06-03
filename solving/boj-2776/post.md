@@ -1,3 +1,11 @@
+---
+title: "2776. 암기왕"
+date: "BOJ 2776"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-2776"
+---
+
 [문제 바로가기](https://boj.kr/2776)
 
 ```c++

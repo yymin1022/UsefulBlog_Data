@@ -1,3 +1,11 @@
+---
+title: "30402. 감마선을 맞은 컴퓨터"
+date: "BOJ 30402"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-30402"
+---
+
 [문제 바로가기](https://boj.kr/30402)
 
 ```c++

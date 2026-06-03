@@ -1,3 +1,11 @@
+---
+title: "5393. Collatz"
+date: "BOJ 5393"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-5393"
+---
+
 [문제 바로가기](https://boj.kr/5393)
 
 ```c++

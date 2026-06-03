@@ -1,3 +1,11 @@
+---
+title: "5524. 입실 관리"
+date: "BOJ 5524"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-5524"
+---
+
 [문제 바로가기](https://boj.kr/5524)
 
 ```c++

@@ -1,3 +1,11 @@
+---
+title: "15905. 스텔라(STELLA)가 치킨을 선물했어요"
+date: "BOJ 15905"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-15905"
+---
+
 [문제 바로가기](https://boj.kr/15905)
 
 ```c++

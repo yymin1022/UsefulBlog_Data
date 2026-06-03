@@ -1,3 +1,11 @@
+---
+title: "7515. Prehistoric Operating Systems"
+date: "BOJ 7515"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-7515"
+---
+
 [문제 바로가기](https://boj.kr/7515)
 
 ```python

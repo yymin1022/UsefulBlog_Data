@@ -1,3 +1,11 @@
+---
+title: "25418. 정수 a를 k로 만들기"
+date: "BOJ 25418"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-25418"
+---
+
 [문제 바로가기](https://boj.kr/25418)
 
 ```c++

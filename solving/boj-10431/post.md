@@ -1,3 +1,11 @@
+---
+title: "10431. 줄세우기"
+date: "BOJ 10431"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-10431"
+---
+
 [문제 바로가기](https://boj.kr/10431)
 
 ```c++

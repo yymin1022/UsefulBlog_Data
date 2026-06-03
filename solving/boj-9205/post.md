@@ -1,3 +1,11 @@
+---
+title: "9205. 맥주 마시면��� 걸어가기"
+date: "BOJ 9205"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-9205"
+---
+
 [문제 바로가기](https://boj.kr/9205)
 
 ```c++

@@ -1,3 +1,11 @@
+---
+title: "1138. 한 줄로 서기"
+date: "BOJ 1138"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-1138"
+---
+
 [문제 바로가기](https://boj.kr/1138)
 
 ```c++

@@ -1,3 +1,11 @@
+---
+title: "1976. 여행 가자"
+date: "BOJ 1976"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-1976"
+---
+
 [문제 바로가기](https://boj.kr/1976)
 
 ```c++

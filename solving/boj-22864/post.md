@@ -1,3 +1,11 @@
+---
+title: "22864. 피로도"
+date: "BOJ 22864"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-22864"
+---
+
 [문제 바로가기](https://boj.kr/22864)
 
 ```c++

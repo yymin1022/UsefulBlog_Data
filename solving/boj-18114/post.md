@@ -1,3 +1,11 @@
+---
+title: "18114. 블랙 프라이데이"
+date: "BOJ 18114"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-18114"
+---
+
 [문제 바로가기](https://boj.kr/18114)
 
 ```c++

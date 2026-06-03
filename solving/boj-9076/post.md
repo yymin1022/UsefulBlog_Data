@@ -1,3 +1,11 @@
+---
+title: "9076. 점수 집계"
+date: "BOJ 9076"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-9076"
+---
+
 [문제 바로가기](https://boj.kr/9076)
 
 ```c++

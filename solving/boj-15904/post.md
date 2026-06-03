@@ -1,3 +1,11 @@
+---
+title: "15904. UCPC는 무엇의 약자일까?"
+date: "BOJ 15904"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-15904"
+---
+
 [문제 바로가기](https://boj.kr/15904)
 
 ```c++

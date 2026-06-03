@@ -1,3 +1,11 @@
+---
+title: "1244. 스위치 켜고 끄기"
+date: "BOJ 1244"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-1244"
+---
+
 [문제 바로가기](https://boj.kr/1244)
 
 ```c++

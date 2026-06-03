@@ -1,3 +1,11 @@
+---
+title: "2057. 팩토리얼 분해"
+date: "BOJ 2057"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-2057"
+---
+
 [문제 바로가기](https://boj.kr/2057)
 
 ```c++

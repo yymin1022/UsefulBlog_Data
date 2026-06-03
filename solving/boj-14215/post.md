@@ -1,3 +1,11 @@
+---
+title: "14215. 세 막대"
+date: "BOJ 14215"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-14215"
+---
+
 [문제 바로가기](https://boj.kr/14215)
 
 ```c++

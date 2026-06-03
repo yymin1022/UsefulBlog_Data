@@ -1,3 +1,11 @@
+---
+title: "18870.  좌표 압축"
+date: "BOJ 18870"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-18870"
+---
+
 [문제 바로가기](https://boj.kr/18870)
 
 ```c++

@@ -1,3 +1,11 @@
+---
+title: "1788. 피보나치 수의 확장"
+date: "BOJ 1788"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-1788"
+---
+
 [문제 바로가기](https://boj.kr/1788)
 
 ```c++

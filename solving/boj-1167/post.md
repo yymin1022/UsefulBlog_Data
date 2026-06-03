@@ -1,3 +1,11 @@
+---
+title: "1167.  트리의 지름"
+date: "BOJ 1167"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-1167"
+---
+
 [문제 바로가기](https://boj.kr/1167)
 
 ```c++

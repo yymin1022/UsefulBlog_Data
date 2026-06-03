@@ -1,3 +1,11 @@
+---
+title: "2890. 카약"
+date: "BOJ 2890"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-2890"
+---
+
 [문제 바로가기](https://boj.kr/2890)
 
 ```c++

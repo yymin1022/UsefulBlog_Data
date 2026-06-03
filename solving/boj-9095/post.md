@@ -1,3 +1,11 @@
+---
+title: "9095.  1, 2, 3 더하기"
+date: "BOJ 9095"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-9095"
+---
+
 [문제 바로가기](https://boj.kr/9095)
 
 ```c++

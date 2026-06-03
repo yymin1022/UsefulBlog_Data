@@ -1,3 +1,11 @@
+---
+title: "12354. Ocean View (Small)"
+date: "BOJ 12354"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-12354"
+---
+
 [문제 바로가기](https://boj.kr/12354)
 
 ```c++

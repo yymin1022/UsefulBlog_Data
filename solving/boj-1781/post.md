@@ -1,3 +1,11 @@
+---
+title: "1781. 컵라면"
+date: "BOJ 1781"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-1781"
+---
+
 [문제 바로가기](https://boj.kr/1781)
 
 ```c++

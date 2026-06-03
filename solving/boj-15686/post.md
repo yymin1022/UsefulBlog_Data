@@ -1,3 +1,11 @@
+---
+title: "15686. 치킨 배달"
+date: "BOJ 15686"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-15686"
+---
+
 [문제 바로가기](https://boj.kr/15686)
 
 ```c++

@@ -1,3 +1,11 @@
+---
+title: "19941. 햄버거 분배"
+date: "BOJ 19941"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-19941"
+---
+
 [문제 바로가기](https://boj.kr/19941)
 
 ```c++

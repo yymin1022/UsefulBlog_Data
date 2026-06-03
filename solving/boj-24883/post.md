@@ -1,3 +1,11 @@
+---
+title: "24883. 자동완성"
+date: "BOJ 24883"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-24883"
+---
+
 [문제 바로가기](https://boj.kr/24883)
 
 ```c++

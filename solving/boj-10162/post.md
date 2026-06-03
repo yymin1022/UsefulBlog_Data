@@ -1,3 +1,11 @@
+---
+title: "10162. 전자레인지"
+date: "BOJ 10162"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-10162"
+---
+
 [문제 바로가기](https://boj.kr/10162)
 
 ```c++

@@ -1,3 +1,11 @@
+---
+title: "15828. Router"
+date: "BOJ 15828"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-15828"
+---
+
 [문제 바로가기](https://boj.kr/15828)
 
 ```c++

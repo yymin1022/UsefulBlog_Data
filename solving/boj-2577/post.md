@@ -1,3 +1,11 @@
+---
+title: "2577.  숫자의 개수"
+date: "BOJ 2577"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-2577"
+---
+
 [문제 바로가기](https://boj.kr/2577)
 
 ```c

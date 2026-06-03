@@ -1,3 +1,11 @@
+---
+title: "2110. 공유기 설치"
+date: "BOJ 2110"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-2110"
+---
+
 [문제 바로가기](https://boj.kr/2110)
 
 ```c++

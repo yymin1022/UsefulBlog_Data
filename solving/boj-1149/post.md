@@ -1,3 +1,11 @@
+---
+title: "1149.  RGB거리"
+date: "BOJ 1149"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-1149"
+---
+
 [문제 바로가기](https://boj.kr/1149)
 
 ```c++

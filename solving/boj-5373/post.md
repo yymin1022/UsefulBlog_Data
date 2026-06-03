@@ -1,3 +1,11 @@
+---
+title: "5373. 큐빙"
+date: "BOJ 5373"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-5373"
+---
+
 [문제 바로가기](https://boj.kr/5373)
 
 ```c++

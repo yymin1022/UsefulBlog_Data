@@ -1,3 +1,11 @@
+---
+title: "14500.  테트로미노"
+date: "BOJ 14500"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-14500"
+---
+
 [문제 바로가기](https://boj.kr/14500)
 
 ```c++

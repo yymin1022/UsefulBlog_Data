@@ -1,3 +1,11 @@
+---
+title: "26085. 효구와 호규 (Easy)"
+date: "BOJ 26085"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-26085"
+---
+
 [문제 바로가기](https://boj.kr/26085)
 
 ```c++

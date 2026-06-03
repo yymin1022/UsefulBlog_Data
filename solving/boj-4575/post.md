@@ -1,3 +1,11 @@
+---
+title: "4575. Refrigerator Magnets"
+date: "BOJ 4575"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-4575"
+---
+
 [문제 바로가기](https://boj.kr/4575)
 
 ```c++

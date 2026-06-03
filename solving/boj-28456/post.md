@@ -1,3 +1,11 @@
+---
+title: "28456. Array Rotation"
+date: "BOJ 28456"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-28456"
+---
+
 [문제 바로가기](https://boj.kr/28456)
 
 ```c++

@@ -1,3 +1,11 @@
+---
+title: "2644.  촌수계산"
+date: "BOJ 2644"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-2644"
+---
+
 [문제 바로가기](https://boj.kr/2644)
 
 ```c++

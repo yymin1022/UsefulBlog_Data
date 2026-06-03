@@ -1,3 +1,11 @@
+---
+title: "15439.  Vera and Outfits"
+date: "BOJ 15439"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-15439"
+---
+
 [문제 바로가기](https://boj.kr/15439)
 
 ```c++

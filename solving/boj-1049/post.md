@@ -1,3 +1,11 @@
+---
+title: "1049. 기타줄"
+date: "BOJ 1049"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-1049"
+---
+
 [문제 바로가기](https://boj.kr/1049)
 
 ```c++

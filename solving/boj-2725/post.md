@@ -1,3 +1,11 @@
+---
+title: "2725. 보이는 점의 개수"
+date: "BOJ 2725"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-2725"
+---
+
 [문제 바로가기](https://boj.kr/2725)
 
 ```c++

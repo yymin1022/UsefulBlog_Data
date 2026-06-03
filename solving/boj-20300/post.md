@@ -1,3 +1,11 @@
+---
+title: "20300. 서강근육맨"
+date: "BOJ 20300"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-20300"
+---
+
 [문제 바로가기](https://boj.kr/20300)
 
 ```c++

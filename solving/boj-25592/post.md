@@ -1,3 +1,11 @@
+---
+title: "25592. 바둑돌 게임"
+date: "BOJ 25592"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-25592"
+---
+
 [문제 바로가기](https://boj.kr/25592)
 
 ```c++

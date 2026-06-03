@@ -1,3 +1,11 @@
+---
+title: "17213. 과일 서리"
+date: "BOJ 17213"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-17213"
+---
+
 [문제 바로가기](https://boj.kr/17213)
 
 ```c++

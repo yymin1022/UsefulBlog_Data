@@ -1,3 +1,11 @@
+---
+title: "4796. 캠핑"
+date: "BOJ 4796"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-4796"
+---
+
 [문제 바로가기](https://boj.kr/4796)
 
 ```c++

@@ -1,3 +1,11 @@
+---
+title: "17404. RGB거리 2"
+date: "BOJ 17404"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-17404"
+---
+
 [문제 바로가기](https://boj.kr/17404)
 
 ```c++

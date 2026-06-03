@@ -1,3 +1,11 @@
+---
+title: "15894.  수학은 체육과목 입니다"
+date: "BOJ 15894"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-15894"
+---
+
 [문제 바로가기](https://boj.kr/15894)
 
 ```c++

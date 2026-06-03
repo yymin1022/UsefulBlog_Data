@@ -1,3 +1,11 @@
+---
+title: "15228. 3D Printed Statues"
+date: "BOJ 15228"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-15228"
+---
+
 [문제 바로가기](https://boj.kr/15228)
 
 ```c++

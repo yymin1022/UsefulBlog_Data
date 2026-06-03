@@ -1,3 +1,11 @@
+---
+title: "11403.  경로 찾기"
+date: "BOJ 11403"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-11403"
+---
+
 [문제 바로가기](https://boj.kr/11403)
 
 ```c++

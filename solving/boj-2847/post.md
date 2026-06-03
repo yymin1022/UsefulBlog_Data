@@ -1,3 +1,11 @@
+---
+title: "2847. 게임을 만든 동준이"
+date: "BOJ 2847"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-2847"
+---
+
 [문제 바로가기](https://boj.kr/2847)
 
 ```c++

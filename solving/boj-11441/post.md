@@ -1,3 +1,11 @@
+---
+title: "11441.  합 구하기"
+date: "BOJ 11441"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-11441"
+---
+
 [문제 바로가기](https://boj.kr/11441)
 
 ```c++

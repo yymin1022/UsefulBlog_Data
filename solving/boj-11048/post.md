@@ -1,3 +1,11 @@
+---
+title: "11048. 이동하기"
+date: "BOJ 11048"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-11048"
+---
+
 [문제 바로가기](https://boj.kr/10048)
 
 ```c++

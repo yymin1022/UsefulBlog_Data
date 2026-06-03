@@ -1,3 +1,11 @@
+---
+title: "8582. Park"
+date: "BOJ 8582"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-8582"
+---
+
 [문제 바로가기](https://boj.kr/8582)
 
 ```c++

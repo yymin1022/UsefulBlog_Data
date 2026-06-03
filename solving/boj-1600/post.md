@@ -1,3 +1,11 @@
+---
+title: "1600. 말이 되고픈 원숭이"
+date: "BOJ 1600"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-1600"
+---
+
 [문제 바로가기](https://boj.kr/1600)
 
 ```c++

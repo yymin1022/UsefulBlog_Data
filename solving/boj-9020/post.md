@@ -1,3 +1,11 @@
+---
+title: "9020.  골드바흐의 추측"
+date: "BOJ 9020"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-9020"
+---
+
 [문제 바로가기](https://boj.kr/9020)
 
 ```c++

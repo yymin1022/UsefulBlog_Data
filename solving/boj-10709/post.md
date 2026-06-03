@@ -1,3 +1,11 @@
+---
+title: "10709. 기상캐스터 "
+date: "BOJ 10709"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-10709"
+---
+
 [문제 바로가기](https://boj.kr/10709)
 
 ```c++

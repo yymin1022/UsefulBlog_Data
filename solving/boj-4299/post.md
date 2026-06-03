@@ -1,3 +1,11 @@
+---
+title: "4299.  AFC 윔블던"
+date: "BOJ 4299"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-4299"
+---
+
 [문제 바로가기](https://boj.kr/4299)
 
 ```c++

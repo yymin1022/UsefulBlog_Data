@@ -1,3 +1,11 @@
+---
+title: "5639.  이진 검색 트리"
+date: "BOJ 5639"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-5639"
+---
+
 [문제 바로가기](https://boj.kr/5639)
 
 ```c++

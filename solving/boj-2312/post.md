@@ -1,3 +1,11 @@
+---
+title: "2312. 수 복원하기"
+date: "BOJ 2312"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-2312"
+---
+
 [문제 바로가기](https://boj.kr/2312)
 
 ```c++

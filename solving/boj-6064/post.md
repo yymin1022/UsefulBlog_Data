@@ -1,3 +1,11 @@
+---
+title: "6064.  카잉 달력"
+date: "BOJ 6064"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-6064"
+---
+
 [문제 바로가기](https://boj.kr/6064)
 
 ```c++

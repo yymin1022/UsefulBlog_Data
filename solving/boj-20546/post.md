@@ -1,3 +1,11 @@
+---
+title: "20546. 🐜 기적의 매매법 🐜"
+date: "BOJ 20546"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-20546"
+---
+
 [문제 바로가기](https://boj.kr/20546)
 
 ```c++

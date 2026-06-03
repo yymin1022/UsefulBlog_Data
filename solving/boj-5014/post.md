@@ -1,3 +1,11 @@
+---
+title: "5014. 스타트링크"
+date: "BOJ 5014"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-5014"
+---
+
 [문제 바로가기](https://boj.kr/5014)
 
 ```c++

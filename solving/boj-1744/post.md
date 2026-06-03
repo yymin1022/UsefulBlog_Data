@@ -1,3 +1,11 @@
+---
+title: "1744. 수 묶기"
+date: "BOJ 1744"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-1744"
+---
+
 [문제 바로가기](https://boj.kr/1744)
 
 ```c++

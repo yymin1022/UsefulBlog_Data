@@ -1,3 +1,11 @@
+---
+title: "2166. 다각형의 면적"
+date: "BOJ 2166"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-2166"
+---
+
 [문제 바로가기](https://boj.kr/2166)
 
 ```c++

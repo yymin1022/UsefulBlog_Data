@@ -1,3 +1,11 @@
+---
+title: "2822. 점수 계산"
+date: "BOJ 2822"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-2822"
+---
+
 [문제 바로가기](https://boj.kr/2822)
 
 ```c++

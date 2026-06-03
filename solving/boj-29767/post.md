@@ -1,3 +1,11 @@
+---
+title: "29767. 점수를 최대로"
+date: "BOJ 29767"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-29767"
+---
+
 [문제 바로가기](https://boj.kr/29767)
 
 ```c++

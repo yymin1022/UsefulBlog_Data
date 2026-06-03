@@ -1,3 +1,11 @@
+---
+title: "3035. 스캐너"
+date: "BOJ 3035"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-3035"
+---
+
 [문제 바로가기](https://boj.kr/3035)
 
 ```c++

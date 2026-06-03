@@ -1,3 +1,11 @@
+---
+title: "6549. 히스토그램에서 가장 큰 직사각형"
+date: "BOJ 6549"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-6549"
+---
+
 [문제 바로가기](https://boj.kr/6549)
 
 ```c++

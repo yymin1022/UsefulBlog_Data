@@ -1,3 +1,11 @@
+---
+title: "11721.  열 개씩 끊어 출력하기"
+date: "BOJ 11721"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-11721"
+---
+
 [문제 바로가기](https://boj.kr/11721)
 
 ```c++

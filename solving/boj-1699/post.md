@@ -1,3 +1,11 @@
+---
+title: "1699. 제곱수의 합"
+date: "BOJ 1699"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-1699"
+---
+
 [문제 바로가기](https://boj.kr/1699)
 
 ```c++

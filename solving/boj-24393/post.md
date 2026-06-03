@@ -1,3 +1,11 @@
+---
+title: "24393.  조커 찾기"
+date: "BOJ 24393"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-24393"
+---
+
 [문제 바로가기](https://boj.kr/24393)
 
 ```c++

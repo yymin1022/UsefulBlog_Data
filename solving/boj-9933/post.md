@@ -1,3 +1,11 @@
+---
+title: "9933. 민균이의 비밀번호"
+date: "BOJ 9933"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-9933"
+---
+
 [문제 바로가기](https://boj.kr/9933)
 
 ```c++

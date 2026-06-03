@@ -1,3 +1,11 @@
+---
+title: "9626. 크로스워드 퍼즐"
+date: "BOJ 9626"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-9626"
+---
+
 [문제 바로가기](https://boj.kr/9626)
 
 ```c++

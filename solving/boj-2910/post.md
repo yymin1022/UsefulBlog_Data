@@ -1,3 +1,11 @@
+---
+title: "2910. 빈도 정렬"
+date: "BOJ 2910"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-2910"
+---
+
 [문제 바로가기](https://boj.kr/2910)
 
 ```c++

@@ -1,3 +1,11 @@
+---
+title: "26275. Picture"
+date: "BOJ 26275"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-26275"
+---
+
 [문제 바로가기](https://boj.kr/26275)
 
 ```asm

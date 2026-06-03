@@ -1,3 +1,11 @@
+---
+title: "28062. 준석이의 사탕 사기"
+date: "BOJ 28062"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-28062"
+---
+
 [문제 바로가기](https://boj.kr/28062)
 
 ```c++

@@ -1,3 +1,11 @@
+---
+title: "27182. Rain Diary"
+date: "BOJ 27182"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-27182"
+---
+
 [문제 바로가기](https://boj.kr/27182)
 
 ```c++

@@ -1,3 +1,11 @@
+---
+title: "14247. 나무 자르기"
+date: "BOJ 14247"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-14247"
+---
+
 [문제 바로가기](https://boj.kr/14247)
 
 ```c++

@@ -1,3 +1,11 @@
+---
+title: "13422. 도둑"
+date: "BOJ 13422"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-13422"
+---
+
 [문제 바로가기](https://boj.kr/13422)
 
 ```c++

@@ -1,3 +1,11 @@
+---
+title: "9772. Quadrants"
+date: "BOJ 9772"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-9772"
+---
+
 [문제 바로가기](https://boj.kr/9772)
 
 ```c++

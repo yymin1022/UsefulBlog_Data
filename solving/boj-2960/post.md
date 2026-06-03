@@ -1,3 +1,11 @@
+---
+title: "2960. 에라토스테네스의 체"
+date: "BOJ 2960"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-2960"
+---
+
 [문제 바로가기](https://boj.kr/2960)
 
 ```c++

@@ -1,3 +1,11 @@
+---
+title: "11055. 가장 큰 증가 부분 수열"
+date: "BOJ 11055"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-11055"
+---
+
 [문제 바로가기](https://boj.kr/11055)
 
 ```c++

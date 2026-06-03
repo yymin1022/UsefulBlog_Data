@@ -1,3 +1,11 @@
+---
+title: "30970. 선택의 기로"
+date: "BOJ 30970"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-30970"
+---
+
 [문제 바로가기](https://boj.kr/30970)
 
 ```c++

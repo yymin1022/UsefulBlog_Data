@@ -1,3 +1,11 @@
+---
+title: "14495. 피보나치 비스무리한 수열"
+date: "BOJ 14495"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-14495"
+---
+
 [문제 바로가기](https://boj.kr/14495)
 
 ```c++

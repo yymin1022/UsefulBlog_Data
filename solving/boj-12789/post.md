@@ -1,3 +1,11 @@
+---
+title: "12789. 도키도키 간식드리미"
+date: "BOJ 12789"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-12789"
+---
+
 [문제 바로가기](https://boj.kr/12789)
 
 ```c++

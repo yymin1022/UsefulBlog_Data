@@ -1,3 +1,11 @@
+---
+title: "3003.  킹, 퀸, 룩, 비숍, 나이트, 폰"
+date: "BOJ 3003"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-3003"
+---
+
 [문제 바로가기](https://boj.kr/3003)
 
 ```c++

@@ -1,3 +1,11 @@
+---
+title: "27971. 강아지는 많을수록 좋다"
+date: "BOJ 27971"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-27971"
+---
+
 [문제 바로가기](https://boj.kr/27971)
 
 ```c++

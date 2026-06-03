@@ -1,3 +1,11 @@
+---
+title: "1107.  리모컨"
+date: "BOJ 1107"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-1107"
+---
+
 [문제 바로가기](https://boj.kr/1107)
 
 ```c++

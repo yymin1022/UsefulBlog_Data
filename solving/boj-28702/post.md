@@ -1,3 +1,11 @@
+---
+title: "28702. FizzBuzz "
+date: "BOJ 28702"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-28702"
+---
+
 [문제 바로가기](https://boj.kr/28702)
 
 ```c++

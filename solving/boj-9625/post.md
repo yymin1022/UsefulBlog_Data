@@ -1,3 +1,11 @@
+---
+title: "9625. BABBA"
+date: "BOJ 9625"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-9625"
+---
+
 [문제 바로가기](https://boj.kr/9625)
 
 ```c++

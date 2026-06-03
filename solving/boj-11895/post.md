@@ -1,3 +1,11 @@
+---
+title: "11895. 속이기"
+date: "BOJ 11895"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-11895"
+---
+
 [문제 바로가기](https://boj.kr/11895)
 
 ```c++

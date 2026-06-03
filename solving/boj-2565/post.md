@@ -1,3 +1,11 @@
+---
+title: "2565.  전깃줄"
+date: "BOJ 2565"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-2565"
+---
+
 [문제 바로가기](https://boj.kr/2565)
 
 ```c++

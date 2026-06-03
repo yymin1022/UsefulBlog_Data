@@ -1,3 +1,11 @@
+---
+title: "12891. DNA 비밀번호"
+date: "BOJ 12891"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-12891"
+---
+
 [문제 바로가기](https://boj.kr/12891)
 
 ```c++

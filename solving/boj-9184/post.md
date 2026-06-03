@@ -1,3 +1,11 @@
+---
+title: "9184.  신나는 함수 실행"
+date: "BOJ 9184"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-9184"
+---
+
 [문제 바로가기](https://boj.kr/9184)
 
 ```c++

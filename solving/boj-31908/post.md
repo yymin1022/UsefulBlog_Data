@@ -1,3 +1,11 @@
+---
+title: "31908. 커플링 매치"
+date: "BOJ 31908"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-31908"
+---
+
 [문제 바로가기](https://boj.kr/31908)
 
 ```c++

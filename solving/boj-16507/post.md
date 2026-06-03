@@ -1,3 +1,11 @@
+---
+title: "16507. 어두운 건 무서워"
+date: "BOJ 16507"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-16507"
+---
+
 [문제 바로가기](https://boj.kr/16507)
 
 ```c++

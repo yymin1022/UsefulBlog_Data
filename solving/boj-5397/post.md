@@ -1,3 +1,11 @@
+---
+title: "5397.  키로거"
+date: "BOJ 5397"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-5397"
+---
+
 [문제 바로가기](https://boj.kr/5397)
 
 ```c++

@@ -1,3 +1,11 @@
+---
+title: "29807. 학번을 찾아줘! "
+date: "BOJ 29807"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-29807"
+---
+
 [문제 바로가기](https://boj.kr/29807)
 
 ```c++

@@ -1,3 +1,11 @@
+---
+title: "9465.  스티커"
+date: "BOJ 9465"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-9465"
+---
+
 [문제 바로가기](https://boj.kr/9465)
 
 ```c++

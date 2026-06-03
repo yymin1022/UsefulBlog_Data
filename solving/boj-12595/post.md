@@ -1,3 +1,11 @@
+---
+title: "12595. Odd Man Out (Small)"
+date: "BOJ 12595"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-12595"
+---
+
 [문제 바로가기](https://boj.kr/12595)
 
 ```c++

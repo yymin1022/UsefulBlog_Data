@@ -1,3 +1,11 @@
+---
+title: "2352. 반도체 설계"
+date: "BOJ 2352"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-2352"
+---
+
 [문제 바로가기](https://boj.kr/2352)
 
 ```c++

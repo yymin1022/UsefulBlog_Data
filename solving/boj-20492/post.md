@@ -1,3 +1,11 @@
+---
+title: "20492.  세금"
+date: "BOJ 20492"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-20492"
+---
+
 [문제 바로가기](https://boj.kr/20492)
 
 ```c++

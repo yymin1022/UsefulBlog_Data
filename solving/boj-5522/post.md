@@ -1,3 +1,11 @@
+---
+title: "5522.  카드 게임"
+date: "BOJ 5522"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-5522"
+---
+
 [문제 바로가기](https://boj.kr/5522)
 
 ```c++

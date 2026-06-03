@@ -1,3 +1,11 @@
+---
+title: "5618.  공약수"
+date: "BOJ 5618"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-5618"
+---
+
 [문제 바로가기](https://boj.kr/5618)
 
 ```c++

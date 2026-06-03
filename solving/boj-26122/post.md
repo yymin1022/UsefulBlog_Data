@@ -1,3 +1,11 @@
+---
+title: "26122. 가장 긴 막대 자석"
+date: "BOJ 26122"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-26122"
+---
+
 [문제 바로가기](https://boj.kr/26122)
 
 ```c++

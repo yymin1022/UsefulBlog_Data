@@ -1,3 +1,11 @@
+---
+title: "9656. 돌 게임 2"
+date: "BOJ 9656"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-9656"
+---
+
 [문제 바로가기](https://boj.kr/9656)
 
 ```c++

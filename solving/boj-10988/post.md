@@ -1,3 +1,11 @@
+---
+title: "10988. 팰린드롬인지 확인하기"
+date: "BOJ 10988"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-10988"
+---
+
 [문제 바로가기](https://boj.kr/10988)
 
 ```c++

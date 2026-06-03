@@ -1,3 +1,11 @@
+---
+title: "2238. 경매"
+date: "BOJ 2238"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-2238"
+---
+
 [문제 바로가기](https://boj.kr/2238)
 
 ```c++

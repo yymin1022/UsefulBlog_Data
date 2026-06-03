@@ -1,3 +1,11 @@
+---
+title: "14405. 피카츄"
+date: "BOJ 14405"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-14405"
+---
+
 [문제 바로가기](https://boj.kr/14405)
 
 ```c++

@@ -1,3 +1,11 @@
+---
+title: "28014. 첨탑 밀어서 부수기"
+date: "BOJ 28014"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-28014"
+---
+
 [문제 바로가기](https://boj.kr/28014)
 
 ```c++

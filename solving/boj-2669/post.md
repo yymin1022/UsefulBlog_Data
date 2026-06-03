@@ -1,3 +1,11 @@
+---
+title: "2669. 직사각형 네개의 합집합의 면적 구하기"
+date: "BOJ 2669"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-2669"
+---
+
 [문제 바로가기](https://boj.kr/2669)
 
 ```c++

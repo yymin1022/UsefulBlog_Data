@@ -1,3 +1,11 @@
+---
+title: "15961. 회전 초밥"
+date: "BOJ 15961"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-15961"
+---
+
 [문제 바로가기](https://boj.kr/15961)
 
 ```c++

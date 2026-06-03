@@ -1,3 +1,11 @@
+---
+title: "9311. Robot in a Maze"
+date: "BOJ 9311"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-9311"
+---
+
 [문제 바로가기](https://boj.kr/9311)
 
 ```c++

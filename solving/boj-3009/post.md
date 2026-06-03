@@ -1,3 +1,11 @@
+---
+title: "3009.  네 번째 점"
+date: "BOJ 3009"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-3009"
+---
+
 [문제 바로가기](https://boj.kr/3009)
 
 ```c++

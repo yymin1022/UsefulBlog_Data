@@ -1,3 +1,11 @@
+---
+title: "10994. 별 찍기 - 19"
+date: "BOJ 10994"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-10994"
+---
+
 [문제 바로가기](https://boj.kr/10994)
 
 ```c++

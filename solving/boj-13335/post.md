@@ -1,3 +1,11 @@
+---
+title: "13335. 트럭"
+date: "BOJ 13335"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-13335"
+---
+
 [문제 바로가기](https://boj.kr/13335)
 
 ```c++

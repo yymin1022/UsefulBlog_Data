@@ -1,3 +1,11 @@
+---
+title: "10814.  나이순 정렬"
+date: "BOJ 10814"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-10814"
+---
+
 [문제 바로가기](https://boj.kr/10814)
 
 ```c++

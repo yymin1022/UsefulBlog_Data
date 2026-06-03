@@ -1,3 +1,11 @@
+---
+title: "12026. BOJ 거리"
+date: "BOJ 12026"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-12026"
+---
+
 [문제 바로가기](https://boj.kr/12026)
 
 ```c++

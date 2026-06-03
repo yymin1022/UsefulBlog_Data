@@ -1,3 +1,11 @@
+---
+title: "4673.  셀프 넘버"
+date: "BOJ 4673"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-4673"
+---
+
 [문제 바로가기](https://boj.kr/4673)
 
 ```c++

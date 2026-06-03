@@ -1,3 +1,11 @@
+---
+title: "2508. 사탕 박사 고창영"
+date: "BOJ 2508"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-2508"
+---
+
 [문제 바로가기](https://boj.kr/2508)
 
 ```c++

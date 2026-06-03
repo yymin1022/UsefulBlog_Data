@@ -1,3 +1,11 @@
+---
+title: "1992.  쿼드트리"
+date: "BOJ 1992"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-1992"
+---
+
 [문제 바로가기](https://boj.kr/1992)
 
 ```c++

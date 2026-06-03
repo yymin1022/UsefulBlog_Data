@@ -1,3 +1,11 @@
+---
+title: "15596.  정수 N개의 합"
+date: "BOJ 15596"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-15596"
+---
+
 [문제 바로가기](https://boj.kr/15596)
 
 ```c++

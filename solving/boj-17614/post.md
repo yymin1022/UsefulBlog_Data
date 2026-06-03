@@ -1,3 +1,11 @@
+---
+title: "17614.  369"
+date: "BOJ 17614"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-17614"
+---
+
 [문제 바로가기](https://boj.kr/17614)
 
 ```c++

@@ -1,3 +1,11 @@
+---
+title: "3059. 등장하지 않는 문자의 합"
+date: "BOJ 3059"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-3059"
+---
+
 [문제 바로가기](https://boj.kr/3059)
 
 ```c++

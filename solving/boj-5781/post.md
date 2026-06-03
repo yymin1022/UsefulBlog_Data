@@ -1,3 +1,11 @@
+---
+title: "5781. Grandpa’s Rubik Cube"
+date: "BOJ 5781"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-5781"
+---
+
 [문제 바로가기](https://boj.kr/5781)
 
 ```c++

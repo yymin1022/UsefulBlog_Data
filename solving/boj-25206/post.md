@@ -1,3 +1,11 @@
+---
+title: "25206. 너의 평점은"
+date: "BOJ 25206"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-25206"
+---
+
 [문제 바로가기](https://boj.kr/25206)
 
 ```c++

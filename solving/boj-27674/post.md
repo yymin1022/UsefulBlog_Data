@@ -1,3 +1,11 @@
+---
+title: "27674. A+B"
+date: "BOJ 27674"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-27674"
+---
+
 [문제 바로가기](https://boj.kr/27674)
 
 ```c++

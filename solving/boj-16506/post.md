@@ -1,3 +1,11 @@
+---
+title: "16506. CPU"
+date: "BOJ 16506"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-16506"
+---
+
 [문제 바로가기](https://boj.kr/16506)
 
 ```c++

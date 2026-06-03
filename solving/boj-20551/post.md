@@ -1,3 +1,11 @@
+---
+title: "20551. Sort 마스터 배지훈의 후계자"
+date: "BOJ 20551"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-20551"
+---
+
 [문제 바로가기](https://boj.kr/20551)
 
 ```c++

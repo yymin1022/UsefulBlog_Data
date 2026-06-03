@@ -1,3 +1,11 @@
+---
+title: "21612. Boiling Water"
+date: "BOJ 21612"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-21612"
+---
+
 [문제 바로가기](https://boj.kr/21612)
 
 ```c++

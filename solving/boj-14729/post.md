@@ -1,3 +1,11 @@
+---
+title: "14729. 칠무해"
+date: "BOJ 14729"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-14729"
+---
+
 [문제 바로가기](https://boj.kr/14729)
 
 ```c++

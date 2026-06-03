@@ -1,3 +1,11 @@
+---
+title: "22869. 징검다리 건너기 (small)"
+date: "BOJ 22869"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-22869"
+---
+
 [문제 바로가기](https://boj.kr/22869)
 
 ```c++

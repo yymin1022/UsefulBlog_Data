@@ -1,3 +1,11 @@
+---
+title: "4153.  직각삼각형"
+date: "BOJ 4153"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-4153"
+---
+
 [문제 바로가기](https://boj.kr/4153)
 
 ```c++

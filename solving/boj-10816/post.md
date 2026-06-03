@@ -1,3 +1,11 @@
+---
+title: "10816.  숫자 카드 2"
+date: "BOJ 10816"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-10816"
+---
+
 [문제 바로가기](https://boj.kr/10816)
 
 ```c++

@@ -1,3 +1,11 @@
+---
+title: "2942. 퍼거슨과 사과"
+date: "BOJ 2942"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-2942"
+---
+
 [문제 바로가기](https://boj.kr/2942)
 
 ```c++

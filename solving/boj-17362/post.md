@@ -1,3 +1,11 @@
+---
+title: "17362. 수학은 체육과목 입니다 2"
+date: "BOJ 17362"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-17362"
+---
+
 [문제 바로가기](https://boj.kr/17362)
 
 ```c++

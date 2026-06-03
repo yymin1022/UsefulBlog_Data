@@ -1,3 +1,11 @@
+---
+title: "1463.  1로 만들기"
+date: "BOJ 1463"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-1463"
+---
+
 [문제 바로가기](https://boj.kr/1463)
 
 ```c++

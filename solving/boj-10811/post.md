@@ -1,3 +1,11 @@
+---
+title: "10811. 바구니 뒤집기"
+date: "BOJ 10811"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-10811"
+---
+
 [문제 바로가기](https://boj.kr/10811)
 
 ```c++

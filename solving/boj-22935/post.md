@@ -1,3 +1,11 @@
+---
+title: "22935. 이진 딸기"
+date: "BOJ 22935"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-22935"
+---
+
 [문제 바로가기](https://boj.kr/22935)
 
 ```c++

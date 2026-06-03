@@ -1,3 +1,11 @@
+---
+title: "5337.  웰컴"
+date: "BOJ 5337"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-5337"
+---
+
 [문제 바로가기](https://boj.kr/5337)
 
 ```c++

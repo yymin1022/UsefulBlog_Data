@@ -1,3 +1,11 @@
+---
+title: "25308.  방사형 그래프"
+date: "BOJ 25308"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-25308"
+---
+
 [문제 바로가기](https://boj.kr/25308)
 
 ```c++

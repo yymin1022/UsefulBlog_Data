@@ -1,3 +1,11 @@
+---
+title: "25965. 미션 도네이션"
+date: "BOJ 25965"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-25965"
+---
+
 [문제 바로가기](https://boj.kr/25965)
 
 ```c++

@@ -1,3 +1,11 @@
+---
+title: "17945. 통학의 신"
+date: "BOJ 17945"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-17945"
+---
+
 [문제 바로가기](https://boj.kr/17945)
 
 ```c++

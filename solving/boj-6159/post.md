@@ -1,3 +1,11 @@
+---
+title: "6159. 코스튬 파티"
+date: "BOJ 6159"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-6159"
+---
+
 [문제 바로가기](https://boj.kr/6159)
 
 ```c++

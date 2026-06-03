@@ -1,3 +1,11 @@
+---
+title: "5426. 비밀 편지"
+date: "BOJ 5426"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-5426"
+---
+
 [문제 바로가기](https://boj.kr/5426)
 
 ```c++

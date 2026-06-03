@@ -1,3 +1,11 @@
+---
+title: "9972. Rubik’s Cube Solver"
+date: "BOJ 9972"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-9972"
+---
+
 [문제 바로가기](https://boj.kr/9972)
 
 ```c++

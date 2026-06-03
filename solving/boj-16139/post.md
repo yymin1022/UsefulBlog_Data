@@ -1,3 +1,11 @@
+---
+title: "16139.  인간-컴퓨터 상호작용"
+date: "BOJ 16139"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-16139"
+---
+
 [문제 바로가기](https://boj.kr/16139)
 
 ```c++

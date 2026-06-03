@@ -1,3 +1,11 @@
+---
+title: "22193.  Multiply"
+date: "BOJ 22193"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-22193"
+---
+
 [문제 바로가기](https://boj.kr/22193)
 
 ```c++

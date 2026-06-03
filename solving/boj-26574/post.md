@@ -1,3 +1,11 @@
+---
+title: "26574. Copier"
+date: "BOJ 26574"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-26574"
+---
+
 [문제 바로가기](https://boj.kr/26574)
 
 ```c++

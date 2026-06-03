@@ -1,3 +1,11 @@
+---
+title: "27160. 할리갈리"
+date: "BOJ 27160"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-27160"
+---
+
 [문제 바로가기](https://boj.kr/27160)
 
 ```c++

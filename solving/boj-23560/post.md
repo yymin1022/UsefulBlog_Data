@@ -1,3 +1,11 @@
+---
+title: "23560. 약"
+date: "BOJ 23560"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-23560"
+---
+
 [문제 바로가기](https://boj.kr/23560)
 
 ```c++

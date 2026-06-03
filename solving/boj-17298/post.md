@@ -1,3 +1,11 @@
+---
+title: "17298.  오큰수"
+date: "BOJ 17298"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-17298"
+---
+
 [문제 바로가기](https://boj.kr/17298)
 
 ```c++

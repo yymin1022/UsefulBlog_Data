@@ -1,3 +1,11 @@
+---
+title: "27939. 가지 교배"
+date: "BOJ 27939"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-27939"
+---
+
 [문제 바로가기](https://boj.kr/27939)
 
 ```c++

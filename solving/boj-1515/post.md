@@ -1,3 +1,11 @@
+---
+title: "1515. 수 이어 쓰기"
+date: "BOJ 1515"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-1515"
+---
+
 [문제 바로가기](https://boj.kr/1515)
 
 ```c++

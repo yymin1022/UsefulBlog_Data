@@ -1,3 +1,11 @@
+---
+title: "17262. 팬덤이 넘쳐흘러"
+date: "BOJ 17262"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-17262"
+---
+
 [문제 바로가기](https://boj.kr/17262)
 
 ```c++

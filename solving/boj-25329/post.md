@@ -1,3 +1,11 @@
+---
+title: "25329. 학생별 통화 요금 계산"
+date: "BOJ 25329"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-25329"
+---
+
 [문제 바로가기](https://boj.kr/25329)
 
 ```c++

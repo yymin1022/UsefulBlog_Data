@@ -1,3 +1,11 @@
+---
+title: "24390.  또 전자레인지야?"
+date: "BOJ 24390"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-24390"
+---
+
 [문제 바로가기](https://boj.kr/24390)
 
 ```c++

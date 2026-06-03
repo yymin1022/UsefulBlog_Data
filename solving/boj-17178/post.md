@@ -1,3 +1,11 @@
+---
+title: "17178. 줄서기"
+date: "BOJ 17178"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-17178"
+---
+
 [문제 바로가기](https://boj.kr/17178)
 
 ```c++

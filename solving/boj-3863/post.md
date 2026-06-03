@@ -1,3 +1,11 @@
+---
+title: "3863. 행복한 전화 통화"
+date: "BOJ 3863"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-3863"
+---
+
 [문제 바로가기](https://boj.kr/3863)
 
 ```c++

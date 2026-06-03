@@ -1,3 +1,11 @@
+---
+title: "7656. 만능 오라클"
+date: "BOJ 7656"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-7656"
+---
+
 [문제 바로가기](https://boj.kr/7656)
 
 ```c++

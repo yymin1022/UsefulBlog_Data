@@ -1,3 +1,11 @@
+---
+title: "6137. 문자열 생성"
+date: "BOJ 6137"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-6137"
+---
+
 [문제 바로가기](https://boj.kr/6137)
 
 ```c++

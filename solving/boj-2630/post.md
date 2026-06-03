@@ -1,3 +1,11 @@
+---
+title: "2630.  색종이 만들기"
+date: "BOJ 2630"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-2630"
+---
+
 [문제 바로가기](https://boj.kr/2630)
 
 ```c++

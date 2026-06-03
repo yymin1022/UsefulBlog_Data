@@ -1,3 +1,11 @@
+---
+title: "2504.  괄호의 값"
+date: "BOJ 2504"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-2504"
+---
+
 [문제 바로가기](https://boj.kr/2504)
 
 ```c++

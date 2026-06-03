@@ -1,3 +1,11 @@
+---
+title: "2846. 오르막길"
+date: "BOJ 2846"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-2846"
+---
+
 [문제 바로가기](https://boj.kr/2846)
 
 ```c++

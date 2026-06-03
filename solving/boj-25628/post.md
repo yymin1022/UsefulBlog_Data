@@ -1,3 +1,11 @@
+---
+title: "25628. 햄버거 만들기"
+date: "BOJ 25628"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-25628"
+---
+
 [문제 바로가기](https://boj.kr/25628)
 
 ```c++

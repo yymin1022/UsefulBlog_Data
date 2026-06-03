@@ -1,3 +1,11 @@
+---
+title: "4358.  생태학"
+date: "BOJ 4358"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-4358"
+---
+
 [문제 바로가기](https://boj.kr/4358)
 
 ```c++

@@ -1,3 +1,11 @@
+---
+title: "14924. 폰 노이만과 파리"
+date: "BOJ 14924"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-14924"
+---
+
 [문제 바로가기](https://boj.kr/14924)
 
 ```c++

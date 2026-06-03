@@ -1,3 +1,11 @@
+---
+title: "10250.  ACM 호텔"
+date: "BOJ 10250"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-10250"
+---
+
 [문제 바로가기](https://boj.kr/10250)
 
 ```c++

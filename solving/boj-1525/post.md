@@ -1,3 +1,11 @@
+---
+title: "1525. 퍼즐 "
+date: "BOJ 1525"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-1525"
+---
+
 [문제 바로가기](https://boj.kr/1525)
 
 ```c++

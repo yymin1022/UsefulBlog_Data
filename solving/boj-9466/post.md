@@ -1,3 +1,11 @@
+---
+title: "9466. 텀 프로젝트"
+date: "BOJ 9466"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-9466"
+---
+
 [문제 바로가기](https://boj.kr/9466)
 
 ```c++

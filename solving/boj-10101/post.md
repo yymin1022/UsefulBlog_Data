@@ -1,3 +1,11 @@
+---
+title: "10101. 삼각형 외우기"
+date: "BOJ 10101"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-10101"
+---
+
 [문제 바로가기](https://boj.kr/10101)
 
 ```c++

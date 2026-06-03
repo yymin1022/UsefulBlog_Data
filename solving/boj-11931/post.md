@@ -1,3 +1,11 @@
+---
+title: "11931. 수 정렬하기 4"
+date: "BOJ 11931"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-11931"
+---
+
 [문제 바로가기](https://boj.kr/11931)
 
 ```c++

@@ -1,3 +1,11 @@
+---
+title: "15565. 귀여운 라이언"
+date: "BOJ 15565"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-15565"
+---
+
 [문제 바로가기](https://boj.kr/15565)
 
 ```c++

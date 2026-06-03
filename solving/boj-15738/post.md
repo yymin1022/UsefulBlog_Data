@@ -1,3 +1,11 @@
+---
+title: "15738. 뒤집기 "
+date: "BOJ 15738"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-15738"
+---
+
 [문제 바로가기](https://boj.kr/15738)
 
 ```c++

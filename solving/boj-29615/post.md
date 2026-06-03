@@ -1,3 +1,11 @@
+---
+title: "29615. 알파빌과 베타빌"
+date: "BOJ 29615"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-29615"
+---
+
 [문제 바로가기](https://boj.kr/29615)
 
 ```c++

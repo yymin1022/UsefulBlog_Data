@@ -1,3 +1,11 @@
+---
+title: "25496. 장신구 명장 임스"
+date: "BOJ 25496"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-25496"
+---
+
 [문제 바로가기](https://boj.kr/25496)
 
 ```c++

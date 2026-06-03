@@ -1,3 +1,11 @@
+---
+title: "12788. 제 2회 IUPC는 잘 개최될 수 있을까?"
+date: "BOJ 12788"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-12788"
+---
+
 [문제 바로가기](https://boj.kr/12788)
 
 ```c++

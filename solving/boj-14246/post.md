@@ -1,3 +1,11 @@
+---
+title: "14246. K보다 큰 구간"
+date: "BOJ 14246"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-14246"
+---
+
 [문제 바로가기](https://boj.kr/14246)
 
 ```c++

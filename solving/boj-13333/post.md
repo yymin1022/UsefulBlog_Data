@@ -1,3 +1,11 @@
+---
+title: "13333. Q-인덱스"
+date: "BOJ 13333"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-13333"
+---
+
 [문제 바로가기](https://boj.kr/13333)
 
 ```c++

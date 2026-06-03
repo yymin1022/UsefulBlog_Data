@@ -1,3 +1,11 @@
+---
+title: "25214. 크림 파스타"
+date: "BOJ 25214"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-25214"
+---
+
 [문제 바로가기](https://boj.kr/25214)
 
 ```c++

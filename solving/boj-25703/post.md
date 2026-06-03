@@ -1,3 +1,11 @@
+---
+title: "25703. 포인터 공부"
+date: "BOJ 25703"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-25703"
+---
+
 [문제 바로가기](https://boj.kr/25703)
 
 ```c++

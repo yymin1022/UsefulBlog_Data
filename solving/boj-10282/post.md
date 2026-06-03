@@ -1,3 +1,11 @@
+---
+title: "10282. 해킹"
+date: "BOJ 10282"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-10282"
+---
+
 [문제 바로가기](https://boj.kr/10282)
 
 ```c++

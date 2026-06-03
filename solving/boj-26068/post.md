@@ -1,3 +1,11 @@
+---
+title: "26068. 치킨댄스를 추는 곰곰이를 본 임스 2"
+date: "BOJ 26068"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-26068"
+---
+
 [문제 바로가기](https://boj.kr/26068)
 
 ```c++

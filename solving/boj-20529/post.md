@@ -1,3 +1,11 @@
+---
+title: "20529. 가장 가까운 세 사람의 심리적 거리"
+date: "BOJ 20529"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-20529"
+---
+
 [문제 바로가기](https://boj.kr/20529)
 
 ```c++

@@ -1,3 +1,11 @@
+---
+title: "28431. 양말 짝 맞추기 "
+date: "BOJ 28431"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-28431"
+---
+
 [문제 바로가기](https://boj.kr/28431)
 
 ```c++

@@ -1,3 +1,11 @@
+---
+title: "11050.  이항 계수 1"
+date: "BOJ 11050"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-11050"
+---
+
 [문제 바로가기](https://boj.kr/11050)
 
 ```c++

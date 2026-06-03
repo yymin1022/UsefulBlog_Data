@@ -1,3 +1,11 @@
+---
+title: "20473. Гостиница"
+date: "BOJ 20473"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-20473"
+---
+
 [문제 바로가기](https://boj.kr/20473)
 
 ```c++

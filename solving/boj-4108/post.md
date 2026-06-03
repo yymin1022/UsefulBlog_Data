@@ -1,3 +1,11 @@
+---
+title: "4108. 지뢰찾기"
+date: "BOJ 4108"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-4108"
+---
+
 [문제 바로가기](https://boj.kr/4108)
 
 ```c++

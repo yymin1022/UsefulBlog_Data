@@ -1,3 +1,11 @@
+---
+title: "12785. 토쟁이의 등굣길"
+date: "BOJ 12785"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-12785"
+---
+
 [문제 바로가기](https://boj.kr/12785)
 
 ```c++

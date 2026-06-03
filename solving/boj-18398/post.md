@@ -1,3 +1,11 @@
+---
+title: "18398. HOMWRK"
+date: "BOJ 18398"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-18398"
+---
+
 [문제 바로가기](https://boj.kr/18398)
 
 ```c++

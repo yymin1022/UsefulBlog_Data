@@ -1,3 +1,11 @@
+---
+title: "16693. Pizza Deal"
+date: "BOJ 16693"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-16693"
+---
+
 [문제 바로가기](https://boj.kr/16693)
 
 ```c++

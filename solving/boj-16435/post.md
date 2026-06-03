@@ -1,3 +1,11 @@
+---
+title: "16435. 스네이크버드"
+date: "BOJ 16435"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-16435"
+---
+
 [문제 바로가기](https://boj.kr/16435)
 
 ```c++

@@ -1,3 +1,11 @@
+---
+title: "26307. Correct"
+date: "BOJ 26307"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-26307"
+---
+
 [문제 바로가기](https://boj.kr/26307)
 
 ```c++

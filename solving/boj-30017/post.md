@@ -1,3 +1,11 @@
+---
+title: "30017. 치즈버거 만들기"
+date: "BOJ 30017"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-30017"
+---
+
 [문제 바로가기](https://boj.kr/30017)
 
 ```c++

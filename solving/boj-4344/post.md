@@ -1,3 +1,11 @@
+---
+title: "4344.  평균은 넘겠지"
+date: "BOJ 4344"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-4344"
+---
+
 [문제 바로가기](https://boj.kr/4344)
 
 ```c++

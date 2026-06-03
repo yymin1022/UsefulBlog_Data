@@ -1,3 +1,11 @@
+---
+title: "12760. 최후의 승자는 누구?"
+date: "BOJ 12760"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-12760"
+---
+
 [문제 바로가기](https://boj.kr/12760)
 
 ```c++

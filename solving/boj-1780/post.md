@@ -1,3 +1,11 @@
+---
+title: "1780.  종이의 개수"
+date: "BOJ 1780"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-1780"
+---
+
 [문제 바로가기](https://boj.kr/1780)
 
 ```c++

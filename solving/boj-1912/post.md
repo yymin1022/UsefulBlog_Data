@@ -1,3 +1,11 @@
+---
+title: "1912.  연속합"
+date: "BOJ 1912"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-1912"
+---
+
 [문제 바로가기](https://boj.kr/1912)
 
 ```c++

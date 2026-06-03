@@ -1,3 +1,11 @@
+---
+title: "2501.  약수 구하기"
+date: "BOJ 2501"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-2501"
+---
+
 [문제 바로가기](https://boj.kr/2501)
 
 ```c++

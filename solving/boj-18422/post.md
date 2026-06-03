@@ -1,3 +1,11 @@
+---
+title: "18422. Emacs"
+date: "BOJ 18422"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-18422"
+---
+
 [문제 바로가기](https://boj.kr/18422)
 
 ```c++

@@ -1,3 +1,11 @@
+---
+title: "11292. 키 큰 사람"
+date: "BOJ 11292"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-11292"
+---
+
 [문제 바로가기](https://boj.kr/11292)
 
 ```c++

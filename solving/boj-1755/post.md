@@ -1,3 +1,11 @@
+---
+title: "1755. 숫자놀이"
+date: "BOJ 1755"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-1755"
+---
+
 [문제 바로가기](https://boj.kr/1755)
 
 ```c++

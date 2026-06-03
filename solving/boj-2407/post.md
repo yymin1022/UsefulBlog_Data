@@ -1,3 +1,11 @@
+---
+title: "2407.  조합"
+date: "BOJ 2407"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-2407"
+---
+
 [문제 바로가기](https://boj.kr/2407)
 
 ```c++

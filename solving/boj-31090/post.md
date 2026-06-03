@@ -1,3 +1,11 @@
+---
+title: "31090. 2023은 무엇이 특별할까?"
+date: "BOJ 31090"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-31090"
+---
+
 [문제 바로가기](https://boj.kr/31090)
 
 ```c++

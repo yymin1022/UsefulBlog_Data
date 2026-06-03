@@ -1,3 +1,11 @@
+---
+title: "1245. 농장 관리"
+date: "BOJ 1245"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-1245"
+---
+
 [문제 바로가기](https://boj.kr/1245)
 
 ```c++

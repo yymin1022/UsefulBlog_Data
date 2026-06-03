@@ -1,3 +1,11 @@
+---
+title: "10718.  We love kriii"
+date: "BOJ 10718"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-10718"
+---
+
 [문제 바로가기](https://boj.kr/10718)
 
 ```c

@@ -1,3 +1,11 @@
+---
+title: "6840. Who is in the middle?"
+date: "BOJ 6840"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-6840"
+---
+
 [문제 바로가기](https://boj.kr/6840)
 
 ```c++

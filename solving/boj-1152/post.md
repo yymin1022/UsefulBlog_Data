@@ -1,3 +1,11 @@
+---
+title: "1152.  단어의 개수"
+date: "BOJ 1152"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-1152"
+---
+
 [문제 바로가기](https://boj.kr/1152)
 
 ```c

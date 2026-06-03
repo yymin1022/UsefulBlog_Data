@@ -1,3 +1,11 @@
+---
+title: "1106. 호텔"
+date: "BOJ 1106"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-1106"
+---
+
 [문제 바로가기](https://boj.kr/1106)
 
 ```c++

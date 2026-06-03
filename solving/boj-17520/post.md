@@ -1,3 +1,11 @@
+---
+title: "17520. Balanced String"
+date: "BOJ 17520"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-17520"
+---
+
 [문제 바로가기](https://boj.kr/17520)
 
 ```c++

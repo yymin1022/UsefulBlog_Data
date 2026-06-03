@@ -1,3 +1,11 @@
+---
+title: "7774. 콘센트"
+date: "BOJ 7774"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-7774"
+---
+
 [문제 바로가기](https://boj.kr/7774)
 
 ```c++

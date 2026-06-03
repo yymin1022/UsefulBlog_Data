@@ -1,3 +1,11 @@
+---
+title: "28324. 스케이트 연습"
+date: "BOJ 28324"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-28324"
+---
+
 [문제 바로가기](https://boj.kr/28324)
 
 ```c++

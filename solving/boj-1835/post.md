@@ -1,3 +1,11 @@
+---
+title: "1835. 카드"
+date: "BOJ 1835"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-1835"
+---
+
 [문제 바로가기](https://boj.kr/1835)
 
 ```c++

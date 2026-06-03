@@ -1,3 +1,11 @@
+---
+title: "14581. 팬들에게 둘러싸인 홍준"
+date: "BOJ 14581"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-14581"
+---
+
 [문제 바로가기](https://boj.kr/14581)
 
 ```c++

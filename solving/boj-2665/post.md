@@ -1,3 +1,11 @@
+---
+title: "2665. 미로만들기"
+date: "BOJ 2665"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-2665"
+---
+
 [문제 바로가기](https://boj.kr/2665)
 
 ```c++

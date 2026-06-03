@@ -1,3 +1,11 @@
+---
+title: "9251.  LCS"
+date: "BOJ 9251"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-9251"
+---
+
 [문제 바로가기](https://boj.kr/9251)
 
 ```c++

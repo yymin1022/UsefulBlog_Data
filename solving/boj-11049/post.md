@@ -1,3 +1,11 @@
+---
+title: "11049. 행렬 곱셈 순서"
+date: "BOJ 11049"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-11049"
+---
+
 [문제 바로가기](https://boj.kr/11049)
 
 ```c++

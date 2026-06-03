@@ -1,3 +1,11 @@
+---
+title: "1325. 효율적인 해킹"
+date: "BOJ 1325"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-1325"
+---
+
 [문제 바로가기](https://boj.kr/1325)
 
 ```c++

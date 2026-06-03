@@ -1,3 +1,11 @@
+---
+title: "15873. 공백 없는 A+B"
+date: "BOJ 15873"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-15873"
+---
+
 [문제 바로가기](https://boj.kr/15873)
 
 ```c++

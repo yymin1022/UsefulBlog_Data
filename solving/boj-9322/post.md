@@ -1,3 +1,11 @@
+---
+title: "9322. 철벽 보안 알고리즘"
+date: "BOJ 9322"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-9322"
+---
+
 [문제 바로가기](https://boj.kr/9322)
 
 ```c++

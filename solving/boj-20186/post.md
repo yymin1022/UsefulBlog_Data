@@ -1,3 +1,11 @@
+---
+title: "20186. 수 고르기"
+date: "BOJ 20186"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-20186"
+---
+
 [문제 바로가기](https://boj.kr/20186)
 
 ```c++

@@ -1,3 +1,11 @@
+---
+title: "11948. 과목선택"
+date: "BOJ 11948"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-11948"
+---
+
 [문제 바로가기](https://boj.kr/11948)
 
 ```c++

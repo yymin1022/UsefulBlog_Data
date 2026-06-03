@@ -1,3 +1,11 @@
+---
+title: "17478.  재귀함수가 뭔가요?"
+date: "BOJ 17478"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-17478"
+---
+
 [문제 바로가기](https://boj.kr/17478)
 
 ```c++

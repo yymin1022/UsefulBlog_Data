@@ -1,3 +1,11 @@
+---
+title: "6603. 로또"
+date: "BOJ 6603"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-6603"
+---
+
 [문제 바로가기](https://boj.kr/6603)
 
 ```c++

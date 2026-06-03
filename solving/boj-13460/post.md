@@ -1,3 +1,11 @@
+---
+title: "13460. 구슬 탈출 2"
+date: "BOJ 13460"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-13460"
+---
+
 [문제 바로가기](https://boj.kr/13460)
 
 ```c++

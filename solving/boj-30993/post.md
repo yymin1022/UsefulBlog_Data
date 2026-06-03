@@ -1,3 +1,11 @@
+---
+title: "30993. 자동차 주차"
+date: "BOJ 30993"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-30993"
+---
+
 [문제 바로가기](https://boj.kr/30993)
 
 ```c++

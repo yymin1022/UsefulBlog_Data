@@ -1,3 +1,11 @@
+---
+title: "5545. 최고의 피자"
+date: "BOJ 5545"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-5545"
+---
+
 [문제 바로가기](https://boj.kr/5545)
 
 ```c++

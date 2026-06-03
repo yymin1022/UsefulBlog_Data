@@ -1,3 +1,11 @@
+---
+title: "2141. 우체국"
+date: "BOJ 2141"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-2141"
+---
+
 [문제 바로가기](https://boj.kr/2141)
 
 ```c++

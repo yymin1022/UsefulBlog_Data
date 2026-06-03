@@ -1,3 +1,11 @@
+---
+title: "1476. 날짜 계산"
+date: "BOJ 1476"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-1476"
+---
+
 [문제 바로가기](https://boj.kr/147)
 
 ```c++

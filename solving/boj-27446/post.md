@@ -1,3 +1,11 @@
+---
+title: "27446. 랩실에서 잘 자요"
+date: "BOJ 27446"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-27446"
+---
+
 [문제 바로가기](https://boj.kr/27446)
 
 ```c++

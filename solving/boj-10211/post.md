@@ -1,3 +1,11 @@
+---
+title: "10211.  Maximum Subarray"
+date: "BOJ 10211"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-10211"
+---
+
 [문제 바로가기](https://boj.kr/10211)
 
 ```c++

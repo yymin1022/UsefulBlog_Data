@@ -1,3 +1,11 @@
+---
+title: "14231. 박스 포장"
+date: "BOJ 14231"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-14231"
+---
+
 [문제 바로가기](https://boj.kr/14231)
 
 ```c++

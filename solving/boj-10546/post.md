@@ -1,3 +1,11 @@
+---
+title: "10546. 배부른 마라토너"
+date: "BOJ 10546"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-10546"
+---
+
 [문제 바로가기](https://boj.kr/10546)
 
 ```c++

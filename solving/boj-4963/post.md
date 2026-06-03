@@ -1,3 +1,11 @@
+---
+title: "4963.  섬의 개수"
+date: "BOJ 4963"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-4963"
+---
+
 [문제 바로가기](https://boj.kr/4963)
 
 ```c++

@@ -1,3 +1,11 @@
+---
+title: "24736.  Football Scoring"
+date: "BOJ 24736"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-24736"
+---
+
 [문제 바로가기](https://boj.kr/24736)
 
 ```c++

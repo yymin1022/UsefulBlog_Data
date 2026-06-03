@@ -1,3 +1,11 @@
+---
+title: "1043. 거짓말"
+date: "BOJ 1043"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-1043"
+---
+
 [문제 바로가기](https://boj.kr/1043)
 
 ```c++

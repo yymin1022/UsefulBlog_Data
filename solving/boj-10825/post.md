@@ -1,3 +1,11 @@
+---
+title: "10825. 국영수"
+date: "BOJ 10825"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-10825"
+---
+
 [문제 바로가기](https://boj.kr/10825)
 
 ```c++

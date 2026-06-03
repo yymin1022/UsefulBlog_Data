@@ -1,3 +1,11 @@
+---
+title: "21938. 영상처리"
+date: "BOJ 21938"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-21938"
+---
+
 [문제 바로가기](https://boj.kr/21938)
 
 ```c++

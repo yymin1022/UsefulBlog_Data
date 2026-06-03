@@ -1,3 +1,11 @@
+---
+title: "26005. 나뭇잎 학회"
+date: "BOJ 26005"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-26005"
+---
+
 [문제 바로가기](https://boj.kr/26005)
 
 ```c++

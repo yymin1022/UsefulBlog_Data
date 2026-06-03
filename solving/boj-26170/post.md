@@ -1,3 +1,11 @@
+---
+title: "26170. 사과 빨리 먹기"
+date: "BOJ 26170"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-26170"
+---
+
 [문제 바로가기](https://boj.kr/26170)
 
 ```c++

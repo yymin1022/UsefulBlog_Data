@@ -1,3 +1,11 @@
+---
+title: "18258.  큐 2"
+date: "BOJ 18258"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-18258"
+---
+
 [문제 바로가기](https://boj.kr/18258)
 
 ```c++

@@ -1,3 +1,11 @@
+---
+title: "4889. 안정적인 문자열"
+date: "BOJ 4889"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-4889"
+---
+
 [문제 바로가기](https://boj.kr/4889)
 
 ```c++

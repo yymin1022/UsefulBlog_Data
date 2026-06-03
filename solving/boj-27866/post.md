@@ -1,3 +1,11 @@
+---
+title: "27866. 문자와 문자열"
+date: "BOJ 27866"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-27866"
+---
+
 [문제 바로가기](https://boj.kr/27866)
 
 ```c++

@@ -1,3 +1,11 @@
+---
+title: "13305.  주유소"
+date: "BOJ 13305"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-13305"
+---
+
 [문제 바로가기](https://boj.kr/13305)
 
 ```c++

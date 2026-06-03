@@ -1,3 +1,11 @@
+---
+title: "13238. Bitcoin investment"
+date: "BOJ 13238"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-13238"
+---
+
 [문제 바로가기](https://boj.kr/13238)
 
 ```c++

@@ -1,3 +1,11 @@
+---
+title: "18409. 母音を数える (Counting Vowels)"
+date: "BOJ 18409"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-18409"
+---
+
 [문제 바로가기](https://boj.kr/18409)
 
 ```c++

@@ -1,3 +1,11 @@
+---
+title: "26215. 눈 치우기"
+date: "BOJ 26215"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-26215"
+---
+
 [문제 바로가기](https://boj.kr/26215)
 
 ```c++

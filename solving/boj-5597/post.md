@@ -1,3 +1,11 @@
+---
+title: "5597.  과제 안 내신 분..?"
+date: "BOJ 5597"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-5597"
+---
+
 [문제 바로가기](https://boj.kr/5597)
 
 ```c++

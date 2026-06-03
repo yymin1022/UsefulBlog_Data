@@ -1,3 +1,11 @@
+---
+title: "1748. 수 이어 쓰기 1"
+date: "BOJ 1748"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-1748"
+---
+
 [문제 바로가기](https://boj.kr/1748)
 
 ```c++

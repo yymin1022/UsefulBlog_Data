@@ -1,3 +1,11 @@
+---
+title: "7569.  토마토"
+date: "BOJ 7569"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-7569"
+---
+
 [문제 바로가기](https://boj.kr/7569)
 
 ```c++

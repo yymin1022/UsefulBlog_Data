@@ -1,3 +1,11 @@
+---
+title: "3279. DOLLARS"
+date: "BOJ 3279"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-3279"
+---
+
 [문제 바로가기](https://boj.kr/3279)
 
 ```c++

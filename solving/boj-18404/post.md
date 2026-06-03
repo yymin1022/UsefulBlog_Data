@@ -1,3 +1,11 @@
+---
+title: "18404. 현명한 나이트"
+date: "BOJ 18404"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-18404"
+---
+
 [문제 바로가기](https://boj.kr/18404)
 
 ```c++

@@ -1,3 +1,11 @@
+---
+title: "20499. Darius님 한타 안 함?"
+date: "BOJ 20499"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-20499"
+---
+
 [문제 바로가기](https://boj.kr/20499)
 
 ```c++

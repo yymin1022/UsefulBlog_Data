@@ -1,3 +1,11 @@
+---
+title: "30088. 공포의 면담실"
+date: "BOJ 30088"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-30088"
+---
+
 [문제 바로가기](https://boj.kr/30088)
 
 ```c++

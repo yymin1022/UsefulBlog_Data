@@ -1,3 +1,11 @@
+---
+title: "6873. Returning Home"
+date: "BOJ 6873"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-6873"
+---
+
 [문제 바로가기](https://boj.kr/6873)
 
 ```c++

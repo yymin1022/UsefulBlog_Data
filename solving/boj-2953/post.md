@@ -1,3 +1,11 @@
+---
+title: "2953. 나는 요리사다"
+date: "BOJ 2953"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-2953"
+---
+
 [문제 바로가기](https://boj.kr/2953)
 
 ```c++

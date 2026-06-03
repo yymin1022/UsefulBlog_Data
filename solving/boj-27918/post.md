@@ -1,3 +1,11 @@
+---
+title: "27918. 탁구 경기"
+date: "BOJ 27918"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-27918"
+---
+
 [문제 바로가기](https://boj.kr/27918)
 
 ```c++

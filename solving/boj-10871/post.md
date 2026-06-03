@@ -1,3 +1,11 @@
+---
+title: "10871.  X보다 작은 수"
+date: "BOJ 10871"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-10871"
+---
+
 [문제 바로가기](https://boj.kr/10871)
 
 ```c

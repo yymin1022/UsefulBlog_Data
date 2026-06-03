@@ -1,3 +1,11 @@
+---
+title: "10707. 수도요금"
+date: "BOJ 10707"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-10707"
+---
+
 [문제 바로가기](https://boj.kr/10707)
 
 ```c++

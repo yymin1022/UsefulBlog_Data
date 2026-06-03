@@ -1,3 +1,11 @@
+---
+title: "1956. 운동"
+date: "BOJ 1956"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-1956"
+---
+
 [문제 바로가기](https://boj.kr/1956)
 
 ```c++

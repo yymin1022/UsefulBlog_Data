@@ -1,3 +1,11 @@
+---
+title: "23234.  The World Responds"
+date: "BOJ 23234"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-23234"
+---
+
 [문제 바로가기](https://boj.kr/23234)
 
 ```c++

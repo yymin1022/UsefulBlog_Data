@@ -1,3 +1,11 @@
+---
+title: "12847. 꿀 아르바이트"
+date: "BOJ 12847"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-12847"
+---
+
 [문제 바로가기](https://boj.kr/12847)
 
 ```c++

@@ -1,3 +1,11 @@
+---
+title: "6186. Best Grass"
+date: "BOJ 6186"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-6186"
+---
+
 [문제 바로가기](https://boj.kr/6186)
 
 ```c++

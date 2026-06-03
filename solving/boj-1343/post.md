@@ -1,3 +1,11 @@
+---
+title: "1343. 폴리오미노"
+date: "BOJ 1343"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-1343"
+---
+
 [문제 바로가기](https://boj.kr/1343)
 
 ```c++

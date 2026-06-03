@@ -1,3 +1,11 @@
+---
+title: "24511. queuestack "
+date: "BOJ 24511"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-24511"
+---
+
 [문제 바로가기](https://boj.kr/24511)
 
 ```c++

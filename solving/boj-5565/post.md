@@ -1,3 +1,11 @@
+---
+title: "5565. 영수증"
+date: "BOJ 5565"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-5565"
+---
+
 [문제 바로가기](https://boj.kr/5565)
 
 ```c++

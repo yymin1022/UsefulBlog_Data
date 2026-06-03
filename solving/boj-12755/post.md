@@ -1,3 +1,11 @@
+---
+title: "12755. 수면 장애"
+date: "BOJ 12755"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-12755"
+---
+
 [문제 바로가기](https://boj.kr/12755)
 
 ```c++

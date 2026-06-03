@@ -1,3 +1,11 @@
+---
+title: "10170.  NFC West vs North"
+date: "BOJ 10170"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-10170"
+---
+
 [문제 바로가기](https://boj.kr/10170)
 
 ```c++

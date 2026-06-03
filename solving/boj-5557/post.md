@@ -1,3 +1,11 @@
+---
+title: "5557. 1학년"
+date: "BOJ 5557"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-5557"
+---
+
 [문제 바로가기](https://boj.kr/5557)
 
 ```c++

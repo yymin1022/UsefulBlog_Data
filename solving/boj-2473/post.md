@@ -1,3 +1,11 @@
+---
+title: "2473.  세 용액"
+date: "BOJ 2473"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-2473"
+---
+
 [문제 바로가기](https://boj.kr/2473)
 
 ```c++

@@ -1,3 +1,11 @@
+---
+title: "11508. 2+1 세일"
+date: "BOJ 11508"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-11508"
+---
+
 [문제 바로가기](https://boj.kr/11508)
 
 ```c++

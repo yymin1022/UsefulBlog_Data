@@ -1,3 +1,11 @@
+---
+title: "10826. 피보나치 수 4"
+date: "BOJ 10826"
+tag: ["BOJ","Python"]
+isPinned: true
+url: "boj-10826"
+---
+
 [문제 바로가기](https://boj.kr/10826)
 
 ```python

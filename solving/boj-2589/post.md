@@ -1,3 +1,11 @@
+---
+title: "2589. 보물섬"
+date: "BOJ 2589"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-2589"
+---
+
 [문제 바로가기](https://boj.kr/2589)
 
 ```c++

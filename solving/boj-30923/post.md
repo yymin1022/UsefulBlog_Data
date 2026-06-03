@@ -1,3 +1,11 @@
+---
+title: "30923. 크냑과 3D 프린터"
+date: "BOJ 30923"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-30923"
+---
+
 [문제 바로가기](https://boj.kr/30923)
 
 ```c++

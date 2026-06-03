@@ -1,3 +1,11 @@
+---
+title: "1940.  주몽"
+date: "BOJ 1940"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-1940"
+---
+
 [문제 바로가기](https://boj.kr/1940)
 
 ```c++

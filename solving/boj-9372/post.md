@@ -1,3 +1,11 @@
+---
+title: "9372. 상근이의 여행"
+date: "BOJ 9372"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-9372"
+---
+
 [문제 바로가기](https://boj.kr/9372)
 
 ```c++

@@ -1,3 +1,11 @@
+---
+title: "1302.  베스트셀러"
+date: "BOJ 1302"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-1302"
+---
+
 [문제 바로가기](https://boj.kr/1302)
 
 ```c++

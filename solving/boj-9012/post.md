@@ -1,3 +1,11 @@
+---
+title: "9012.  괄호"
+date: "BOJ 9012"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-9012"
+---
+
 [문제 바로가기](https://boj.kr/9012)
 
 ```c++

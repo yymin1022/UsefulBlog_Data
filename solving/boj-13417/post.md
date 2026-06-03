@@ -1,3 +1,11 @@
+---
+title: "13417. 카드 문자열"
+date: "BOJ 13417"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-13417"
+---
+
 [문제 바로가기](https://boj.kr/13417)
 
 ```c++

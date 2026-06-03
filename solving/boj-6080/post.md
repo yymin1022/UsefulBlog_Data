@@ -1,3 +1,11 @@
+---
+title: "6080. Bad Grass"
+date: "BOJ 6080"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-6080"
+---
+
 [문제 바로가기](https://boj.kr/6080)
 
 ```c++

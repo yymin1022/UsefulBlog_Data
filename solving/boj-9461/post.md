@@ -1,3 +1,11 @@
+---
+title: "9461.  파도반 수열"
+date: "BOJ 9461"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-9461"
+---
+
 [문제 바로가기](https://boj.kr/9461)
 
 ```c++

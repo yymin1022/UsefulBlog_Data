@@ -1,3 +1,11 @@
+---
+title: "2748. 피보나치 수 2"
+date: "BOJ 2748"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-2748"
+---
+
 [문제 바로가기](https://boj.kr/2748)
 
 ```c++

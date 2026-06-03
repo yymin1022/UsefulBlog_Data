@@ -1,3 +1,11 @@
+---
+title: "2688. 줄어들지 않아"
+date: "BOJ 2688"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-2688"
+---
+
 [문제 바로가기](https://boj.kr/2688)
 
 ```c++

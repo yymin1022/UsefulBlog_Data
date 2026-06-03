@@ -1,3 +1,11 @@
+---
+title: "9653.  스타워즈 로고"
+date: "BOJ 9653"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-9653"
+---
+
 [문제 바로가기](https://boj.kr/9653)
 
 ```c++

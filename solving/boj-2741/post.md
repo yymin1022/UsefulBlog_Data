@@ -1,3 +1,11 @@
+---
+title: "2741.  N 찍기"
+date: "BOJ 2741"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-2741"
+---
+
 [문제 바로가기](https://boj.kr/2741)
 
 ```c

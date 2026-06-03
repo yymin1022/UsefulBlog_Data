@@ -1,3 +1,11 @@
+---
+title: "1197. 최소 스패닝 트리"
+date: "BOJ 1197"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-1197"
+---
+
 [문제 바로가기](https://boj.kr/1197)
 
 ```c++

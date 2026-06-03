@@ -1,3 +1,11 @@
+---
+title: "27648. 증가 배열 만들기"
+date: "BOJ 27648"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-27648"
+---
+
 [문제 바로가기](https://boj.kr/27648)
 
 ```c++

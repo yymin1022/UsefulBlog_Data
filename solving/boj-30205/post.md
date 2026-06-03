@@ -1,3 +1,11 @@
+---
+title: "30205. 전역 임무"
+date: "BOJ 30205"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-30205"
+---
+
 [문제 바로가기](https://boj.kr/30205)
 
 ```c++

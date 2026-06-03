@@ -1,3 +1,11 @@
+---
+title: "7482. 상자 만들기"
+date: "BOJ 7482"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-7482"
+---
+
 [문제 바로가기](https://boj.kr/7482)
 
 ```python

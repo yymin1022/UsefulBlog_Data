@@ -1,3 +1,11 @@
+---
+title: "15702. 중간고사 채점"
+date: "BOJ 15702"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-15702"
+---
+
 [문제 바로가기](https://boj.kr/15702)
 
 ```c++

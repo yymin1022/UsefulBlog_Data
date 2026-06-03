@@ -1,3 +1,11 @@
+---
+title: "15726. 이칙연산"
+date: "BOJ 15726"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-15726"
+---
+
 [문제 바로가기](https://boj.kr/15726)
 
 ```c++

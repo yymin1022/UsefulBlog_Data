@@ -1,3 +1,11 @@
+---
+title: "29718. 줄줄이 박수"
+date: "BOJ 29718"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-29718"
+---
+
 [문제 바로가기](https://boj.kr/29718)
 
 ```c++

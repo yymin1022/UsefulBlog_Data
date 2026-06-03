@@ -1,3 +1,11 @@
+---
+title: "4485.  녹색 옷 입은 애가 젤다지?"
+date: "BOJ 4485"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-4485"
+---
+
 [문제 바로가기](https://boj.kr/4485)
 
 ```c++

@@ -1,3 +1,11 @@
+---
+title: "17521. Byte Coin"
+date: "BOJ 17521"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-17521"
+---
+
 [문제 바로가기](https://boj.kr/17521)
 
 ```c++

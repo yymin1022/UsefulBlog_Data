@@ -1,3 +1,11 @@
+---
+title: "6198. 옥상 정원 꾸미기"
+date: "BOJ 6198"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-6198"
+---
+
 [문제 바로가기](https://boj.kr/6198)
 
 ```c++

@@ -1,3 +1,11 @@
+---
+title: "14712. 넴모넴모 (Easy)"
+date: "BOJ 14712"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-14712"
+---
+
 [문제 바로가기](https://boj.kr/14712)
 
 ```c++

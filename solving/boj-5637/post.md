@@ -1,3 +1,11 @@
+---
+title: "5637. 가장 긴 단어"
+date: "BOJ 5637"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-5637"
+---
+
 [문제 바로가기](https://boj.kr/5637)
 
 ```c++

@@ -1,3 +1,11 @@
+---
+title: "1085.  직사각형에서 탈출"
+date: "BOJ 1085"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-1085"
+---
+
 [문제 바로가기](https://boj.kr/1085)
 
 ```c++

@@ -1,3 +1,11 @@
+---
+title: "28353. 고양이 카페"
+date: "BOJ 28353"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-28353"
+---
+
 [문제 바로가기](https://boj.kr/28353)
 
 ```c++

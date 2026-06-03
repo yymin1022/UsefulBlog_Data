@@ -1,3 +1,11 @@
+---
+title: "1011.  Fly me to the Alpha Centauri"
+date: "BOJ 1011"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-1011"
+---
+
 [문제 바로가기](https://boj.kr/1011)
 
 ```c++

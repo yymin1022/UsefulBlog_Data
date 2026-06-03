@@ -1,3 +1,11 @@
+---
+title: "2606.  바이러스"
+date: "BOJ 2606"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-2606"
+---
+
 [문제 바로가기](https://boj.kr/2606)
 
 ```c++

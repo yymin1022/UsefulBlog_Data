@@ -1,3 +1,11 @@
+---
+title: "11501. 주식"
+date: "BOJ 11501"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-11501"
+---
+
 [문제 바로가기](https://boj.kr/11501)
 
 ```c++

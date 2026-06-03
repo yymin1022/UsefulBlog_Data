@@ -1,3 +1,11 @@
+---
+title: "4949.  균형잡힌 세상"
+date: "BOJ 4949"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-4949"
+---
+
 [문제 바로가기](https://boj.kr/4949)
 
 ```c++

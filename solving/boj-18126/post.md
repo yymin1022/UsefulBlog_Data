@@ -1,3 +1,11 @@
+---
+title: "18126. 너구리 구구"
+date: "BOJ 18126"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-18126"
+---
+
 [문제 바로가기](https://boj.kr/18126)
 
 ```c++

@@ -1,3 +1,11 @@
+---
+title: "1292.  쉽게 푸는 문제"
+date: "BOJ 1292"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-1292"
+---
+
 [문제 바로가기](https://boj.kr/1292)
 
 ```c++

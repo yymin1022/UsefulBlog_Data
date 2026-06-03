@@ -1,3 +1,11 @@
+---
+title: "11382.  꼬마 정민"
+date: "BOJ 11382"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-11382"
+---
+
 [문제 바로가기](https://boj.kr/11382)
 
 ```c++

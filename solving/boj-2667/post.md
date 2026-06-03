@@ -1,3 +1,11 @@
+---
+title: "2667.  단지번호붙이기"
+date: "BOJ 2667"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-2667"
+---
+
 [문제 바로가기](https://boj.kr/2667)
 
 ```c++

@@ -1,3 +1,11 @@
+---
+title: "2605.  줄 세우기"
+date: "BOJ 2605"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-2605"
+---
+
 [문제 바로가기](https://boj.kr/2605)
 
 ```c++

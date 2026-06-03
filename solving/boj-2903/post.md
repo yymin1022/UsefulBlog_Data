@@ -1,3 +1,11 @@
+---
+title: "2903. 중앙 이동 알고리즘"
+date: "BOJ 2903"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-2903"
+---
+
 [문제 바로가기](https://boj.kr/2903)
 
 ```c++

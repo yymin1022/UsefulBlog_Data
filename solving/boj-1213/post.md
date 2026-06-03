@@ -1,3 +1,11 @@
+---
+title: "1213. 팰린드롬 만들기"
+date: "BOJ 1213"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-1213"
+---
+
 [문제 바로가기](https://boj.kr/1213)
 
 ```c++

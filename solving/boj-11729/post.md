@@ -1,3 +1,11 @@
+---
+title: "11729.  하노이 탑 이동 순서"
+date: "BOJ 11729"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-11729"
+---
+
 [문제 바로가기](https://boj.kr/11729)
 
 ```c++

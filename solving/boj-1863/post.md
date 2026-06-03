@@ -1,3 +1,11 @@
+---
+title: "1863.  스카이라인 쉬운거"
+date: "BOJ 1863"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-1863"
+---
+
 [문제 바로가기](https://boj.kr/1863)
 
 ```c++

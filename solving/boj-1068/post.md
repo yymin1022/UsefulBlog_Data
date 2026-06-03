@@ -1,3 +1,11 @@
+---
+title: "1068. 트리"
+date: "BOJ 1068"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-1068"
+---
+
 [문제 바로가기](https://boj.kr/1068)
 
 ```c++

@@ -1,3 +1,11 @@
+---
+title: "12927. 배수 스위치"
+date: "BOJ 12927"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-12927"
+---
+
 [문제 바로가기](https://boj.kr/12927)
 
 ```c++

@@ -1,3 +1,11 @@
+---
+title: "15887. 욱제는 결벽증이야!!"
+date: "BOJ 15887"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-15887"
+---
+
 [문제 바로가기](https://boj.kr/15887)
 
 ```c++

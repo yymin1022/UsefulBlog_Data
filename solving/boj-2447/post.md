@@ -1,3 +1,11 @@
+---
+title: "2447.  별 찍기 - 10"
+date: "BOJ 2447"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-2447"
+---
+
 [문제 바로가기](https://boj.kr/2447)
 
 ```c++

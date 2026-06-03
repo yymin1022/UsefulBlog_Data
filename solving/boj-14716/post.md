@@ -1,3 +1,11 @@
+---
+title: "14716. 현수막"
+date: "BOJ 14716"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-14716"
+---
+
 [문제 바로가기](https://boj.kr/14716)
 
 ```c++

@@ -1,3 +1,11 @@
+---
+title: "5596. 시험 점수"
+date: "BOJ 5596"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-5596"
+---
+
 [문제 바로가기](https://boj.kr/5596)
 
 ```c++

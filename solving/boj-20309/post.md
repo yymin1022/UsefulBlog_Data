@@ -1,3 +1,11 @@
+---
+title: "20309. 트리플 소트"
+date: "BOJ 20309"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-20309"
+---
+
 [문제 바로가기](https://boj.kr/20309)
 
 ```c++

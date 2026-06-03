@@ -1,3 +1,11 @@
+---
+title: "10872.  팩토리얼"
+date: "BOJ 10872"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-10872"
+---
+
 [문제 바로가기](https://boj.kr/10872)
 
 ```c++

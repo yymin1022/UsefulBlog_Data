@@ -1,3 +1,11 @@
+---
+title: "14921.  용액 합성하기"
+date: "BOJ 14921"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-14921"
+---
+
 [문제 바로가기](https://boj.kr/14921)
 
 ```c++

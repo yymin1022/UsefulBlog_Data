@@ -1,3 +1,11 @@
+---
+title: "11123. 양 한마리... 양 두마리..."
+date: "BOJ 11123"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-11123"
+---
+
 [문제 바로가기](https://boj.kr/11123)
 
 ```c++

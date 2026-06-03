@@ -1,3 +1,11 @@
+---
+title: "31263. 대한민국을 지키는 가장 긴 힘"
+date: "BOJ 31263"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-31263"
+---
+
 [문제 바로가기](https://boj.kr/31263)
 
 ```c++

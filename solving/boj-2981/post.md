@@ -1,3 +1,11 @@
+---
+title: "2981.  검문"
+date: "BOJ 2981"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-2981"
+---
+
 [문제 바로가기](https://boj.kr/2981)
 
 ```c++

@@ -1,3 +1,11 @@
+---
+title: "22862. 가장 긴 짝수 연속한 부분 수열 (large)"
+date: "BOJ 22862"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-22862"
+---
+
 [문제 바로가기](https://boj.kr/22862)
 
 ```c++

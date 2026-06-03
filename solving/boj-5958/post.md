@@ -1,3 +1,11 @@
+---
+title: "5958. Space Exploration"
+date: "BOJ 5958"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-5958"
+---
+
 [문제 바로가기](https://boj.kr/5958)
 
 ```c++

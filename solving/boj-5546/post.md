@@ -1,3 +1,11 @@
+---
+title: "5546. 파스타"
+date: "BOJ 5546"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-5546"
+---
+
 [문제 바로가기](https://boj.kr/5546)
 
 ```c++

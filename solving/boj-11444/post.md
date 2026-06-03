@@ -1,3 +1,11 @@
+---
+title: "11444. 피보나치 수 6"
+date: "BOJ 11444"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-11444"
+---
+
 [문제 바로가기](https://boj.kr/11444)
 
 ```c++

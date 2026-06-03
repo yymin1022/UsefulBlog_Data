@@ -1,3 +1,11 @@
+---
+title: "2169. 로봇 조종하기"
+date: "BOJ 2169"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-2169"
+---
+
 [문제 바로가기](https://boj.kr/2169)
 
 ```c++

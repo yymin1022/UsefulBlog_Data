@@ -1,3 +1,11 @@
+---
+title: "1725. ��스토그램"
+date: "BOJ 1725"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-1725"
+---
+
 [문제 바로가기](https://boj.kr/1725)
 
 ```c++

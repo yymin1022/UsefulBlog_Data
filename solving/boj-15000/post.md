@@ -1,3 +1,11 @@
+---
+title: "15000. CAPS"
+date: "BOJ 15000"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-15000"
+---
+
 [문제 바로가기](https://boj.kr/15000)
 
 ```c++

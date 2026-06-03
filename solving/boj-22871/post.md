@@ -1,3 +1,11 @@
+---
+title: "22871. 징검다리 건너기 (large)"
+date: "BOJ 22871"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-22871"
+---
+
 [문제 바로가기](https://boj.kr/22871)
 
 ```c++

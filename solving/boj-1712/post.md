@@ -1,3 +1,11 @@
+---
+title: "1712.  손익분기점"
+date: "BOJ 1712"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-1712"
+---
+
 [문제 바로가기](https://boj.kr/1712)
 
 ```c++

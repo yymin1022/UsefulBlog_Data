@@ -1,3 +1,11 @@
+---
+title: "14889.  스타트와 링크"
+date: "BOJ 14889"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-14889"
+---
+
 [문제 바로가기](https://boj.kr/14889)
 
 ```c++

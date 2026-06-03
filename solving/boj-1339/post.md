@@ -1,3 +1,11 @@
+---
+title: "1339.  단어 수학"
+date: "BOJ 1339"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-1339"
+---
+
 [문제 바로가기](https://boj.kr/1339)
 
 ```c++

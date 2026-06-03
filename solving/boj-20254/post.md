@@ -1,3 +1,11 @@
+---
+title: "20254.  Site Score"
+date: "BOJ 20254"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-20254"
+---
+
 [문제 바로가기](https://boj.kr/20254)
 
 ```c++

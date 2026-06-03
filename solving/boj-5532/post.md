@@ -1,3 +1,11 @@
+---
+title: "5532.  방학 숙제"
+date: "BOJ 5532"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-5532"
+---
+
 [문제 바로가기](https://boj.kr/5532)
 
 ```c++

@@ -1,3 +1,11 @@
+---
+title: "9663.  N-Queen"
+date: "BOJ 9663"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-9663"
+---
+
 [문제 바로가기](https://boj.kr/9663)
 
 ```c++

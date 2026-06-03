@@ -1,3 +1,11 @@
+---
+title: "15815. 천재 수학자 성필"
+date: "BOJ 15815"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-15815"
+---
+
 [문제 바로가기](https://boj.kr/15815)
 
 ```c++

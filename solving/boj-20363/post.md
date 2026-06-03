@@ -1,3 +1,11 @@
+---
+title: "20363. 당근 키우기"
+date: "BOJ 20363"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-20363"
+---
+
 [문제 바로가기](https://boj.kr/20363)
 
 ```c++

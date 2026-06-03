@@ -1,3 +1,11 @@
+---
+title: "5349. Duplicate SSN"
+date: "BOJ 5349"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-5349"
+---
+
 [문제 바로가기](https://boj.kr/5349)
 
 ```c++

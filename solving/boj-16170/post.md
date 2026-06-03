@@ -1,3 +1,11 @@
+---
+title: "16170.  오늘의 날짜는?"
+date: "BOJ 16170"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-16170"
+---
+
 [문제 바로가기](https://boj.kr/16170)
 
 ```c++

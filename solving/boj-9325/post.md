@@ -1,3 +1,11 @@
+---
+title: "9325. 얼마?"
+date: "BOJ 9325"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-9325"
+---
+
 [문제 바로가기](https://boj.kr/9325)
 
 ```c++

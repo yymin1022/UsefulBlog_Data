@@ -1,3 +1,11 @@
+---
+title: "4714. Lunacy"
+date: "BOJ 4714"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-4714"
+---
+
 [문제 바로가기](https://boj.kr/4714)
 
 ```c++

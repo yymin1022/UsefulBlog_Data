@@ -1,3 +1,11 @@
+---
+title: "18706. Coffee"
+date: "BOJ 18706"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-18706"
+---
+
 [문제 바로가기](https://boj.kr/18706)
 
 ```c++

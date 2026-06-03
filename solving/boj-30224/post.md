@@ -1,3 +1,11 @@
+---
+title: "30224. Lucky 7"
+date: "BOJ 30224"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-30224"
+---
+
 [문제 바로가기](https://boj.kr/30224)
 
 ```c++

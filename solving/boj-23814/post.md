@@ -1,3 +1,11 @@
+---
+title: "23814. 아 저는 볶음밥이요"
+date: "BOJ 23814"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-23814"
+---
+
 [문제 바로가기](https://boj.kr/23814)
 
 ```c++

@@ -1,3 +1,11 @@
+---
+title: "14681.  사분면 고르기"
+date: "BOJ 14681"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-14681"
+---
+
 [문제 바로가기](https://boj.kr/14681)
 
 ```c

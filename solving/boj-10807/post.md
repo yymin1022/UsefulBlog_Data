@@ -1,3 +1,11 @@
+---
+title: "10807.  개수 세기"
+date: "BOJ 10807"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-10807"
+---
+
 [문제 바로가기](https://boj.kr/10807)
 
 ```c++

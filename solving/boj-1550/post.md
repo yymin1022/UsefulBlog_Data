@@ -1,3 +1,11 @@
+---
+title: "1550.  16진수"
+date: "BOJ 1550"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-1550"
+---
+
 [문제 바로가기](https://boj.kr/1550)
 
 ```c++

@@ -1,3 +1,11 @@
+---
+title: "3034. 앵그리 창영"
+date: "BOJ 3034"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-3034"
+---
+
 [문제 바로가기](https://boj.kr/3034)
 
 ```c++

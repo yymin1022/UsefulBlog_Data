@@ -1,3 +1,11 @@
+---
+title: "22233. 가희와 키워드"
+date: "BOJ 22233"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-22233"
+---
+
 [문제 바로가기](https://boj.kr/22233)
 
 ```c++

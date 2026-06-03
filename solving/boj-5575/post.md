@@ -1,3 +1,11 @@
+---
+title: "5575. 타임 카드"
+date: "BOJ 5575"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-5575"
+---
+
 [문제 바로가기](https://boj.kr/5575)
 
 ```c++

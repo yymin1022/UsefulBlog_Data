@@ -1,3 +1,11 @@
+---
+title: "1655. 가운데를 말해요"
+date: "BOJ 1655"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-1655"
+---
+
 [문제 바로가기](https://boj.kr/1655)
 
 ```c++

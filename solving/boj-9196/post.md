@@ -1,3 +1,11 @@
+---
+title: "9196. 정수 직사각형"
+date: "BOJ 9196"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-9196"
+---
+
 [문제 바로가기](https://boj.kr/9196)
 
 ```c++

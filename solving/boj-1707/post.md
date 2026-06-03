@@ -1,3 +1,11 @@
+---
+title: "1707. 이분 그래프"
+date: "BOJ 1707"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-1707"
+---
+
 [문제 바로가기](https://boj.kr/1707)
 
 ```c++

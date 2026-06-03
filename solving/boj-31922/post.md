@@ -1,3 +1,11 @@
+---
+title: "31922. 이 대회는 이제 제 겁니다"
+date: "BOJ 31922"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-31922"
+---
+
 [문제 바로가기](https://boj.kr/31922)
 
 ```c++

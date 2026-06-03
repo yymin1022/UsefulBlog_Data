@@ -1,3 +1,11 @@
+---
+title: "27940. 가지 산사태"
+date: "BOJ 27940"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-27940"
+---
+
 [문제 바로가기](https://boj.kr/27940)
 
 ```c++

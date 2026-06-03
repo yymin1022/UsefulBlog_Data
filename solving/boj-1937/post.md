@@ -1,3 +1,11 @@
+---
+title: "1937. 욕심쟁이 판다"
+date: "BOJ 1937"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-1937"
+---
+
 [문제 바로가기](https://boj.kr/1937)
 
 ```c++

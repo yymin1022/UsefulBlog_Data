@@ -1,3 +1,11 @@
+---
+title: "1021.  회전하는 큐"
+date: "BOJ 1021"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-1021"
+---
+
 [문제 바로가기](https://boj.kr/1021)
 
 ```c++

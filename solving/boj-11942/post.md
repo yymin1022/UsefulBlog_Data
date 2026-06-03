@@ -1,3 +1,11 @@
+---
+title: "11942.  고려대는 사랑입니다"
+date: "BOJ 11942"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-11942"
+---
+
 [문제 바로가기](https://boj.kr/11942)
 
 ```c++

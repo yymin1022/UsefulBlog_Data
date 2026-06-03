@@ -1,3 +1,11 @@
+---
+title: "1459. 걷기"
+date: "BOJ 1459"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-1459"
+---
+
 [문제 바로가기](https://boj.kr/1459)
 
 ```c++

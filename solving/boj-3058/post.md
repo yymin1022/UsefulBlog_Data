@@ -1,3 +1,11 @@
+---
+title: "3058. 짝수를 찾아라"
+date: "BOJ 3058"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-3058"
+---
+
 [문제 바로가기](https://boj.kr/3058)
 
 ```c++

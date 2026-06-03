@@ -1,3 +1,11 @@
+---
+title: "17626.  Four Squares"
+date: "BOJ 17626"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-17626"
+---
+
 [문제 바로가기](https://boj.kr/17626)
 
 ```c++

@@ -1,3 +1,11 @@
+---
+title: "11779. 최소비용 구하기 2"
+date: "BOJ 11779"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-11779"
+---
+
 [문제 바로가기](https://boj.kr/11779)
 
 ```c++

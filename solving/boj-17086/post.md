@@ -1,3 +1,11 @@
+---
+title: "17086. 아기 상어 2"
+date: "BOJ 17086"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-17086"
+---
+
 [문제 바로가기](https://boj.kr/17086)
 
 ```c++

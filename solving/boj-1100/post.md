@@ -1,3 +1,11 @@
+---
+title: "1100. 하얀 칸"
+date: "BOJ 1100"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-1100"
+---
+
 [문제 바로가기](https://boj.kr/1100)
 
 ```c++

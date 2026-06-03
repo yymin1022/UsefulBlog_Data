@@ -1,3 +1,11 @@
+---
+title: "11725.  트리의 부모 찾기"
+date: "BOJ 11725"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-11725"
+---
+
 [문제 바로가기](https://boj.kr/11725)
 
 ```c++

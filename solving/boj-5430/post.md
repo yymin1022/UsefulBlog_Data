@@ -1,3 +1,11 @@
+---
+title: "5430.  AC"
+date: "BOJ 5430"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-5430"
+---
+
 [문제 바로가기](https://boj.kr/5430)
 
 ```c++

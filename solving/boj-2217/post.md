@@ -1,3 +1,11 @@
+---
+title: "2217. 로프"
+date: "BOJ 2217"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-2217"
+---
+
 [문제 바로가기](https://boj.kr/2217)
 
 ```c++

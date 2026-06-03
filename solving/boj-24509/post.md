@@ -1,3 +1,11 @@
+---
+title: "24509. 상품의 주인은?"
+date: "BOJ 24509"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-24509"
+---
+
 [문제 바로가기](https://boj.kr/24509)
 
 ```c++

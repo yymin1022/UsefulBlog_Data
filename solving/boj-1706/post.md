@@ -1,3 +1,11 @@
+---
+title: "1706. 크로스워드"
+date: "BOJ 1706"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-1706"
+---
+
 [문제 바로가기](https://boj.kr/1706)
 
 ```c++

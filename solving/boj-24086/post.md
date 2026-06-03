@@ -1,3 +1,11 @@
+---
+title: "24086.  身長 (Height)"
+date: "BOJ 24086"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-24086"
+---
+
 [문제 바로가기](https://boj.kr/24086)
 
 ```c++

@@ -1,3 +1,11 @@
+---
+title: "31575. 도시와 비트코인"
+date: "BOJ 31575"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-31575"
+---
+
 [문제 바로가기](https://boj.kr/31575)
 
 ```c++

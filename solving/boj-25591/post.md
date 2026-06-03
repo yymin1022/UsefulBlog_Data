@@ -1,3 +1,11 @@
+---
+title: "25591. 푸앙이와 종윤이"
+date: "BOJ 25591"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-25591"
+---
+
 [문제 바로가기](https://boj.kr/25591)
 
 ```c++

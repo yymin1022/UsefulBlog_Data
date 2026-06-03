@@ -1,3 +1,11 @@
+---
+title: "28701. 세제곱의 합"
+date: "BOJ 28701"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-28701"
+---
+
 [문제 바로가기](https://boj.kr/28701)
 
 ```c++

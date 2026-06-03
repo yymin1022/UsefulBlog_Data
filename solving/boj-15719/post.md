@@ -1,3 +1,11 @@
+---
+title: "15719. 중복된 숫자"
+date: "BOJ 15719"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-15719"
+---
+
 [문제 바로가기](https://boj.kr/15719)
 
 ```c++

@@ -1,3 +1,11 @@
+---
+title: "1730. 판화"
+date: "BOJ 1730"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-1730"
+---
+
 [문제 바로가기](https://boj.kr/1730)
 
 ```c++

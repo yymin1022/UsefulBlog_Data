@@ -1,3 +1,11 @@
+---
+title: "4383. 점프는 즐거워"
+date: "BOJ 4383"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-4383"
+---
+
 [문제 바로가기](https://boj.kr/4383)
 
 ```c++

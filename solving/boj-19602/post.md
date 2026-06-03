@@ -1,3 +1,11 @@
+---
+title: "19602. Dog Treats"
+date: "BOJ 19602"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-19602"
+---
+
 [문제 바로가기](https://boj.kr/19602)
 
 ```c++

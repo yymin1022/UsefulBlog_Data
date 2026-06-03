@@ -1,3 +1,11 @@
+---
+title: "12871. 무한 문자열"
+date: "BOJ 12871"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-12871"
+---
+
 [문제 바로가기](https://boj.kr/12871)
 
 ```c++

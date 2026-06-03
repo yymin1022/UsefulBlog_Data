@@ -1,3 +1,11 @@
+---
+title: "1264.  모음의 개수"
+date: "BOJ 1264"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-1264"
+---
+
 [문제 바로가기](https://boj.kr/1264)
 
 ```c++

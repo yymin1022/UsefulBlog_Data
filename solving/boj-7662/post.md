@@ -1,3 +1,11 @@
+---
+title: "7662.  이중 우선순위 큐"
+date: "BOJ 7662"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-7662"
+---
+
 [문제 바로가기](https://boj.kr/7662)
 
 ```c++

@@ -1,3 +1,11 @@
+---
+title: "28235. 코드마스터 2023"
+date: "BOJ 28235"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-28235"
+---
+
 [문제 바로가기](https://boj.kr/28235)
 
 ```c++

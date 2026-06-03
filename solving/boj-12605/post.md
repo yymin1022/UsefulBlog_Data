@@ -1,3 +1,11 @@
+---
+title: "12605. 단어순서 뒤집기"
+date: "BOJ 12605"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-12605"
+---
+
 [문제 바로가기](https://boj.kr/12605)
 
 ```c++

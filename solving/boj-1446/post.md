@@ -1,3 +1,11 @@
+---
+title: "1446. 지름길"
+date: "BOJ 1446"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-1446"
+---
+
 [문제 바로가기](https://boj.kr/1446)
 
 ```c++

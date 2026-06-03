@@ -1,3 +1,11 @@
+---
+title: "16948. 데스 나이트"
+date: "BOJ 16948"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-16948"
+---
+
 [문제 바로가기](https://boj.kr/16948)
 
 ```c++

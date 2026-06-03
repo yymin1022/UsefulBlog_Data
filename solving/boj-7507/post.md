@@ -1,3 +1,11 @@
+---
+title: "7507. 올림픽 게임"
+date: "BOJ 7507"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-7507"
+---
+
 [문제 바로가기](https://boj.kr/7507)
 
 ```c++

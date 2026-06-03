@@ -1,3 +1,11 @@
+---
+title: "26265. 멘토와 멘티"
+date: "BOJ 26265"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-26265"
+---
+
 [문제 바로가기](https://boj.kr/26265)
 
 ```c++

@@ -1,3 +1,11 @@
+---
+title: "1769. 3의 배수"
+date: "BOJ 1769"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-1769"
+---
+
 [문제 바로가기](https://boj.kr/1769)
 
 ```c++

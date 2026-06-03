@@ -1,3 +1,11 @@
+---
+title: "1269.  대칭 차집합"
+date: "BOJ 1269"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-1269"
+---
+
 [문제 바로가기](https://boj.kr/1269)
 
 ```c++

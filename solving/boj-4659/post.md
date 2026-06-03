@@ -1,3 +1,11 @@
+---
+title: "4659. 비밀번호 발음하기"
+date: "BOJ 4659"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-4659"
+---
+
 [문제 바로가기](https://boj.kr/4659)
 
 ```c++

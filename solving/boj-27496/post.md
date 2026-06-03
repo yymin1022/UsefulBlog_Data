@@ -1,3 +1,11 @@
+---
+title: "27496. 발머의 피크 이론"
+date: "BOJ 27496"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-27496"
+---
+
 [문제 바로가기](https://boj.kr/27496)
 
 ```c++

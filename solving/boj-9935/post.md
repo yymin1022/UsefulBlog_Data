@@ -1,3 +1,11 @@
+---
+title: "9935. 문자열 폭발"
+date: "BOJ 9935"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-9935"
+---
+
 [문제 바로가기](https://boj.kr/9935)
 
 ```c++

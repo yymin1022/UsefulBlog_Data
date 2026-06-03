@@ -1,3 +1,11 @@
+---
+title: "13413. 오셀로 재배치"
+date: "BOJ 13413"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-13413"
+---
+
 [문제 바로가기](https://boj.kr/1236)
 
 ```c++

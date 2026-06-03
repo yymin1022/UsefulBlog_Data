@@ -1,3 +1,11 @@
+---
+title: "1357.  뒤집힌 덧셈"
+date: "BOJ 1357"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-1357"
+---
+
 [문제 바로가기](https://boj.kr/1357)
 
 ```c++

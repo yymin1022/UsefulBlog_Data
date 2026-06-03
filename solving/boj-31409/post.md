@@ -1,3 +1,11 @@
+---
+title: "31409. 착신 전환 소동"
+date: "BOJ 31409"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-31409"
+---
+
 [문제 바로가기](https://boj.kr/31409)
 
 ```c++

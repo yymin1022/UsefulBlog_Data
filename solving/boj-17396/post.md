@@ -1,3 +1,11 @@
+---
+title: "17396. 백도어"
+date: "BOJ 17396"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-17396"
+---
+
 [문제 바로가기](https://boj.kr/17396)
 
 ```c++

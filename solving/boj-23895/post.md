@@ -1,3 +1,11 @@
+---
+title: "23895. Allocation"
+date: "BOJ 23895"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-23895"
+---
+
 [문제 바로가기](https://boj.kr/23895)
 
 ```c++

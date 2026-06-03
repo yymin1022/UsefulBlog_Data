@@ -1,3 +1,11 @@
+---
+title: "11034. 캥거루 세마리2"
+date: "BOJ 11034"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-11034"
+---
+
 [문제 바로가기](https://boj.kr/11034)
 
 ```c++

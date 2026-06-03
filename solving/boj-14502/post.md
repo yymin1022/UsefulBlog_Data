@@ -1,3 +1,11 @@
+---
+title: "14502. 연구소"
+date: "BOJ 14502"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-14502"
+---
+
 [문제 바로가기](https://boj.kr/14502)
 
 ```c++

@@ -1,3 +1,11 @@
+---
+title: "1629.  곱셈"
+date: "BOJ 1629"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-1629"
+---
+
 [문제 바로가기](https://boj.kr/1629)
 
 ```c++

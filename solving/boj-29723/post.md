@@ -1,3 +1,11 @@
+---
+title: "29723. 브실이의 입시전략"
+date: "BOJ 29723"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-29723"
+---
+
 [문제 바로가기](https://boj.kr/29723)
 
 ```c++

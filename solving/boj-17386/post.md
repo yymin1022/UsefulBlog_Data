@@ -1,3 +1,11 @@
+---
+title: "17386. 선분 교차 1"
+date: "BOJ 1738"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-17386"
+---
+
 [문제 바로가기](https://boj.kr/17386)
 
 ```c++

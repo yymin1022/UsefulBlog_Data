@@ -1,3 +1,11 @@
+---
+title: "2083. ��비 클럽"
+date: "BOJ 2083"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-2083"
+---
+
 [문제 바로가기](https://boj.kr/2083)
 
 ```c++

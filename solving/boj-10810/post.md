@@ -1,3 +1,11 @@
+---
+title: "10810. 공 넣기"
+date: "BOJ 10810"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-10810"
+---
+
 [문제 바로가기](https://boj.kr/10810)
 
 ```c++

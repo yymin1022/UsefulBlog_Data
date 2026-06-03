@@ -1,3 +1,11 @@
+---
+title: "2588.  곱셈"
+date: "BOJ 2588"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-2588"
+---
+
 [문제 바로가기](https://boj.kr/2588)
 
 ```c

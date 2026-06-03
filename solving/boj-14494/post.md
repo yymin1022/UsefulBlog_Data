@@ -1,3 +1,11 @@
+---
+title: "14494. 다이나믹이 뭐예요? "
+date: "BOJ 14494"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-14494"
+---
+
 [문제 바로가기](https://boj.kr/14494)
 
 ```c++

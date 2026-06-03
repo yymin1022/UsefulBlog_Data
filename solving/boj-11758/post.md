@@ -1,3 +1,11 @@
+---
+title: "11758. CCW"
+date: "BOJ 11758"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-11758"
+---
+
 [문제 바로가기](https://boj.kr/11758)
 
 ```c++

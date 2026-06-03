@@ -1,3 +1,11 @@
+---
+title: "9085. 더하기"
+date: "BOJ 9085"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-9085"
+---
+
 [문제 바로가기](https://boj.kr/9085)
 
 ```c++

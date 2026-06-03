@@ -1,3 +1,11 @@
+---
+title: "1652. 누울 자리를 찾아라"
+date: "BOJ 1652"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-1652"
+---
+
 [문제 바로가기](https://boj.kr/1652)
 
 ```c++

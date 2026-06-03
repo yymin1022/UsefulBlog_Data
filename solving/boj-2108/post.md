@@ -1,3 +1,11 @@
+---
+title: "2108.  통계학"
+date: "BOJ 2108"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-2108"
+---
+
 [문제 바로가기](https://boj.kr/2108)
 
 ```c++

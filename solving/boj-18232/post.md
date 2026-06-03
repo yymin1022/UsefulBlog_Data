@@ -1,3 +1,11 @@
+---
+title: "18232. 텔레포트 정거장"
+date: "BOJ 18232"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-18232"
+---
+
 [문제 바로가기](https://boj.kr/18232)
 
 ```c++

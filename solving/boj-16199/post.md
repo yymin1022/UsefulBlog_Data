@@ -1,3 +1,11 @@
+---
+title: "16199. 나이 계산하기"
+date: "BOJ 16199"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-16199"
+---
+
 [문제 바로가기](https://boj.kr/16199)
 
 ```c++

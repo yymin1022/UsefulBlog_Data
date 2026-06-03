@@ -1,3 +1,11 @@
+---
+title: "19592. 장난감 경주"
+date: "BOJ 19592"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-19592"
+---
+
 [문제 바로가기](https://boj.kr/19592)
 
 ```c++

@@ -1,3 +1,11 @@
+---
+title: "11663. 선분 위의 점"
+date: "BOJ 11663"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-11663"
+---
+
 [문제 바로가기](https://boj.kr/11663)
 
 ```c++

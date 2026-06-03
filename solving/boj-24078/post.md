@@ -1,3 +1,11 @@
+---
+title: "24078.  余り (Remainder)"
+date: "BOJ 24078"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-24078"
+---
+
 [문제 바로가기](https://boj.kr/24078)
 
 ```c++

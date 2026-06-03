@@ -1,3 +1,11 @@
+---
+title: "1918. 후위 표기식"
+date: "BOJ 1918"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-1918"
+---
+
 [문제 바로가기](https://boj.kr/1918)
 
 ```c++

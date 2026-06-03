@@ -1,3 +1,11 @@
+---
+title: "10833. 사과"
+date: "BOJ 10833"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-10833"
+---
+
 [문제 바로가기](https://boj.kr/10833)
 
 ```c++

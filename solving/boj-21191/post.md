@@ -1,3 +1,11 @@
+---
+title: "21191. This Ain't Your Grandpa's Checkerboard"
+date: "BOJ 21191"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-21191"
+---
+
 [문제 바로가기](https://boj.kr/21191)
 
 ```c++

@@ -1,3 +1,11 @@
+---
+title: "31867. 홀짝홀짝"
+date: "BOJ 31867"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-31867"
+---
+
 [문제 바로가기](https://boj.kr/31867)
 
 ```c++

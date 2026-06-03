@@ -1,3 +1,11 @@
+---
+title: "11723.  집합"
+date: "BOJ 11723"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-11723"
+---
+
 [문제 바로가기](https://boj.kr/11723)
 
 ```c++

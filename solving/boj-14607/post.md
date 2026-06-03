@@ -1,3 +1,11 @@
+---
+title: "14607. 피자 (Large)"
+date: "BOJ 14607"
+tag: ["BOJ","C++"]
+isPinned: 14607. 피자 (Large)
+url: "boj-14607"
+---
+
 [문제 바로가기](https://boj.kr/14607)
 
 ```c++

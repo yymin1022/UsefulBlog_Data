@@ -1,3 +1,11 @@
+---
+title: "15489. 파스칼 삼각형"
+date: "BOJ 15489"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-15489"
+---
+
 [문제 바로가기](https://boj.kr/15489)
 
 ```c++

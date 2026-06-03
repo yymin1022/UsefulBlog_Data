@@ -1,3 +1,11 @@
+---
+title: "4470. 줄번호"
+date: "BOJ 4470"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-4470"
+---
+
 [문제 바로가기](https://boj.kr/4470)
 
 ```c++

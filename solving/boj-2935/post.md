@@ -1,3 +1,11 @@
+---
+title: "2935. 소음"
+date: "BOJ 2935"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-2935"
+---
+
 [문제 바로가기](https://boj.kr/2935)
 
 ```c++

@@ -1,3 +1,11 @@
+---
+title: "1158.  요세푸스 문제"
+date: "BOJ 1158"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-1158"
+---
+
 [문제 바로가기](https://boj.kr/1158)
 
 ```c++

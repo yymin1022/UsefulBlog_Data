@@ -1,3 +1,11 @@
+---
+title: "2295.  세 수의 합"
+date: "BOJ 2295"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-2295"
+---
+
 [문제 바로가기](https://boj.kr/2295)
 
 ```c++

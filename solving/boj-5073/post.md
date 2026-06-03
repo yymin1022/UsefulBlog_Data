@@ -1,3 +1,11 @@
+---
+title: "5073. 삼각형과 세 변"
+date: "BOJ 5073"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-5073"
+---
+
 [문제 바로가기](https://boj.kr/5073)
 
 ```c++

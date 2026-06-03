@@ -1,3 +1,11 @@
+---
+title: "16099. Larger Sport Facility"
+date: "BOJ 16099"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-16099"
+---
+
 [문제 바로가기](https://boj.kr/16099)
 
 ```c++

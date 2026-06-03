@@ -1,3 +1,11 @@
+---
+title: "17358. 복불복으로 지구 멸망"
+date: "BOJ 17358"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-17358"
+---
+
 [문제 바로가기](https://boj.kr/17358)
 
 ```c++

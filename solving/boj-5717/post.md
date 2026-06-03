@@ -1,3 +1,11 @@
+---
+title: "5717. 상근이의 친구들"
+date: "BOJ 5717"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-5717"
+---
+
 [문제 바로가기](https://boj.kr/5717)
 
 ```c++

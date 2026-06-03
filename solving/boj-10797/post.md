@@ -1,3 +1,11 @@
+---
+title: "10797.  10부제"
+date: "BOJ 10797"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-10797"
+---
+
 [문제 바로가기](https://boj.kr/10797)
 
 ```c++

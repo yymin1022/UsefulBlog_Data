@@ -1,3 +1,11 @@
+---
+title: "1735. 분수 합"
+date: "BOJ 1735"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-1735"
+---
+
 [문제 바로가기](https://boj.kr/1735)
 
 ```c++

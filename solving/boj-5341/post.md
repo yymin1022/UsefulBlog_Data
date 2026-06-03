@@ -1,3 +1,11 @@
+---
+title: "5341. Pyramids"
+date: "BOJ 5341"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-5341"
+---
+
 [문제 바로가기](https://boj.kr/5341)
 
 ```c++

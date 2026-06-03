@@ -1,3 +1,11 @@
+---
+title: "12851.  숨바꼭질 2"
+date: "BOJ 12851"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-12851"
+---
+
 [문제 바로가기](https://boj.kr/12851)
 
 ```c++

@@ -1,3 +1,11 @@
+---
+title: "16960. 스위치와 램프 "
+date: "BOJ 16960"
+tag: ["BOJ","C_"]
+isPinned: true
+url: "boj-16960"
+---
+
 [문제 바로가기](https://boj.kr/16960)
 
 ```c++

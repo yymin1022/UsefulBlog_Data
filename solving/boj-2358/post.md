@@ -1,3 +1,11 @@
+---
+title: "2358. 평행선"
+date: "BOJ 2358"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-2358"
+---
+
 [문제 바로가기](https://boj.kr/2358)
 
 ```c++

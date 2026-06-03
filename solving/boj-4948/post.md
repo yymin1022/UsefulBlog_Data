@@ -1,3 +1,11 @@
+---
+title: "4948.  베르트랑 공준"
+date: "BOJ 4948"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-4948"
+---
+
 [문제 바로가기](https://boj.kr/4948)
 
 ```c++

@@ -1,3 +1,11 @@
+---
+title: "5725. Pole Position"
+date: "BOJ 5725"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-5725"
+---
+
 [문제 바로가기](https://boj.kr/5725)
 
 ```c++

@@ -1,3 +1,11 @@
+---
+title: "15903. 카드 합체 놀이"
+date: "BOJ 15903"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-15903"
+---
+
 [문제 바로가기](https://boj.kr/15903)
 
 ```c++

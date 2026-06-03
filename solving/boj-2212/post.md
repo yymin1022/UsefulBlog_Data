@@ -1,3 +1,11 @@
+---
+title: "2212. 센서"
+date: "BOJ 2212"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-2212"
+---
+
 [문제 바로가기](https://boj.kr/2212)
 
 ```c++

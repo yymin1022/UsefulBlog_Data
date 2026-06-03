@@ -1,3 +1,11 @@
+---
+title: "5893. 17배"
+date: "BOJ 5893"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-5893"
+---
+
 [문제 바로가기](https://boj.kr/5893)
 
 ```c++

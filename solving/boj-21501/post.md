@@ -1,3 +1,11 @@
+---
+title: "21501. Laptop Sticker"
+date: "BOJ 21501"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-21501"
+---
+
 [문제 바로가기](https://boj.kr/21501)
 
 ```c++

@@ -1,3 +1,11 @@
+---
+title: "1520. 내리막 길"
+date: "BOJ 1520"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-1520"
+---
+
 [문제 바로가기](https://boj.kr/1520)
 
 ```c++

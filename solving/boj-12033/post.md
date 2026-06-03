@@ -1,3 +1,11 @@
+---
+title: "12033. 김인천씨의 식료품가게 (Small)"
+date: "BOJ 12033"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-12033"
+---
+
 [문제 바로가기](https://boj.kr/12033)
 
 ```c++

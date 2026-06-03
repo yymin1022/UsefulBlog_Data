@@ -1,3 +1,11 @@
+---
+title: "2884.  알람 시계"
+date: "BOJ 2884"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-2884"
+---
+
 [문제 바로가기](https://boj.kr/2884)
 
 ```c

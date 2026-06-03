@@ -1,3 +1,11 @@
+---
+title: "2293. 동전 1"
+date: ""
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-2293"
+---
+
 [문제 바로가기](https://boj.kr/2293)
 
 ```c++

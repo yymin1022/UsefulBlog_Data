@@ -1,3 +1,11 @@
+---
+title: "1622. 공통 순열"
+date: "BOJ 1622"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-1622"
+---
+
 [문제 바로가기](https://boj.kr/1622)
 
 ```c++

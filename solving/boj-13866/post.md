@@ -1,3 +1,11 @@
+---
+title: "13866. 팀 나누기"
+date: "BOJ 13866"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-13866"
+---
+
 [문제 바로가기](https://boj.kr/13866)
 
 ```c++

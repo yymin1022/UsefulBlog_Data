@@ -1,3 +1,11 @@
+---
+title: "18301.  Rats"
+date: "BOJ 18301"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-18301"
+---
+
 [문제 바로가기](https://boj.kr/18301)
 
 ```c++

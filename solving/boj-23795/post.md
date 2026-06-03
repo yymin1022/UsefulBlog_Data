@@ -1,3 +1,11 @@
+---
+title: "23795. 사장님 도박은 재미로 하셔야 합니다"
+date: "BOJ 23795"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-23795"
+---
+
 [문제 바로가기](https://boj.kr/23795)
 
 ```c++

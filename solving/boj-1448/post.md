@@ -1,3 +1,11 @@
+---
+title: "1448. 삼각형 만들기"
+date: "BOJ 1448"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-1448"
+---
+
 [문제 바로가기](https://boj.kr/1448)
 
 ```c++

@@ -1,3 +1,11 @@
+---
+title: "15724. 주지수"
+date: "BOJ 15724"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-15724"
+---
+
 [문제 바로가기](https://boj.kr/15724)
 
 ```c++

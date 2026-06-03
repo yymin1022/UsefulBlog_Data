@@ -1,3 +1,11 @@
+---
+title: "14489. 치킨 두 마리 (...)"
+date: "BOJ 14489"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-14489"
+---
+
 [문제 바로가기](https://boj.kr/14489)
 
 ```c++

@@ -1,3 +1,11 @@
+---
+title: "27331. 2 桁の整数 (Two-digit Integer)"
+date: "BOJ 27331"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-27331"
+---
+
 [문제 바로가기](https://boj.kr/27331)
 
 ```c++

@@ -1,3 +1,11 @@
+---
+title: "14490. 백대열"
+date: "BOJ 14490"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-14490"
+---
+
 [문제 바로가기](https://boj.kr/14490)
 
 ```c++

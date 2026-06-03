@@ -1,3 +1,11 @@
+---
+title: "17390. 이건 꼭 풀어야 해!"
+date: "BOJ 17390"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-17390"
+---
+
 [문제 바로가기](https://boj.kr/17390)
 
 ```c++

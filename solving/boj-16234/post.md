@@ -1,3 +1,11 @@
+---
+title: "16234. 인구 이동"
+date: "BOJ 16234"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-16234"
+---
+
 [문제 바로가기](https://boj.kr/16234)
 
 ```c++

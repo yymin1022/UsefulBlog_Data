@@ -1,3 +1,11 @@
+---
+title: "10870.  피보나치 수 5"
+date: "BOJ 10870"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-10870"
+---
+
 [문제 바로가기](https://boj.kr/10870)
 
 ```c++

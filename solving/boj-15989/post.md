@@ -1,3 +1,11 @@
+---
+title: "15989. 1, 2, 3 더하기 4"
+date: "BOJ 15989"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-15989"
+---
+
 [문제 바로가기](https://boj.kr/15989)
 
 ```c++

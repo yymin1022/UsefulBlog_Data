@@ -1,3 +1,11 @@
+---
+title: "9575. 행운의 수"
+date: "BOJ 9575"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-9575"
+---
+
 [문제 바로가기](https://boj.kr/9575)
 
 ```c++

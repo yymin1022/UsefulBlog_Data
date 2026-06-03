@@ -1,3 +1,11 @@
+---
+title: "18096.  Арифметическая магия"
+date: "BOJ 18096"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-18096"
+---
+
 [문제 바로가기](https://boj.kr/18096)
 
 ```c++

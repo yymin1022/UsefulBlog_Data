@@ -1,3 +1,11 @@
+---
+title: "1477. 휴게소 세우기"
+date: "BOJ 1477"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-1477"
+---
+
 [문제 바로가기](https://boj.kr/1477)
 
 ```c++

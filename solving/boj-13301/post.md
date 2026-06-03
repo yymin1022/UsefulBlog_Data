@@ -1,3 +1,11 @@
+---
+title: "13301. 타일 장식물"
+date: "BOJ 13301"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-13301"
+---
+
 [문제 바로가기](https://boj.kr/13301)
 
 ```c++

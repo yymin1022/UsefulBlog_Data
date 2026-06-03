@@ -1,3 +1,11 @@
+---
+title: "2309.  일곱 난쟁이"
+date: "BOJ 2309"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-2309"
+---
+
 [문제 바로가기](https://boj.kr/2309)
 
 ```c++

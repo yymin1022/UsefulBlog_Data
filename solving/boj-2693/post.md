@@ -1,3 +1,11 @@
+---
+title: "2693. N번째 큰 수"
+date: "BOJ 2693"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-2693"
+---
+
 [문제 바로가기](https://boj.kr/2693)
 
 ```c++

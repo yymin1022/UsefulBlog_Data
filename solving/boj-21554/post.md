@@ -1,3 +1,11 @@
+---
+title: "21554. 마법의 돌 장난감"
+date: "BOJ 21554"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-21554"
+---
+
 [문제 바로가기](https://boj.kr/21554)
 
 ```c++

@@ -1,3 +1,11 @@
+---
+title: "29700. 우당탕탕 영화예매"
+date: "BOJ 29700"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-29700"
+---
+
 [문제 바로가기](https://boj.kr/29700)
 
 ```c++

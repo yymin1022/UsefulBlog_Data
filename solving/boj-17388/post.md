@@ -1,3 +1,11 @@
+---
+title: "17388. 와글와글 숭고한"
+date: "BOJ 17388"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-17388"
+---
+
 [문제 바로가기](https://boj.kr/17388)
 
 ```c++

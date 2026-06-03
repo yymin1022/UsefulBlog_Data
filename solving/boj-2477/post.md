@@ -1,3 +1,11 @@
+---
+title: "2477.  참외밭"
+date: "BOJ 2477"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-2477"
+---
+
 [문제 바로가기](https://boj.kr/2477)
 
 ```c++

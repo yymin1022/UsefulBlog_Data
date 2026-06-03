@@ -1,3 +1,11 @@
+---
+title: "1915. 가장 큰 정사각형"
+date: "BOJ 1915"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-1915"
+---
+
 [문제 바로가기](https://boj.kr/1915)
 
 ```c++

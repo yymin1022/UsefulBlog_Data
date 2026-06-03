@@ -1,3 +1,11 @@
+---
+title: "2643. 색종이 올려 놓기"
+date: "BOJ 2643"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-2643"
+---
+
 [문제 바로가기](https://boj.kr/2643)
 
 ```c++

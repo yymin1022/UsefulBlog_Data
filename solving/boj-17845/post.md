@@ -1,3 +1,11 @@
+---
+title: "17845. 수강 과목"
+date: "BOJ 17845"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-17845"
+---
+
 [문제 바로가기](https://boj.kr/17845)
 
 ```c++

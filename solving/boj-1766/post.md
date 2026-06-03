@@ -1,3 +1,11 @@
+---
+title: "1766. 문제집"
+date: "BOJ 1766"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-1766"
+---
+
 [문제 바로가기](https://boj.kr/1766)
 
 ```c++

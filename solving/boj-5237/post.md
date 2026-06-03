@@ -1,3 +1,11 @@
+---
+title: "5237. Connected or Not Connected"
+date: "BOJ 5237"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-5237"
+---
+
 [문제 바로가기](https://boj.kr/5237)
 
 ```c++

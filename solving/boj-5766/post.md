@@ -1,3 +1,11 @@
+---
+title: "5766. 할아버지는 유명해!"
+date: "BOJ 5766"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-5766"
+---
+
 [문제 바로가기](https://boj.kr/5766)
 
 ```c++

@@ -1,3 +1,11 @@
+---
+title: "3054. 피터팬 프레임"
+date: "BOJ 3054"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-3054"
+---
+
 [문제 바로가기](https://boj.kr/3054)
 
 ```c++

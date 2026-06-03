@@ -1,3 +1,11 @@
+---
+title: "9342. 염색체"
+date: "BOJ 9342"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-9342"
+---
+
 [문제 바로가기](https://boj.kr/9342)
 
 ```c++

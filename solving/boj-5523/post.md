@@ -1,3 +1,11 @@
+---
+title: "5523. 경기 결과"
+date: "BOJ 5523"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-5523"
+---
+
 [문제 바로가기](https://boj.kr/5523)
 
 ```c++

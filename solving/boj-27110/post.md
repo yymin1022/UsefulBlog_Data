@@ -1,3 +1,11 @@
+---
+title: "27110. 특식 배부"
+date: "BOJ 27110"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-27110"
+---
+
 [문제 바로가기](https://boj.kr/27110)
 
 ```c++

@@ -1,3 +1,11 @@
+---
+title: "11650.  좌표 정렬하기"
+date: "BOJ 11650"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-11650"
+---
+
 [문제 바로가기](https://boj.kr/11650)
 
 ```c++

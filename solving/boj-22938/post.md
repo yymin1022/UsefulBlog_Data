@@ -1,3 +1,11 @@
+---
+title: "22938. 백발백준하는 명사수"
+date: "BOJ 22938"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-22938"
+---
+
 [문제 바로가기](https://boj.kr/22938)
 
 ```c++

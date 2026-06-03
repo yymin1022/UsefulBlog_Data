@@ -1,3 +1,11 @@
+---
+title: "2480.  주사위 세개"
+date: "BOJ 2480"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-2480"
+---
+
 [문제 바로가기](https://boj.kr/2480)
 
 ```c++

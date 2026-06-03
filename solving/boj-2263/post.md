@@ -1,3 +1,11 @@
+---
+title: "2263. 트리의 순회"
+date: "BOJ 2263"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-2263"
+---
+
 [문제 바로가기](https://boj.kr/2263)
 
 ```c++

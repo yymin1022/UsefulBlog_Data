@@ -1,3 +1,11 @@
+---
+title: "32185. 꿈 열정 나눔"
+date: "BOJ 32185"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-32185"
+---
+
 [문제 바로가기](https://boj.kr/32185)
 
 ```c++

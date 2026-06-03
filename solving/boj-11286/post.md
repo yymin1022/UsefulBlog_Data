@@ -1,3 +1,11 @@
+---
+title: "11286.  절댓값 힙"
+date: "BOJ 11286"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-11286"
+---
+
 [문제 바로가기](https://boj.kr/11286)
 
 ```c++

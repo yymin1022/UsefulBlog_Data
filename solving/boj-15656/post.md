@@ -1,3 +1,11 @@
+---
+title: "15656.  N과 M (7)"
+date: "BOJ 15656"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-15656"
+---
+
 [문제 바로가기](https://boj.kr/15656)
 
 ```c++

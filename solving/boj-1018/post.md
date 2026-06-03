@@ -1,3 +1,11 @@
+---
+title: "1018.  체스판 다시 칠하기"
+date: "BOJ 1018"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-1018"
+---
+
 [문제 바로가기](https://boj.kr/1018)
 
 ```c++

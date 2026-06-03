@@ -1,3 +1,11 @@
+---
+title: "12018. Yonsei TOTO"
+date: "BOJ 12018"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-12018"
+---
+
 [문제 바로가기](https://boj.kr/12018)
 
 ```c++

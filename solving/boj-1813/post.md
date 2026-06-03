@@ -1,3 +1,11 @@
+---
+title: "1813. 논리학 교수"
+date: "BOJ 1813"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-1813"
+---
+
 [문제 바로가기](https://boj.kr/1813)
 
 ```c++

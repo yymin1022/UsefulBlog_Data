@@ -1,3 +1,11 @@
+---
+title: "2798.  블랙잭"
+date: "BOJ 2798"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-2798"
+---
+
 [문제 바로가기](https://boj.kr/2798)
 
 ```c++

@@ -1,3 +1,11 @@
+---
+title: "6118. 숨바꼭질"
+date: "BOJ 6118"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-6118"
+---
+
 [문제 바로가기](https://boj.kr/6118)
 
 ```c++

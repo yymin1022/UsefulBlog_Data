@@ -1,3 +1,11 @@
+---
+title: "25600. Triathlon"
+date: "BOJ 25600"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-25600"
+---
+
 [문제 바로가기](https://boj.kr/25600)
 
 ```c++

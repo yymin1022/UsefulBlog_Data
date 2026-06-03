@@ -1,3 +1,11 @@
+---
+title: "25644. 최대 상승"
+date: "BOJ 25644"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-25644"
+---
+
 [문제 바로가기](https://boj.kr/25644)
 
 ```c++

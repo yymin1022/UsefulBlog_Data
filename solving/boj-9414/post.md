@@ -1,3 +1,11 @@
+---
+title: "9414. 프로그래밍 대회 전용 부지"
+date: "BOJ 9414"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-9414"
+---
+
 [문제 바로가기](https://boj.kr/9414)
 
 ```c++

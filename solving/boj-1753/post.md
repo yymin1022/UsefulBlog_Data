@@ -1,3 +1,11 @@
+---
+title: "1753.  최단경로"
+date: "BOJ 1753"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-1753"
+---
+
 [문제 바로가기](https://boj.kr/1753)
 
 ```c++

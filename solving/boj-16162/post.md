@@ -1,3 +1,11 @@
+---
+title: "16162. 가희와 3단 고음"
+date: "BOJ 16162"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-16162"
+---
+
 [문제 바로가기](https://boj.kr/16162)
 
 ```c++

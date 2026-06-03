@@ -1,3 +1,11 @@
+---
+title: "3052.  나머지"
+date: "BOJ 3052"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-3052"
+---
+
 [문제 바로가기](https://boj.kr/3052)
 
 ```c

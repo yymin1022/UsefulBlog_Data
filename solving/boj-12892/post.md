@@ -1,3 +1,11 @@
+---
+title: "12892. 생일 선물"
+date: "BOJ 12892"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-12892"
+---
+
 [문제 바로가기](https://boj.kr/12892)
 
 ```c++

@@ -1,3 +1,11 @@
+---
+title: "17144. 미세먼지 안녕!"
+date: "BOJ 17144"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-17144"
+---
+
 [문제 바로가기](https://boj.kr/17144)
 
 ```c++

@@ -1,3 +1,11 @@
+---
+title: "17254. 키보드 이벤트"
+date: "BOJ 17254"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-17254"
+---
+
 [문제 바로가기](https://boj.kr/17254)
 
 ```c++

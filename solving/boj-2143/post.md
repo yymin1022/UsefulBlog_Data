@@ -1,3 +1,11 @@
+---
+title: "2143. 두 배열의 합"
+date: "BOJ 2143"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-2143"
+---
+
 [문제 바로가기](https://boj.kr/2143)
 
 ```c++

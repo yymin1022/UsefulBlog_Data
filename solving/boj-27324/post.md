@@ -1,3 +1,11 @@
+---
+title: "27324. ゾロ目 (Same Numbers)"
+date: "BOJ 27324"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-27324"
+---
+
 [문제 바로가기](https://boj.kr/27324)
 
 ```c++

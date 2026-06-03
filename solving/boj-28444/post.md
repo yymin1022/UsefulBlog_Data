@@ -1,3 +1,11 @@
+---
+title: "28444. HI-ARC=?"
+date: "BOJ 28444"
+tag: ["BOJ","C++"]
+isPinned: false
+url: "boj-28444"
+---
+
 [문제 바로가기](https://boj.kr/28444)
 
 ```c++

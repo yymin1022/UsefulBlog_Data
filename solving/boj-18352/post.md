@@ -1,3 +1,11 @@
+---
+title: "18352.  특정 거리의 도시 찾기"
+date: "BOJ 18352"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-18352"
+---
+
 [문제 바로가기](https://boj.kr/18352)
 
 ```c++

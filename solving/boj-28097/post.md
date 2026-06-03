@@ -1,3 +1,11 @@
+---
+title: "28097. 모범생 포닉스"
+date: "BOJ 28097"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-28097"
+---
+
 [문제 바로가기](https://boj.kr/28097)
 
 ```c++

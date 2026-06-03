@@ -1,3 +1,11 @@
+---
+title: "20922. 겹치는 건 싫어"
+date: "BOJ 20922"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-20922"
+---
+
 [문제 바로가기](https://boj.kr/20922)
 
 ```c++

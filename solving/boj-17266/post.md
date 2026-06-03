@@ -1,3 +1,11 @@
+---
+title: "17266. 어두운 굴다리"
+date: "BOJ 17266"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-17266"
+---
+
 [문제 바로가기](https://boj.kr/17266)
 
 ```c++

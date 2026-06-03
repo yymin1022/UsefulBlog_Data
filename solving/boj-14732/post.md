@@ -1,3 +1,11 @@
+---
+title: "14732. 행사장 대여 (Small)"
+date: "BOJ 14732"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-14732"
+---
+
 [문제 바로가기](https://boj.kr/14732)
 
 ```c++

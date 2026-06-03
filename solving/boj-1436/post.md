@@ -1,3 +1,11 @@
+---
+title: "1436.  영화감독 숌"
+date: "BOJ 1436"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-1436"
+---
+
 [문제 바로가기](https://boj.kr/1436)
 
 ```c++

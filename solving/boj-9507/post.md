@@ -1,3 +1,11 @@
+---
+title: "9507. Generations of Tribbles"
+date: "BOJ 9507"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-9507"
+---
+
 [문제 바로가기](https://boj.kr/9507)
 
 ```c++

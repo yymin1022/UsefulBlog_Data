@@ -1,3 +1,11 @@
+---
+title: "19622. 회의실 배정 3"
+date: "BOJ 19622"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-19622"
+---
+
 [문제 바로가기](https://boj.kr/19622)
 
 ```c++

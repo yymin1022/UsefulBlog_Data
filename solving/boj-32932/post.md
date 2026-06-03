@@ -1,3 +1,11 @@
+---
+title: "32932. 드론 조작"
+date: "BOJ 32932"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-32932"
+---
+
 [문제 바로가기](https://boj.kr/32932)
 
 ```c++

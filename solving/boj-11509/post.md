@@ -1,3 +1,11 @@
+---
+title: "11509. 풍선 맞추기"
+date: "BOJ 11509"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-11509"
+---
+
 [문제 바로가기](https://boj.kr/11509)
 
 ```c++

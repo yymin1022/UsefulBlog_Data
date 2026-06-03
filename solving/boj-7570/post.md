@@ -1,3 +1,11 @@
+---
+title: "7570. 줄 세우기"
+date: "BOJ 7570"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-7570"
+---
+
 [문제 바로가기](https://boj.kr/7570)
 
 ```c++

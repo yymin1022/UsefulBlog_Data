@@ -1,3 +1,11 @@
+---
+title: "10039.  평균 점수"
+date: "BOJ 10039"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-10039"
+---
+
 [문제 바로가기](https://boj.kr/10039)
 
 ```c++

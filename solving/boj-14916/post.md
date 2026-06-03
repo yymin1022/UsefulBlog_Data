@@ -1,3 +1,11 @@
+---
+title: "14916. 거스름돈"
+date: "BOJ 14916"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-14916"
+---
+
 [문제 바로가기](https://boj.kr/14916)
 
 ```c++

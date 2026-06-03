@@ -1,3 +1,11 @@
+---
+title: "25706. 자전거 묘기"
+date: "BOJ 25706"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-25706"
+---
+
 [문제 바로가기](https://boj.kr/25706)
 
 ```c++

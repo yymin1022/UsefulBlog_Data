@@ -1,3 +1,11 @@
+---
+title: "1193.  분수찾기"
+date: "BOJ 1193"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-1193"
+---
+
 [문제 바로가기](https://boj.kr/1193)
 
 ```c++

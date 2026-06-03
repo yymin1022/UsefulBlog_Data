@@ -1,3 +1,11 @@
+---
+title: "9324. 진짜 메시지"
+date: "BOJ 9324"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-9324"
+---
+
 [문제 바로가기](https://boj.kr/9324)
 
 ```c++

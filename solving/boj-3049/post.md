@@ -1,3 +1,11 @@
+---
+title: "3049. 다각형의 대각선"
+date: "BOJ 3049"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-3049"
+---
+
 [문제 바로가기](https://boj.kr/3049)
 
 ```c++

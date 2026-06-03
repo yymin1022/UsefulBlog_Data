@@ -1,3 +1,11 @@
+---
+title: "3077. 임진왜란"
+date: "BOJ 3077"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-3077"
+---
+
 [문제 바로가기](https://boj.kr/3077)
 
 ```c++

@@ -1,3 +1,11 @@
+---
+title: "1920.  수 찾기"
+date: "BOJ 1920"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-1920"
+---
+
 [문제 바로가기](https://boj.kr/1920)
 
 ```c++

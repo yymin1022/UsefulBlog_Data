@@ -1,3 +1,11 @@
+---
+title: "7795.  먹을 것인가 먹힐 것인가"
+date: "BOJ 7795"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-7795"
+---
+
 [문제 바로가기](https://boj.kr/7795)
 
 ```c++

@@ -1,3 +1,11 @@
+---
+title: "17256.  달달함이 넘쳐흘러"
+date: "BOJ 17256"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-17256"
+---
+
 [문제 바로가기](https://boj.kr/17256)
 
 ```c++

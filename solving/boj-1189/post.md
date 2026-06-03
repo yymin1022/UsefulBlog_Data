@@ -1,3 +1,11 @@
+---
+title: "1189. 컴백홈"
+date: "BOJ 1189"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-1189"
+---
+
 [문제 바로가기](https://boj.kr/1189)
 
 ```c++

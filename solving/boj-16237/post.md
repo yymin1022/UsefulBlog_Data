@@ -1,3 +1,11 @@
+---
+title: "16237. 이삿짐센터"
+date: "BOJ 16237"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-16237"
+---
+
 [문제 바로가기](https://boj.kr/16237)
 
 ```c++

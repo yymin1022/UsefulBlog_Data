@@ -1,3 +1,11 @@
+---
+title: "10768. 특별한 날"
+date: "BOJ 10768"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-10768"
+---
+
 [문제 바로가기](https://boj.kr/10768)
 
 ```c++

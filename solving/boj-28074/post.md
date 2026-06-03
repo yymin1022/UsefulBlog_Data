@@ -1,3 +1,11 @@
+---
+title: "28074. 모비스"
+date: "BOJ 28074"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-28074"
+---
+
 [문제 바로가기](https://boj.kr/28074)
 
 ```c++

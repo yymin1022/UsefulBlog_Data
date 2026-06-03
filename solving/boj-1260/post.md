@@ -1,3 +1,11 @@
+---
+title: "1260.  DFS와 BFS"
+date: "BOJ 1260"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-1260"
+---
+
 [문제 바로가기](https://boj.kr/1260)
 
 ```c++

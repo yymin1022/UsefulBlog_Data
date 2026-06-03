@@ -1,3 +1,11 @@
+---
+title: "15964.  이상한 기호"
+date: "BOJ 15964"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-15964"
+---
+
 [문제 바로가기](https://boj.kr/15964)
 
 ```c++

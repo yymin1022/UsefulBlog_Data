@@ -1,3 +1,11 @@
+---
+title: "1967.  트리의 지름"
+date: "BOJ 1967"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-1967"
+---
+
 [문제 바로가기](https://boj.kr/1967)
 
 ```c++

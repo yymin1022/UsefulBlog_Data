@@ -1,3 +1,11 @@
+---
+title: "4172. sqrt log sin"
+date: "BOJ 4172"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-4172"
+---
+
 [문제 바로가기](https://boj.kr/4172)
 
 ```c++

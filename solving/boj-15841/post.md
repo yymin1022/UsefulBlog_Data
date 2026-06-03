@@ -1,3 +1,11 @@
+---
+title: "15841. Virus Outbreak"
+date: "BOJ 15841"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-15841"
+---
+
 [문제 바로가기](https://boj.kr/15841)
 
 ```python

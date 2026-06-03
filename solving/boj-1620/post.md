@@ -1,3 +1,11 @@
+---
+title: "1620.  나는야 포켓몬 마스터 이다솜"
+date: "BOJ 1620"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-1620"
+---
+
 [문제 바로가기](https://boj.kr/1620)
 
 ```c++

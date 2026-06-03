@@ -1,3 +1,11 @@
+---
+title: "1461. 도서관"
+date: "BOJ 1461"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-1461"
+---
+
 [문제 바로가기](https://boj.kr/1461)
 
 ```c++

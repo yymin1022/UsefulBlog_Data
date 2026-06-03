@@ -1,3 +1,11 @@
+---
+title: "2583.  영역 구하기"
+date: "BOJ 2583"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-2583"
+---
+
 [문제 바로가기](https://boj.kr/2583)
 
 ```c++

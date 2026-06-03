@@ -1,3 +1,11 @@
+---
+title: "2563. 색종이"
+date: "BOJ 2563"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-2563"
+---
+
 [문제 바로가기](https://boj.kr/2563)
 
 ```c++

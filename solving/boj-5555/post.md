@@ -1,3 +1,11 @@
+---
+title: "5555. 반지"
+date: "BOJ 5555"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-5555"
+---
+
 [문제 바로가기](https://boj.kr/5555)
 
 ```c++

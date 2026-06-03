@@ -1,3 +1,11 @@
+---
+title: "7785.  회사에 있는 사람"
+date: "BOJ 7785"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-7785"
+---
+
 [문제 바로가기](https://boj.kr/7785)
 
 ```c++

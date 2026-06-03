@@ -1,3 +1,11 @@
+---
+title: "32369. 양파 실험"
+date: "BOJ 32369"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-32369"
+---
+
 [문제 바로가기](https://boj.kr/32369)
 
 ```c++

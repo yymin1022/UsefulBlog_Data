@@ -1,3 +1,11 @@
+---
+title: "1927.  최소 힙"
+date: "BOJ 1927"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-1927"
+---
+
 [문제 바로가기](https://boj.kr/1927)
 
 ```c++

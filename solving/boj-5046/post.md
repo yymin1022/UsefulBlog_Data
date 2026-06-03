@@ -1,3 +1,11 @@
+---
+title: "5046. 전국 대학생 프로그래밍 대회 동아리 연합"
+date: "BOJ 5046"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-5046"
+---
+
 [문제 바로가기](https://boj.kr/5046)
 
 ```c++

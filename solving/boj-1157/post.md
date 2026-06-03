@@ -1,3 +1,11 @@
+---
+title: "1157.  단어 공부"
+date: "BOJ 1157"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-1157"
+---
+
 [문제 바로가기](https://boj.kr/1157)
 
 ```c

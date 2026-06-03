@@ -1,3 +1,11 @@
+---
+title: "11549. Identifying tea"
+date: "BOJ 11549"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-11549"
+---
+
 [문제 바로가기](https://boj.kr/11549)
 
 ```c++

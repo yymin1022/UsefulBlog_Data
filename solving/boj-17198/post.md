@@ -1,3 +1,11 @@
+---
+title: "17198. Bucket Brigade"
+date: "BOJ 17198"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-17198"
+---
+
 [문제 바로가기](https://boj.kr/17198)
 
 ```c++

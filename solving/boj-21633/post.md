@@ -1,3 +1,11 @@
+---
+title: "21633. Bank Transfer"
+date: "BOJ 21633"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-21633"
+---
+
 [문제 바로가기](https://boj.kr/21633)
 
 ```c++

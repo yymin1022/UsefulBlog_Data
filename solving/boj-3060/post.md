@@ -1,3 +1,11 @@
+---
+title: "3060. 욕심쟁이 돼지"
+date: "BOJ 3060"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-3060"
+---
+
 [문제 바로가기](https://boj.kr/3060)
 
 ```c++

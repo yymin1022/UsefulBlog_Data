@@ -1,3 +1,11 @@
+---
+title: "24039. 2021은 무엇이 특별할까?"
+date: "BOJ 24039"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-24039"
+---
+
 [문제 바로가기](https://boj.kr/24039)
 
 ```c++

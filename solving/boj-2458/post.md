@@ -1,3 +1,11 @@
+---
+title: "2458, 키 순서"
+date: "BOJ 2458"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-2458"
+---
+
 [문제 바로가기](https://boj.kr/2458)
 
 ```c++

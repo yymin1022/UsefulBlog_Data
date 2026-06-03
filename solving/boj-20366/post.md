@@ -1,3 +1,11 @@
+---
+title: "20366. 같이 눈사람 만들래?"
+date: "BOJ 20366"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-20366"
+---
+
 [문제 바로가기](https://boj.kr/20366)
 
 ```c++

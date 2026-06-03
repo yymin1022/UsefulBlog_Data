@@ -1,3 +1,11 @@
+---
+title: "18186. 라면 사기 (Large)"
+date: "BOJ 18186"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-18186"
+---
+
 [문제 바로가기](https://boj.kr/18186)
 
 ```c++

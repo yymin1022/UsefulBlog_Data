@@ -1,3 +1,11 @@
+---
+title: "24082.  立方体 (Cube)"
+date: "BOJ 24082"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-24082"
+---
+
 [문제 바로가기](https://boj.kr/24082)
 
 ```c++

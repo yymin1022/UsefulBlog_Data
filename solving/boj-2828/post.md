@@ -1,3 +1,11 @@
+---
+title: "2828. 사과 담기 게임"
+date: "BOJ 2828"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-2828"
+---
+
 [문제 바로가기](https://boj.kr/2828)
 
 ```c++

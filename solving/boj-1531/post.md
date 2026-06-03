@@ -1,3 +1,11 @@
+---
+title: "1531. 투명"
+date: "BOJ 1531"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-1531"
+---
+
 [문제 바로가기](https://boj.kr/1531)
 
 ```c++

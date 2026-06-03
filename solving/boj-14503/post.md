@@ -1,3 +1,11 @@
+---
+title: "14503.  로봇 청소기"
+date: "BOJ 14503"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-14503"
+---
+
 [문제 바로가기](https://boj.kr/14503)
 
 ```c++

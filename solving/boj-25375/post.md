@@ -1,3 +1,11 @@
+---
+title: "25375. 아주 간단한 문제"
+date: "BOJ 25375"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-25375"
+---
+
 [문제 바로가기](https://boj.kr/25375)
 
 ```c++

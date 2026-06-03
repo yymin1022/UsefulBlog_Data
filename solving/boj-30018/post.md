@@ -1,3 +1,11 @@
+---
+title: "30018. 타슈"
+date: "BOJ 30018"
+tag: ["BOJ","C++"]
+isPinned: true
+url: "boj-30018"
+---
+
 [문제 바로가기](https://boj.kr/30018)
 
 ```c++
