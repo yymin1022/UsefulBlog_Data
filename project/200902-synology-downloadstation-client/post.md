@@ -1,3 +1,11 @@
+---
+title: "Synology DownloadStation 클라이언트"
+date: "Sep 02, 2020"
+tag: ["Python","PyQT5"]
+isPinned: false
+url: "200902-synology-downloadstation-client"
+---
+
 ﻿<img src="login.png" width="30%" />
 <img src="main_1.png" width="30%" />
 <img src="main_2.png" width="30%" />

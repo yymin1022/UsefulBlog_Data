@@ -1,4 +1,12 @@
-﻿<img src="app_1.jpg" width="30%" />
+---
+title: "카카오 이모티콘 텔레그램 스티커 컨버터"
+date: "July 18, 2021"
+tag: ["Python","Telegram"]
+isPinned: true
+url: "210718-kakao-emoticon-to-telegram-sticker"
+---
+
+<img src="app_1.jpg" width="30%" />
 <img src="app_2.jpg" width="30%" />
 <img src="app_3.jpg" width="30%" />
 

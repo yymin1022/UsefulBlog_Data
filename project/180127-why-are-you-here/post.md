@@ -1,3 +1,11 @@
+---
+title: "너 왜 거기있어"
+date: "Jan 27, 2018"
+tag: ["Android","Java"]
+isPinned: false
+url: "180127-why-are-you-here"
+---
+
 <img src="app_1.png" width="30%" />
 <img src="app_2.png" width="30%" />
 <img src="app_3.png" width="30%" />

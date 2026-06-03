@@ -1,3 +1,11 @@
+---
+title: "STONE Manager"
+date: "Aug 04, 2020"
+tag: ["Java","Swing","Windows"]
+isPinned: false
+url: "200804-stone-manager"
+---
+
 <img src="program_main.png" width="30%" />
 <img src="program_run_1.png" width="30%" />
 <img src="program_run_2.png" width="30%" />

@@ -1,3 +1,11 @@
+---
+title: "IM-100 음악 플레이어"
+date: "Aug 24, 2016"
+tag: ["Android","Port","Smali"]
+isPinned: false
+url: "160824-pantech-im100-music"
+---
+
 <img src="app_1.png" width="30%" />
 <img src="app_2.png" width="30%" />
 <img src="app_3.png" width="30%" />

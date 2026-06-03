@@ -1,3 +1,11 @@
+---
+title: "와.. API 서버"
+date: "Jul 29, 2020"
+tag: ["Python","API","Flask","Web"]
+isPinned: false
+url: "210729-wa-api"
+---
+
 <img src="Usage_KakaoTalk.png" width="30%" />
 <img src="Usage_Telegram.png" width="30%" />
 

@@ -1,3 +1,11 @@
+---
+title: "Always On Display"
+date: "Oct 27, 2019"
+tag: ["Android","Java"]
+isPinned: false
+url: "191027-always-on-display"
+---
+
 ﻿<img src="app_1.png" width="30%" />
 <img src="app_2.png" width="30%" />
 

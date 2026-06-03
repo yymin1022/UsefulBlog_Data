@@ -1,3 +1,11 @@
+---
+title: "IM-100 키보드"
+date: "Aug 27, 2016"
+tag: ["Android","Port","Smali"]
+isPinned: false
+url: "160827-pantech-im100-keyboard"
+---
+
 <img src="app_1.png" width="30%" />
 <img src="app_2.png" width="30%" />
 

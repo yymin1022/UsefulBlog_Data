@@ -1,3 +1,11 @@
+---
+title: "Soul Rest"
+date: "Oct 04, 2020"
+tag: ["Android","Java"]
+isPinned: true
+url: "201004-soul-rest"
+---
+
 <img src="app_1.jpg" width="30%" />
 <img src="app_2.jpg" width="30%" />
 <img src="app_3.jpg" width="30%" />

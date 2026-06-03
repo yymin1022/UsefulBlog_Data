@@ -1,3 +1,11 @@
+---
+title: "택시미터기"
+date: "Jul 27, 2023"
+tag: ["Android","Kotlin"]
+isPinned: true
+url: "230727-taxi-meter"
+---
+
 <img src="app_main.png" width="30%" height="30%" alt="Screenshot"></img>
 <img src="app_meter_1.png" width="30%" height="30%" alt="Screenshot"></img>
 <img src="app_meter_2.png" width="30%" height="30%" alt="Screenshot"></img>
