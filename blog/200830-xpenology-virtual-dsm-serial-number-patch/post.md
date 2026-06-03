@@ -1,3 +1,11 @@
+---
+title: "XPEnology 가상DSM 시리얼로 정품 Synology 기능 사용하기"
+date: "Aug 30, 2020"
+tag: ["Synology"]
+isPinned: false
+url: "200830-xpenology-virtual-dsm-serial-number-patch"
+---
+
 안녕하세요,<br/>
 대학생 1인 개발자로 활동중인 LR입니다!
 

@@ -1,3 +1,11 @@
+---
+title: "SKT DEVOCEAN YOUNG 2기 발대식 후기"
+date: "Mar 04, 2023"
+tag: ["SKT","DEVOCEAN","대학생","대외활동"]
+isPinned: false
+url: "230304-devocean-start"
+---
+
 안녕하세요!<br/>
 대학생 1인 개발자로 활동중인 LR입니다!
 

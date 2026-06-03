@@ -1,3 +1,11 @@
+---
+title: "Project MINI-V: Intro"
+date: "May 22. 2026"
+tag: ["Android","LLaMA","OS"]
+isPinned: true
+url: "260522-miniv-android-intro"
+---
+
 MINI-V Android 프로젝트는 LLaMA 기반의 AI 서비스를 탑재한
 Custom Android 프로젝트입니다.
 

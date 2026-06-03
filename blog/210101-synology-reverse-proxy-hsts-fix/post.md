@@ -1,3 +1,11 @@
+---
+title: "Synology 역방향 프록시 HSTS 문제 해결하기"
+date: "Jan 1, 2021"
+tag: ["Synology"]
+isPinned: false
+url: "210101-synology-reverse-proxy-hsts-fix"
+---
+
 안녕하세요!<br/>
 대학생 1인 개발자로 활동중인 LR입니다!
 

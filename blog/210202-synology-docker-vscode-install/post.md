@@ -1,3 +1,11 @@
+---
+title: "Docker에 VSCode 설치해서 원격으로 코딩하기"
+date: "Feb 2, 2021"
+tag: ["OS"]
+isPinned: true
+url: "210202-synology-docker-vscode-install"
+---
+
 안녕하세요!<br/>
 대학생 1인 개발자로 활동중인 LR입니다!
 

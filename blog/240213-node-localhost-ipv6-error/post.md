@@ -1,3 +1,11 @@
+---
+title: "Axios에서 Localhost에 요청할 때 이슈 해결하기"
+date: "Feb 13. 2024"
+tag: ["Nodejs","Nextjs","Typescript"]
+isPinned: false
+url: "240213-node-localhost-ipv6-error"
+---
+
 안녕하세요!<br>
 대학생 1인개발자 LR입니다!
 

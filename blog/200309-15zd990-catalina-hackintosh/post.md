@@ -1,3 +1,11 @@
+---
+title: "LG그램15 2019 macOS 10.15 Catalina 커스텀맥"
+date: "Mar 9, 2020"
+tag: ["OS"]
+isPinned: false
+url: "200309-15zd990-catalina-hackintosh"
+---
+
 안녕하세요,<br/>
 대학생 1인 앱개발자로 활동중인 LR입니다!
 

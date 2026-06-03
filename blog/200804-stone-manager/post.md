@@ -1,3 +1,11 @@
+---
+title: "Pantech STONE Manager"
+date: "Aug 4, 2020"
+tag: ["Development"]
+isPinned: false
+url: "200804-stone-manager"
+---
+
 안녕하세요,<br/>
 대학생 1인개발자로 활동중인 LR입니다!
 

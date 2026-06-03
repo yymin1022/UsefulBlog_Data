@@ -1,3 +1,11 @@
+---
+title: "블로그 이전 안내"
+date: "Jan 24, 2021"
+tag: ["Notice"]
+isPinned: false
+url: "210124-blog-moving"
+---
+
 안녕하세요,<br/>
 대학생 1인 개발자로 활동중인 LR입니다!
 

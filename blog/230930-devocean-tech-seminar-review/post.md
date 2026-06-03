@@ -1,3 +1,11 @@
+---
+title: "DEVOCEAN 9월 Tech 세미나 후기"
+date: "Sep 30. 2023"
+tag: ["DEVOCEAN","테크세미나","SKT","SKHynix"]
+isPinned: false
+url: "230930-devocean-tech-seminar-review"
+---
+
 안녕하세요!<br/>
 DEVOCEAN YOUNG 2기 유용민입니다.
 

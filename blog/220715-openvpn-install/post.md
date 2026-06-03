@@ -1,3 +1,11 @@
+---
+title: "Open VPN 구축으로 외부에서 내부망 접근하기"
+date: "Jul 15, 2022"
+tag: ["openvpn","odroid","linux","network"]
+isPinned: true
+url: "220715-openvpn-install"
+---
+
 안녕하세요!<br/>
 대학생 1인 개발자로 활동중인 LR입니다!
 

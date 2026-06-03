@@ -1,3 +1,11 @@
+---
+title: "XPEnology 정보센터의 CPU정보를 실제 CPU 정보로 변경하기"
+date: "Dec 24, 2020"
+tag: ["Synology"]
+isPinned: false
+url: "201224-xpenology-cpu-info-change"
+---
+
 안녕하세요!<br/>
 대학생 1인 개발자로 활동중인 LR입니다!
 

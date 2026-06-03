@@ -1,3 +1,11 @@
+---
+title: "macOS brew 설치 시 Not Found 오류 해결방법"
+date: "June 27, 2022"
+tag: ["mac","zsh","brew"]
+isPinned: false
+url: "220627-mac-zsh-brew-not-found"
+---
+
 안녕하세요!<br/>
 대학생 1인 개발자로 활동중인 LR입니다!
 

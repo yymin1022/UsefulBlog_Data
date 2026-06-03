@@ -1,3 +1,11 @@
+---
+title: "Ubuntu 소프트웨어 서버 변경하기"
+date: "Feb 6, 2020"
+tag: ["OS"]
+isPinned: false
+url: "200206-ubuntu-software-server-change"
+---
+
 안녕하세요,<br/>
 대학생 1인 앱개발자 LR입니다!
 

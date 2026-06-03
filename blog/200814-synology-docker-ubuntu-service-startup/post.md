@@ -1,3 +1,11 @@
+---
+title: "Docker Ubuntu 서비스 자동시작"
+date: "Aug 14, 2020"
+tag: ["OS"]
+isPinned: false
+url: "200814-synology-docker-ubuntu-service-startup"
+---
+
 안녕하세요,<br/>
 대학생 1인 개발자로 활동중인 LR입니다!​
 

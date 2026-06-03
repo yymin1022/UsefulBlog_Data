@@ -1,3 +1,11 @@
+---
+title: "Synology Docker 컨테이너 복원 시 오류 해결방법"
+date: "June 24, 2022"
+tag: ["Docker","Synology"]
+isPinned: false
+url: "220624-synology-docker-import-error"
+---
+
 안녕하세요!<br/>
 대학생 1인 개발자로 활동중인 LR입니다!
 

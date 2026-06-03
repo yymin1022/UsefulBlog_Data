@@ -1,3 +1,11 @@
+---
+title: "Syslog 통합서버 구축하기"
+date: "April 28, 2023"
+tag: ["linux","odroid","syslog","network"]
+isPinned: true
+url: "230428-rsyslog-install"
+---
+
 안녕하세요!<br/>
 대학생 1인 개발자로 활동중인 LR입니다!
 

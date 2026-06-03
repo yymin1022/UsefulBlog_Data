@@ -1,3 +1,11 @@
+---
+title: "DEVOCEAN YOUNG T.um 투어 후기"
+date: "Jul 27, 2023"
+tag: ["SKT","DEVOCEAN","대학생","대외활동","데보션영"]
+isPinned: false
+url: "230727-devocean-tum-tour-review"
+---
+
 안녕하세요!<br/>
 DEVOCEAN YOUNG 2기 유용민입니다.
 

@@ -1,3 +1,11 @@
+---
+title: "드래곤볼 에디션 : 아이폰X 직접조립 후기"
+date: "Apr 11, 2020"
+tag: ["Development"]
+isPinned: false
+url: "200404-iphone-x-assemble-project"
+---
+
 안녕하세요,<br/>
 대학생 1인 앱개발자로 활동중인 LR입니다!
 

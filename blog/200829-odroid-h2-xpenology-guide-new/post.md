@@ -1,3 +1,11 @@
+---
+title: "오드로이드 H2 XPEnology 6.2.3 최신버전 설치 가이드"
+date: "Aug 29, 2020"
+tag: ["Synology"]
+isPinned: false
+url: "200829-odroid-h2-xpenology-guide-new"
+---
+
 ​안녕하세요,<br/>
 대학생 1인 개발자로 활동중인 LR입니다!
 

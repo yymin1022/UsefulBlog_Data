@@ -1,3 +1,11 @@
+---
+title: "DEVOCEAN YOUNG 전용 8월 밋업 간단후기"
+date: "Aug 25, 2023"
+tag: ["SKT","DEVOCEAN","대학생","대외활동","데보션","대학생세미나","데보션영"]
+isPinned: false
+url: "230825-devocean-young-meetup-review"
+---
+
 안녕하세요!<br/>
 DEVOCEAN YOUNG 2기 유용민입니다.
 

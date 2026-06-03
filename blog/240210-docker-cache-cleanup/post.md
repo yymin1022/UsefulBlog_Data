@@ -1,3 +1,11 @@
+---
+title: "Docker 캐시 정리하기"
+date: "Feb 10, 2024"
+tag: ["Docker","Linux"]
+isPinned: false
+url: "240210-docker-cache-cleanup"
+---
+
 안녕하세요!<br>
 대학생 1인개발자 LR입니다!
 

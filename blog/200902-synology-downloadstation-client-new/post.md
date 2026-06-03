@@ -1,3 +1,11 @@
+---
+title: "Synology Download Station 클라이언트 V1.1"
+date: "Sep 2, 2020"
+tag: ["Development"]
+isPinned: false
+url: "200902-synology-downloadstation-client-new"
+---
+
 안녕하세요,<br/>
 대학생 1인 개발자로 활동중인 LR입니다!
 

@@ -1,3 +1,11 @@
+---
+title: "XPEnology 내부에서 synoboot 마운트하기"
+date: "Aug 30, 2020"
+tag: ["Synology"]
+isPinned: false
+url: "200830-xpenology-synoboot-mount"
+---
+
 안녕하세요,<br/>
 대학생 1인 개발자로 활동중인 LR입니다!
 

@@ -1,3 +1,11 @@
+---
+title: "Adguard Home로 광고차단 DNS 구축하기"
+date: "Jul 7, 2022"
+tag: ["adguard","dns","raspberrypi","linux"]
+isPinned: true
+url: "220707-adguard-home-install"
+---
+
 안녕하세요!<br/>
 대학생 1인 개발자로 활동중인 LR입니다!
 

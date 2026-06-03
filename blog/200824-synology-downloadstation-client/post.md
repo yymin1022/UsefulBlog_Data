@@ -1,3 +1,11 @@
+---
+title: "Synology Download Station 클라이언트 V1.0"
+date: "Aug 24, 2020"
+tag: ["Development"]
+isPinned: false
+url: "200824-synology-downloadstation-client"
+---
+
 __!! 2020년 9월 2일에 V1.1이 배포되었습니다.__
 
 __본 게시글은 사용법 확인을 위해서만 읽어주시고,__

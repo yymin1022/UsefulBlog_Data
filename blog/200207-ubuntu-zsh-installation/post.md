@@ -1,3 +1,11 @@
+---
+title: "Ubuntu 기본 쉘 zsh로 변경하고 커스텀하기"
+date: "Feb 7, 2020"
+tag: ["OS"]
+isPinned: false
+url: "200207-ubuntu-zsh-installation"
+---
+
 안녕하세요,<br/>
 대학생 1인 앱개발자 LR입니다!
 

@@ -1,3 +1,11 @@
+---
+title: "오드로이드 H2 XPEnology 설치 가이드"
+date: "Mar 11, 2020"
+tag: ["Synology"]
+isPinned: false
+url: "200311-odroid-h2-xpenology-guide"
+---
+
 안녕하세요,<br/>
 대학생 1인 앱개발자로 홛동중인<br/>
 LR입니다!
