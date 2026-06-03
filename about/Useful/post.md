@@ -1,3 +1,11 @@
+---
+title: "Useful한 IT블로그"
+date: "Hello, World!"
+tag: []
+isPinned: true
+url: "Useful"
+---
+
 ### Who am I?
 - 다양한 분야에 발을 걸친 T자형 인재가 되고싶은 1인 개발자
 - [VIMOSOFT](https://www.linkedin.com/company/%EB%B9%84%EB%AA%A8%EC%86%8C%ED%94%84%ED%8A%B8/) - [나의 첫 동영상 편집기, VLLO](https://play.google.com/store/apps/details?id=com.darinsoft.vimo) Android 개발자 (2025. 01. ~ )
