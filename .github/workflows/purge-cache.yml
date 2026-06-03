@@ -5,7 +5,10 @@ on:
     branches:
       - master
     paths:
-      - '**/*.md'
+      - 'blog/**/*.md'
+      - 'project/**/*.md'
+      - 'solving/**/*.md'
+      - 'about/**/*.md'
       - '**/*.png'
       - '**/*.jpg'
       - '**/*.jpeg'
@@ -17,6 +20,9 @@ on:
         required: false
         default: ''
 
+permissions:
+  contents: write
+
 jobs:
   purge:
     runs-on: ubuntu-latest
@@ -25,6 +31,28 @@ jobs:
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 18
+
+      - name: Generate posts.json
+        run: node generate_index.js
+
+      - name: Commit and push posts.json
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add posts.json
+          if ! git diff-index --quiet HEAD; then
+            git commit -m "chore: Auto-generate posts.json [skip ci]"
+            git push
+            echo "POSTS_JSON_UPDATED=true" >> $GITHUB_ENV
+          else
+            echo "No changes in posts.json"
+            echo "POSTS_JSON_UPDATED=false" >> $GITHUB_ENV
+          fi
 
       - name: Get changed files
         if: "${{ github.event.inputs.file_path == '' }}"
@@ -43,4 +71,10 @@ jobs:
               echo "Purging cache for $file"
               curl -s "https://purge.jsdelivr.net/gh/yymin1022/Blog_LR_Data@master/$file"
             done
+            # Always purge posts.json cache if it was updated
+            if [ "$POSTS_JSON_UPDATED" = "true" ]; then
+              echo "Purging cache for posts.json"
+              curl -s "https://purge.jsdelivr.net/gh/yymin1022/Blog_LR_Data@master/posts.json"
+            fi
           fi
+
