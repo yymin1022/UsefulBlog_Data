@@ -72,6 +72,19 @@
       "postURL": "200901-synology-jellyfin-install"
     },
     {
+      "postID": "260606-miniv-android-aidl-service",
+      "postTitle": "Project MINI-V: AIDL과 Android Service",
+      "postDate": "June 6. 2026",
+      "postTag": [
+        "Android",
+        "AIDL",
+        "AOSP",
+        "Service"
+      ],
+      "postIsPinned": false,
+      "postURL": "260606-miniv-android-aidl-service"
+    },
+    {
       "postID": "240213-node-localhost-ipv6-error",
       "postTitle": "Axios에서 Localhost에 요청할 때 이슈 해결하기",
       "postDate": "Feb 13. 2024",
