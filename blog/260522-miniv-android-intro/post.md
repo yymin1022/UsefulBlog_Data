@@ -52,3 +52,9 @@ MINI-V Android에서는 아래 오픈소스 레포지토리를 기반으로 Qual
 앞으로 MINI-V Android의 개발을 진행하며, 각 Layer 구현 과정을 포스팅으로 정리해 이곳에 모아둘 예정입니다.
 
 [MINI-V Android GitHub](https://github.com/MINI-V-Android)
+
+[MINI-V Android Intro](https://dev-lr.com/blog/260522-miniv-android-intro)
+
+[MINI-V Android AIDL Service](https://dev-lr.com/blog/260606-miniv-android-aidl-service)
+
+[MINI-V Android Service Test](https://dev-lr.com/blog/260608-miniv-android-service-test)
