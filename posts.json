@@ -85,6 +85,19 @@
       "postURL": "260606-miniv-android-aidl-service"
     },
     {
+      "postID": "260608-miniv-android-service-test",
+      "postTitle": "Project MINI-V: Android Service 테스트하기",
+      "postDate": "June 6. 2026",
+      "postTag": [
+        "Android",
+        "AIDL",
+        "AOSP",
+        "Service"
+      ],
+      "postIsPinned": false,
+      "postURL": "260608-miniv-android-service-test"
+    },
+    {
       "postID": "240213-node-localhost-ipv6-error",
       "postTitle": "Axios에서 Localhost에 요청할 때 이슈 해결하기",
       "postDate": "Feb 13. 2024",
