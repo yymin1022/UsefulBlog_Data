@@ -1,6 +1,6 @@
 ---
 title: "Project MINI-V: Android Service 테스트하기"
-date: "June 6. 2026"
+date: "June 8. 2026"
 tag: ["Android","AIDL","AOSP","Service"]
 isPinned: false
 url: "260608-miniv-android-service-test"
