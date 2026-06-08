@@ -38,3 +38,11 @@ yong@ubuntu-desktop:~$ adb shell service call miniv_ai 4
 현재까지 구현한 내용이 정상적으로 동작하고 있음을 확인해볼 수 있었습니다.
 
 다음 단계에서는 이 `miniv_ai` Service를 직접 호출해 통신하는 클라이언트 애플리케이션을 개발해보도록 하겠습니다.
+
+## Links
+
+[MINI-V Android Intro](https://dev-lr.com/blog/260522-miniv-android-intro)
+
+[MINI-V Android AIDL Service](https://dev-lr.com/blog/260606-miniv-android-aidl-service)
+
+[MINI-V Android Service Test](https://dev-lr.com/blog/260608-miniv-android-service-test)
