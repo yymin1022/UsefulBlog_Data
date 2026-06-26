@@ -64,17 +64,17 @@ jobs:
           if [ "${{ github.event.inputs.file_path }}" != "" ]; then
             # Manually purge specified file
             echo "Manually purging cache for ${{ github.event.inputs.file_path }}"
-            curl -s "https://purge.jsdelivr.net/gh/yymin1022/Blog_LR_Data@master/${{ github.event.inputs.file_path }}"
+            curl -s "https://purge.jsdelivr.net/gh/yymin1022/UsefulBlog_Data@master/${{ github.event.inputs.file_path }}"
           else
             # Purge auto-detected changed files
             for file in ${{ steps.changed-files.outputs.all_changed_files }}; do
               echo "Purging cache for $file"
-              curl -s "https://purge.jsdelivr.net/gh/yymin1022/Blog_LR_Data@master/$file"
+              curl -s "https://purge.jsdelivr.net/gh/yymin1022/UsefulBlog_Data@master/$file"
             done
             # Always purge posts.json cache if it was updated
             if [ "$POSTS_JSON_UPDATED" = "true" ]; then
               echo "Purging cache for posts.json"
-              curl -s "https://purge.jsdelivr.net/gh/yymin1022/Blog_LR_Data@master/posts.json"
+              curl -s "https://purge.jsdelivr.net/gh/yymin1022/UsefulBlog_Data@master/posts.json"
             fi
           fi
 
