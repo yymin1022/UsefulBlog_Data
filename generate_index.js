@@ -1,12 +1,22 @@
 const fs = require('fs');
 const path = require('path');
 
-const CATEGORIES = ['blog', 'project', 'solving', 'about'];
+const CATEGORIES = ['blog', 'solving', 'about'];
 const DATA_DIR = __dirname;
+
+let existingProjects = [];
+try {
+  const existingData = JSON.parse(fs.readFileSync(path.join(DATA_DIR, 'posts.json'), 'utf8'));
+  if (Array.isArray(existingData.project)) {
+    existingProjects = existingData.project;
+  }
+} catch (e) {
+  // If posts.json does not exist or cannot be parsed, fallback to empty array
+}
 
 const posts = {
   blog: [],
-  project: [],
+  project: existingProjects,
   solving: [],
   about: []
 };

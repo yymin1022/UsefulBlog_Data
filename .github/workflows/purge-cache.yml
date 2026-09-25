@@ -13,6 +13,7 @@ on:
       - '**/*.jpg'
       - '**/*.jpeg'
       - '**/*.gif'
+      - '*.json'
   workflow_dispatch:
     inputs:
       file_path:
@@ -76,5 +77,7 @@ jobs:
               echo "Purging cache for posts.json"
               curl -s "https://purge.jsdelivr.net/gh/yymin1022/UsefulBlog_Data@master/posts.json"
             fi
+            echo "Purging cache for short_url.json"
+            curl -s "https://purge.jsdelivr.net/gh/yymin1022/UsefulBlog_Data@master/short_url.json"
           fi
 
