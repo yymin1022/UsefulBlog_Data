@@ -380,7 +380,7 @@
     {
       "postID": "260901-taximeter-ios",
       "postTitle": "택시미터기 iOS",
-      "postDate": "Sep 01, 2026",
+      "postDate": "Sep 2026",
       "postTag": [
         "iOS",
         "Swift"
@@ -391,7 +391,7 @@
     {
       "postID": "260802-usefulblog-android",
       "postTitle": "UsefulBlog Android",
-      "postDate": "Aug 02, 2026",
+      "postDate": "Aug 2026",
       "postTag": [
         "Android",
         "Kotlin"
@@ -402,7 +402,7 @@
     {
       "postID": "260801-usefulblog-web",
       "postTitle": "UsefulBlog Web",
-      "postDate": "Aug 01, 2026",
+      "postDate": "Aug 2026",
       "postTag": [
         "Next.js",
         "TypeScript",
@@ -414,7 +414,7 @@
     {
       "postID": "260701-taximeter-android",
       "postTitle": "택시미터기 Android",
-      "postDate": "Jul 01, 2026",
+      "postDate": "Jul 2026",
       "postTag": [
         "Android",
         "Kotlin"
@@ -425,7 +425,7 @@
     {
       "postID": "251201-taximeter-kmp",
       "postTitle": "택시미터기 KMP",
-      "postDate": "Dec 01, 2025",
+      "postDate": "Dec 2025",
       "postTag": [
         "KMP",
         "Kotlin",
@@ -437,7 +437,7 @@
     {
       "postID": "250301-cecom4cut",
       "postTitle": "CECOM4CUT",
-      "postDate": "Mar 01, 2025",
+      "postDate": "Mar 2025",
       "postTag": [
         "Python",
         "OpenCV"
@@ -448,7 +448,7 @@
     {
       "postID": "241201-taximeter-flutter",
       "postTitle": "택시미터기 Flutter",
-      "postDate": "Dec 01, 2024",
+      "postDate": "Dec 2024",
       "postTag": [
         "Flutter",
         "Dart"
@@ -459,7 +459,7 @@
     {
       "postID": "240801-cecom-web",
       "postTitle": "CECOM Web",
-      "postDate": "Aug 01, 2024",
+      "postDate": "Aug 2024",
       "postTag": [
         "Web",
         "React",
@@ -471,7 +471,7 @@
     {
       "postID": "240601-peeper",
       "postTitle": "PEEPER",
-      "postDate": "Jun 01, 2024",
+      "postDate": "Jun 2024",
       "postTag": [
         "Android",
         "Kotlin"
@@ -482,7 +482,7 @@
     {
       "postID": "240301-vridge",
       "postTitle": "Vridge",
-      "postDate": "Mar 01, 2024",
+      "postDate": "Mar 2024",
       "postTag": [
         "Android",
         "Kotlin"
@@ -493,7 +493,7 @@
     {
       "postID": "231202-freshroute",
       "postTitle": "FreshRoute",
-      "postDate": "Dec 02, 2023",
+      "postDate": "Dec 2023",
       "postTag": [
         "Android",
         "Kotlin"
@@ -504,7 +504,7 @@
     {
       "postID": "231201-socdoc",
       "postTitle": "SOCDOC",
-      "postDate": "Dec 01, 2023",
+      "postDate": "Dec 2023",
       "postTag": [
         "Android",
         "Kotlin"
@@ -515,7 +515,7 @@
     {
       "postID": "231001-greendev",
       "postTitle": "GreenDev",
-      "postDate": "Oct 01, 2023",
+      "postDate": "Oct 2023",
       "postTag": [
         "Android",
         "Kotlin"
@@ -526,7 +526,7 @@
     {
       "postID": "210718-kakao-emoticon-to-telegram-sticker",
       "postTitle": "카카오 이모티콘 텔레그램 스티커 컨버터",
-      "postDate": "Jul 18, 2021",
+      "postDate": "Jul 2021",
       "postTag": [
         "Python",
         "Telegram"
@@ -537,7 +537,7 @@
     {
       "postID": "210729-wa-api",
       "postTitle": "와.. API 서버",
-      "postDate": "Jul 29, 2020",
+      "postDate": "Jul 2020",
       "postTag": [
         "Python",
         "API",
@@ -550,7 +550,7 @@
     {
       "postID": "201004-soul-rest",
       "postTitle": "Soul Rest",
-      "postDate": "Oct 04, 2020",
+      "postDate": "Oct 2020",
       "postTag": [
         "Android",
         "Java"
@@ -561,7 +561,7 @@
     {
       "postID": "200902-synology-downloadstation-client",
       "postTitle": "Synology DownloadStation 클라이언트",
-      "postDate": "Sep 02, 2020",
+      "postDate": "Sep 2020",
       "postTag": [
         "Python",
         "PyQT5"
@@ -572,7 +572,7 @@
     {
       "postID": "200804-stone-manager",
       "postTitle": "STONE Manager",
-      "postDate": "Aug 04, 2020",
+      "postDate": "Aug 2020",
       "postTag": [
         "Java",
         "Swing",
@@ -584,7 +584,7 @@
     {
       "postID": "191027-always-on-display",
       "postTitle": "Always On Display",
-      "postDate": "Oct 27, 2019",
+      "postDate": "Oct 2019",
       "postTag": [
         "Android",
         "Java"
@@ -595,7 +595,7 @@
     {
       "postID": "180127-why-are-you-here",
       "postTitle": "너 왜 거기있어",
-      "postDate": "Jan 27, 2018",
+      "postDate": "Jan 2018",
       "postTag": [
         "Android",
         "Java"
@@ -606,7 +606,7 @@
     {
       "postID": "160827-pantech-im100-keyboard",
       "postTitle": "IM-100 키보드",
-      "postDate": "Aug 27, 2016",
+      "postDate": "Aug 2016",
       "postTag": [
         "Android",
         "Port",
@@ -618,7 +618,7 @@
     {
       "postID": "160824-pantech-im100-music",
       "postTitle": "IM-100 음악 플레이어",
-      "postDate": "Aug 24, 2016",
+      "postDate": "Aug 2016",
       "postTag": [
         "Android",
         "Port",
