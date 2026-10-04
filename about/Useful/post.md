@@ -8,9 +8,9 @@ url: "Useful"
 
 [![Header](https://capsule-render.vercel.app/api?type=waving&color=164EAB&height=225&section=header&text=Dev.%20LR&fontColor=FFFFFF&fontAlign=25&fontAlignY=35&desc=T자형%20인재가%20되고싶은%201인%20개발자&descSize=20&descAlign=28&descAlignY=58&animation=twinkling)](https://github.com/yymin1022)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=yymin1022&theme=tokyonight_duo)](https://github.com/yymin1022)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=yymin1022&theme=tokyonight_duo)](https://github.com/yymin1022)
 
-[![Solved.AC](http://mazassumnida.wtf/api/v2/generate_badge?boj=yymin1022)](https://solved.ac/profile/yymin1022)
+[![Solved.AC](https://mazassumnida.wtf/api/v2/generate_badge?boj=yymin1022)](https://solved.ac/profile/yymin1022)
 
 [![committers.top Badge](https://user-badge.committers.top/south_korea_public/yymin1022.svg)](https://user-badge.committers.top/south_korea_public/yymin1022)
 
