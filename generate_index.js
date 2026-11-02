@@ -1,7 +1,7 @@
 const fs = require('fs');
 const path = require('path');
 
-const CATEGORIES = ['blog', 'solving', 'about'];
+const CATEGORIES = ['blog', 'solving', 'about', 'policy'];
 const DATA_DIR = __dirname;
 
 let existingProjects = [];
@@ -18,7 +18,8 @@ const posts = {
   blog: [],
   project: existingProjects,
   solving: [],
-  about: []
+  about: [],
+  policy: []
 };
 
 function parseFrontMatter(content) {
@@ -100,4 +101,4 @@ for (const cat of CATEGORIES) {
 }
 
 fs.writeFileSync(path.join(DATA_DIR, 'posts.json'), JSON.stringify(posts, null, 2), 'utf8');
-console.log(`Successfully generated posts.json with ${posts.blog.length} blogs, ${posts.project.length} projects, ${posts.solving.length} solving, and ${posts.about.length} about pages.`);
+console.log(`Successfully generated posts.json with ${posts.blog.length} blogs, ${posts.project.length} projects, ${posts.solving.length} solving, ${posts.about.length} about, and ${posts.policy.length} policy pages.`);

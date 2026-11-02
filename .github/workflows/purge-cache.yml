@@ -11,6 +11,7 @@ on:
       - 'project/**/*.md'
       - 'solving/**/*.md'
       - 'about/**/*.md'
+      - 'policy/**/*.md'
       - '**/*.png'
       - '**/*.jpg'
       - '**/*.jpeg'
